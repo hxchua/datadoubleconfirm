@@ -1,7 +1,7 @@
 # Data is the ink
 
-Provides datasets for data visualization, statistical analysis and modelling
-
+Provides simple datasets for data visualization, statistical analysis and modelling  
+Suitable for those starting out in data science and of course all who find the datasets useful   
 
 List of datasets along with descriptions
 ---
