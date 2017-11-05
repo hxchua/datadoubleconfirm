@@ -1,0 +1,481 @@
+Year,Event,Division,Gender,School,Name,Position,Timing(s)
+2002,100 Metres ,A,Boys,RJC,Benjamin Ang Fu Hong,1,11.14
+2002,100 Metres ,A,Boys,VJC,Teng Wei Yang Alexander,2,11.32
+2002,100 Metres ,A,Boys,RJC,Lee Weijie,3,11.49
+2002,100 Metres ,A,Boys,AJC,Tay Chi Wai Dennis,4,11.55
+2002,100 Metres ,A,Boys,NJC,Fong Zhi Guang,5,11.57
+2002,100 Metres ,A,Boys,ACJC,Shoon Ming Hui,6,11.59
+2002,100 Metres ,A,Boys,CJC,Rajbir Singh Chopra,7,11.7
+2002,100 Metres ,A,Boys,JI,Mohamed Effin Bin Jamalludin,8,12.32
+2002,200 Metres ,A,Boys,AJC,Muhd Firdaus Bin Juhari,1,22.54
+2002,200 Metres ,A,Boys,RJC,Benjamin Ang Fu Hong,2,22.8
+2002,200 Metres ,A,Boys,NJC,Fong Zhi Guang,3,23.34
+2002,200 Metres ,A,Boys,HCJC,Lim Jun Wei Joel,4,23.49
+2002,200 Metres ,A,Boys,VJC,Seow Zhixiang,5,23.49
+2002,200 Metres ,A,Boys,RJC,Lee Weijie,6,23.55
+2002,200 Metres ,A,Boys,CJC,Rajbir Singh Chopra,7,23.95
+2002,200 Metres ,A,Boys,SAJC,Chan Kok Sheng,8,24.25
+2003,100 Metres ,A,Boys,AJC,Yeo Foo Ee Gary ,1,11.47
+2003,100 Metres ,A,Boys,AJC,Tay Chi Wai Dennis,2,11.6
+2003,100 Metres ,A,Boys,HCJC,Richard Batara ,3,11.62
+2003,100 Metres ,A,Boys,AJC,Yuan Weijie,4,11.7
+2003,100 Metres ,A,Boys,JJC,Chia Cai Yao Jasper,5,11.73
+2003,100 Metres ,A,Boys,ACJC,Jiang Nanyu,6,11.74
+2003,100 Metres ,A,Boys,VJC,William Jay Effendy,7,11.77
+2003,100 Metres ,A,Boys,VJC,Koay Say Seng David,8,11.95
+2003,200 Metres ,A,Boys,HCJC,Phang Xiao Feng,1,22.39
+2003,200 Metres ,A,Boys,AJC,Yeo Foo Ee Gary,2,23.42
+2003,200 Metres ,A,Boys,TPJC,Ivor Koo Wei-Zheng,3,23.48
+2003,200 Metres ,A,Boys,HCJC,Chen Peng Fei,4,23.78
+2003,200 Metres ,A,Boys,NYJC,Loi Heok Kia,5,23.85
+2003,200 Metres ,A,Boys,VJC,Muhammad Uzair,6,23.95
+2003,200 Metres ,A,Boys,NJC,Lee Han Sheng,7,23.96
+2003,200 Metres ,A,Boys,VJC,Seow Zhixiang,8,49
+2004,100 Metres ,A,Boys,RJC,Tang Soon Yuen Jonah,1,11.23
+2004,100 Metres ,A,Boys,VJC,Lee Cheong Wei,2,11.26
+2004,100 Metres ,A,Boys,VJC,Lance Tan,3,11.36
+2004,100 Metres ,A,Boys,ACJC,Tang Yue Han,4,11.4
+2004,100 Metres ,A,Boys,VJC,Muhammad Amirudin,5,11.42
+2004,100 Metres ,A,Boys,JJC,Mohammad Zahari,6,11.52
+2004,100 Metres ,A,Boys,NYJC,Leok Heok Kia,7,11.63
+2004,100 Metres ,A,Boys,ACJC,Feng Siwei,8,11.66
+2004,200 Metres ,A,Boys,RJC,Tang Soon Yuen Jonah,1,22.67
+2004,200 Metres ,A,Boys,VJC,Lee Cheong Wei,2,22.94
+2004,200 Metres ,A,Boys,VJC,Muhammad Amirudin,3,23.4
+2004,200 Metres ,A,Boys,NYJC,Leok Heok Kia,4,23.46
+2004,200 Metres ,A,Boys,JJC,Mohammad Zahari,5,23.5
+2004,200 Metres ,A,Boys,HCJC,Phang Xiao Feng,6,23.5
+2004,200 Metres ,A,Boys,TPJC,Muhammad Elfi Bin Mustafa,7,23.62
+2004,200 Metres ,A,Boys,ACJC,Feng Siwei,8,24.16
+2005,100 Metres ,A,Boys,RJC,Tang Soon Yuen Jonah,1,10.88
+2005,100 Metres ,A,Boys,VJC,Muhammand Amirudin B Jamal,2,11.02
+2005,100 Metres ,A,Boys,HCJC,Phang Xiao Feng,3,11.12
+2005,100 Metres ,A,Boys,VJC,Lance Tan,4,11.13
+2005,100 Metres ,A,Boys,RJC,Ng Jia Yuan,5,11.2
+2005,100 Metres ,A,Boys,TPJC,Muhammad Elfi Bin Mustafa,6,11.4
+2005,100 Metres ,A,Boys,NJC,Sum Yu Cheng,7,11.41
+2005,100 Metres ,A,Boys,JJC,Muhammad Zahari,8,12.18
+2005,200 Metres ,A,Boys,RJC,Tang Soon Yuen Jonah,1,21.78
+2005,200 Metres ,A,Boys,RJC,Ng Jia Yuan,2,22.46
+2005,200 Metres ,A,Boys,VJC,Muhammand Amirudin B Jamal,3,22.72
+2005,200 Metres ,A,Boys,HCJC,Phang Xiao Feng,4,22.78
+2005,200 Metres ,A,Boys,NJC,Sum Yu Cheng,5,23.23
+2005,200 Metres ,A,Boys,TPJC,Muhammad Elfi Bin Mustafa,6,23.3
+2005,200 Metres ,A,Boys,VJC,Muhammad Salman B Mohd Khair,7,23.4
+2005,200 Metres ,A,Boys,RJC,Melvin Chong,8,23.54
+2006,100 Metres ,A,Boys,VJC,Shawn Chua,1,11.4
+2006,100 Metres ,A,Boys,RJC,Ng Jia Yuan,2,11.43
+2006,100 Metres ,A,Boys,ACJC,Tang Wen Han,3,11.51
+2006,100 Metres ,A,Boys,JJC,Muhammad Zahari,4,11.54
+2006,100 Metres ,A,Boys,IJC,Tan Tze Jung,5,11.55
+2006,100 Metres ,A,Boys,MI,Zulfadhli Hilmi ,6,11.58
+2006,100 Metres ,A,Boys,HCJC,Koh Soon Hock,7,11.59
+2006,100 Metres ,A,Boys,SAJC,Chua Yong Hwee,8,11.85
+2006,200 Metres ,A,Boys,RJC,Ng Jia Yuan,1,22.88
+2006,200 Metres ,A,Boys,TJC,Heng Kai Sheng,2,23.33
+2006,200 Metres ,A,Boys,HCJC,Koh Soon Hock,3,23.47
+2006,200 Metres ,A,Boys,TJC,Arvin Tang,4,23.68
+2006,200 Metres ,A,Boys,ACJC,Hartono Wijaya,5,23.76
+2006,200 Metres ,A,Boys,JJC,Muhammad Zahari,6,24.01
+2006,200 Metres ,A,Boys,TPJC,Lim Zi Yao Fabian,7,24.15
+2006,200 Metres ,A,Boys,ACJC,Tang Wen Han,8,24.42
+2007,100 Metres ,A,Boys,ACJC,Tang Wen Han,1,11.22
+2007,100 Metres ,A,Boys,VJC,Lim Yao Peng,2,11.3
+2007,100 Metres ,A,Boys,RJC,Goh Eng Wei,3,11.31
+2007,100 Metres ,A,Boys,MI,Zulfadhli Hilmi ,4,11.36
+2007,100 Metres ,A,Boys,RJC,Raja Kamarul Irsyad,5,11.37
+2007,100 Metres ,A,Boys,ACSI,Tee Yujin,6,11.48
+2007,100 Metres ,A,Boys,HCJC,Chan Wei Hao,7,11.54
+2007,100 Metres ,A,Boys,RJC,Stuart Lee Lin Jie,8,11.72
+2007,200 Metres ,A,Boys,TJC,Heng Kai Sheng,1,22.95
+2007,200 Metres ,A,Boys,VJC,Lim Yao Peng,2,23.25
+2007,200 Metres ,A,Boys,MI,Zulfadhli Hilmi ,3,23.42
+2007,200 Metres ,A,Boys,MI,Shalindran Sathiyanesan,4,23.46
+2007,200 Metres ,A,Boys,ACJC,Tang Wen Han,5,23.51
+2007,200 Metres ,A,Boys,RJC,Raja Kamarul Irsyad,6,23.66
+2007,200 Metres ,A,Boys,RJC,Stuart Lee Lin Jie,7,23.92
+2007,200 Metres ,A,Boys,ACJC,Joel Wei Maojie,8,24.04
+2008,100 Metres ,A,Boys,RJC,Raja Kamarul Irsyad,1,11.2
+2008,100 Metres ,A,Boys,ACSI,Tee Yujin,2,11.32
+2008,100 Metres ,A,Boys,HCJC,Leong Yuan Chang,3,11.41
+2008,100 Metres ,A,Boys,VJC,Loo Yi Hao,4,11.57
+2008,100 Metres ,A,Boys,HCJC,Chan Wei Hao,5,11.58
+2008,100 Metres ,A,Boys,ACJC,Richie Chen Yu Quan,6,11.6
+2008,100 Metres ,A,Boys,MI,Chua Wee Chao Jonathan,7,11.62
+2008,100 Metres ,A,Boys,RJC,Aaron Koh Huan Yu,8,11.65
+2008,200 Metres ,A,Boys,RJC,Raja Kamarul Irsyad,1,22.46
+2008,200 Metres ,A,Boys,MI,Shalindran Sathiyanesan,2,22.62
+2008,200 Metres ,A,Boys,ACSI,Tee Yujin,3,22.86
+2008,200 Metres ,A,Boys,HCJC,Leong Yuan Chang,4,22.9
+2008,200 Metres ,A,Boys,HCJC,Cui Naisheng,5,23.3
+2008,200 Metres ,A,Boys,RJC,Aaron Koh Huan Yu,6,23.58
+2008,200 Metres ,A,Boys,VJC,Aurthur Lim ,7,24.04
+2008,200 Metres ,A,Boys,ACJC,Ang Ren,8,24.13
+2009,100 Metres ,A,Boys,VJC,Loo Yi Hao,1,11.05
+2009,100 Metres ,A,Boys,VJC,Yang Jieyu,2,11.24
+2009,100 Metres ,A,Boys,ACJC,Ko Teck Ee,3,11.27
+2009,100 Metres ,A,Boys,NJC,Jason Tan Wei Jie,4,11.27
+2009,100 Metres ,A,Boys,CJC,Jerome Mao Youming,5,11.3
+2009,100 Metres ,A,Boys,AJC,Ng Ka Shing,6,11.37
+2009,100 Metres ,A,Boys,ACJC,Joel Wei Maojie,7,11.41
+2009,100 Metres ,A,Boys,RJC,Aaron Koh Huan Yu,8,11.49
+2009,200 Metres ,A,Boys,IJC,Jamie Ross Coates,1,22.69
+2009,200 Metres ,A,Boys,VJC,Loo Yi Hao,2,23.06
+2009,200 Metres ,A,Boys,ACJC,Ko Teck Ee,3,23.17
+2009,200 Metres ,A,Boys,HCJC,Cui Naisheng,4,23.36
+2009,200 Metres ,A,Boys,AJC,Ng Ka Shing,5,23.46
+2009,200 Metres ,A,Boys,NJC,Jason Tan Wei Jie,6,23.71
+2009,200 Metres ,A,Boys,HCJC,Lin Xunkang Clement,7,23.9
+2009,200 Metres ,A,Boys,ACSI,Patrick Lim Wei Wen,8,24.13
+2010,100 Metres ,A,Boys,RJC,Shahrir Mohd Anuar,1,10.95
+2010,100 Metres ,A,Boys,NJC,Jason Tan Wei Jie,2,11.48
+2010,100 Metres ,A,Boys,RJC,Calvin Khor Zhi Sheng,3,11.52
+2010,100 Metres ,A,Boys,HCJC,Lin Xunkang Clement,4,11.66
+2010,100 Metres ,A,Boys,VJC,Dylan Teoh Yung Tye,5,11.67
+2010,100 Metres ,A,Boys,ACJC,Alastair Tan,6,11.71
+2010,100 Metres ,A,Boys,IJC,Dennis Lim Guo Wei,7,11.78
+2010,100 Metres ,A,Boys,SAJC,Yeo Jun Yu Shawn,8,11.88
+2010,200 Metres ,A,Boys,RJC,Shahrir Mohd Anuar,1,22.59
+2010,200 Metres ,A,Boys,RJC,Seow Yeong Yang,2,22.74
+2010,200 Metres ,A,Boys,RJC,Calvin Khor Zhi Sheng,3,23.21
+2010,200 Metres ,A,Boys,HCJC,Liam Ting Wei,4,23.28
+2010,200 Metres ,A,Boys,NJC,Jason Tan Wei Jie,5,23.28
+2010,200 Metres ,A,Boys,ACJC,Alastair Tan,6,23.5
+2010,200 Metres ,A,Boys,VJC,Dylan Teoh Yung Tye,7,23.85
+2010,200 Metres ,A,Boys,NJC,Ng Wei Sheng Dominic,8,23.86
+2011,100 Metres ,A,Boys,HCJC,Tan Zong Yang,1,10.99
+2011,100 Metres ,A,Boys,HCJC,Chan Zhiyuan Donovan,2,11.03
+2011,100 Metres ,A,Boys,HCJC,Lee Hong Yi,3,11.17
+2011,100 Metres ,A,Boys,ACJC,Khairyll Amri Bin Tumadi,4,11.2
+2011,100 Metres ,A,Boys,RJC,Calvin Khor Zhi Sheng,5,11.21
+2011,100 Metres ,A,Boys,SRJC,Wong Ming,6,11.33
+2011,100 Metres ,A,Boys,CJC,Joel Low,7,11.42
+2011,100 Metres ,A,Boys,SAJC,Amar Harith,8,11.62
+2011,200 Metres ,A,Boys,HCJC,Tan Zong Yang,1,22.82
+2011,200 Metres ,A,Boys,RJC,Ng Chin Hui ,2,22.4
+2011,200 Metres ,A,Boys,HCJC,Chan Zhiyuan Donovan,3,22.45
+2011,200 Metres ,A,Boys,ACJC,R. Avinash,4,22.5
+2011,200 Metres ,A,Boys,RJC,Calvin Khor Zhi Sheng,5,22.66
+2011,200 Metres ,A,Boys,SRJC,Wong Ming,6,23.12
+2011,200 Metres ,A,Boys,ACJC,Nicholas Chan Yu Herng,7,23.14
+2011,200 Metres ,A,Boys,BV,Afiqul Adib B Zulhilmi,8,23.29
+2012,100 Metres ,A,Boys,HCJC,Chan Zhiyuan Donovan,1,10.7
+2012,100 Metres ,A,Boys,HCJC,Tan Zong Yang,2,10.92
+2012,100 Metres ,A,Boys,RJC,Toh Ren Yi Ezra,3,11.14
+2012,100 Metres ,A,Boys,MI,Muhammad Haikal Bin Ismail,4,11.29
+2012,100 Metres ,A,Boys,SRJC,Wong Ming,5,11.3
+2012,100 Metres ,A,Boys,RJC,Darren Koh Chee Yung,6,11.31
+2012,100 Metres ,A,Boys,VJC,Prince Leleon Lau,7,11.49
+2012,100 Metres ,A,Boys,AJC,Law Zer Wei Joshua,8,11.65
+2012,200 Metres ,A,Boys,HCJC,Chan Zhiyuan Donovan,1,21.75
+2012,200 Metres ,A,Boys,HCJC,Tan Zong Yang,2,22
+2012,200 Metres ,A,Boys,RJC,Ng Chin Hui ,3,22.19
+2012,200 Metres ,A,Boys,SRJC,Wong Ming,4,22.81
+2012,200 Metres ,A,Boys,RJC,Toh Ren Yi Ezra,5,22.83
+2012,200 Metres ,A,Boys,ACSI,Dillon Wee Xing Yu,6,23.37
+2012,200 Metres ,A,Boys,ACJC,Nicholas Chan Yu Herng,7,23.47
+2012,200 Metres ,A,Boys,AJC,Law Zer Wei Joshua,8,23.57
+2013,100 Metres ,A,Boys,AIS,V S Mohamed Jawhardeen,1,10.79
+2013,100 Metres ,A,Boys,RJC,Toh Ren Yi Ezra,2,10.99
+2013,100 Metres ,A,Boys,VJC,Prince Leleon Lau,3,11.17
+2013,100 Metres ,A,Boys,ACJC,Clement Chan Zi Yang,4,11.29
+2013,100 Metres ,A,Boys,HCJC,Raymond Scott Lee Chian Hoong,5,11.32
+2013,100 Metres ,A,Boys,TPJC,Poh Zhi Kang Shawn,6,11.4
+2013,100 Metres ,A,Boys,AJC,Zachery Tan Ven Xiang,7,11.48
+2013,100 Metres ,A,Boys,ACJC,Wayne Yap Wen Xuan,8,11.56
+2013,200 Metres ,A,Boys,AIS,V S Mohamed Jawhardeen,1,21.83
+2013,200 Metres ,A,Boys,RJC,Toh Ren Yi Ezra,2,22.47
+2013,200 Metres ,A,Boys,ACJC,Clement Chan Zi Yang,3,22.69
+2013,200 Metres ,A,Boys,ACJC,Zubin Percy Muncherji,4,22.76
+2013,200 Metres ,A,Boys,VJC,Prince Leleon Lau,5,22.91
+2013,200 Metres ,A,Boys,TPJC,Poh Zhi Kang Shawn,6,23.15
+2013,200 Metres ,A,Boys,CJC,Chua Heng Quan,7,23.41
+2013,200 Metres ,A,Boys,AJC,Jasvinder Singh,8,23.78
+2014,100 Metres ,A,Boys,RJC,Chin Yew Chung,1,11.23
+2014,100 Metres ,A,Boys,HCJC,Raymond Scott Lee Chian Hoong,2,11.36
+2014,100 Metres ,A,Boys,RJC,Ang Ding Hui ,3,11.4
+2014,100 Metres ,A,Boys,ACJC,Wang Xian Yang Jerrel ,4,11.42
+2014,100 Metres ,A,Boys,ACSI,Ong Kah Yong Timothy,5,11.53
+2014,100 Metres ,A,Boys,TPJC,Poh Zhi Kang Shawn,6,11.55
+2014,100 Metres ,A,Boys,SAJC,Quah Jia Yong,7,11.65
+2014,100 Metres ,A,Boys,CJC,Chan Zhe Ying,8,11.81
+2014,200 Metres ,A,Boys,ACJC,Zubin Percy Muncherji,1,22.32
+2014,200 Metres ,A,Boys,SAJC,Quah Jia Yong,2,23.24
+2014,200 Metres ,A,Boys,TPJC,Poh Zhi Kang Shawn,3,23.41
+2014,200 Metres ,A,Boys,RJC,Chin Yew Chung,4,23.42
+2014,200 Metres ,A,Boys,ACSI,Mitchell TehYee Cher,5,23.47
+2014,200 Metres ,A,Boys,NJC,Koo Kai Siang,6,23.81
+2014,200 Metres ,A,Boys,HCJC,Chua Cheng Tat,7,24.01
+2014,200 Metres ,A,Boys,ACSI,Ong Kah Yong Timothy,8,25.88
+2015,100 Metres ,A,Boys,MI,Muhammad Haikal Bin Ismail,1,11.01
+2015,100 Metres ,A,Boys,RJC,Chin Yew Chung,2,11.18
+2015,100 Metres ,A,Boys,ACSI,Ong Kah Yong Timothy,3,11.27
+2015,100 Metres ,A,Boys,HCJC,Chua Cheng Tat,4,11.42
+2015,100 Metres ,A,Boys,HCJC,Elgene Chng Junyuan,5,11.54
+2015,100 Metres ,A,Boys,YJC,Muhammad Mirza B Mohtar,6,11.6
+2015,100 Metres ,A,Boys,RJC,Lee Jun Lei,7,11.62
+2015,100 Metres ,A,Boys,RJC,Poy Meng Han Ian,8,11.63
+2015,200 Metres ,A,Boys,MI,Muhammad Haikal Bin Ismail,1,22.51
+2015,200 Metres ,A,Boys,RJC,Chin Yew Chung,2,22.89
+2015,200 Metres ,A,Boys,ACSI,Ong Kah Yong Timothy,3,23.2
+2015,200 Metres ,A,Boys,ACSI,Mitchell TehYee Cher,4,23.2
+2015,200 Metres ,A,Boys,HCJC,Benedict Tjoeng Ruiyan,5,23.31
+2015,200 Metres ,A,Boys,HCJC,Chua Cheng Tat,6,23.33
+2015,200 Metres ,A,Boys,SAJC,Kam Russell I-Zheng,7,23.51
+2015,200 Metres ,A,Boys,RJC,Lee Jun Lei,8,23.53
+2016,100 Metres ,A,Boys,CJC,S Shahmee Ruzain,1,11.22
+2016,100 Metres ,A,Boys,RJC,Ryan James Tan Wei Ren,2,11.35
+2016,100 Metres ,A,Boys,RJC,Prem Sathaimoorthy,3,11.38
+2016,100 Metres ,A,Boys,RJC,Joshua Yap Sae Yong,4,11.42
+2016,100 Metres ,A,Boys,SAJC,Mun Yit Hung Nigel,5,11.44
+2016,100 Metres ,A,Boys,TPJC,Lim En Sheng Merlin,6,11.61
+2016,100 Metres ,A,Boys,ACJC,Teo Wei Yang Elroy,7,11.63
+2016,100 Metres ,A,Boys,HCJC,Elgene Chng Junyuan,8,12.27
+2016,200 Metres ,A,Boys,CJC,S Shahmee Ruzain,1,22.49
+2016,200 Metres ,A,Boys,SAJC,Dinesh Hulbert S/O Anthony Lawrence,2,22.76
+2016,200 Metres ,A,Boys,HCJC,Elgene Chng Junyuan,3,22.93
+2016,200 Metres ,A,Boys,SAJC,Mun Yit Hung Nigel,4,23.03
+2016,200 Metres ,A,Boys,RJC,Ryan James Tan Wei Ren,5,23.51
+2016,200 Metres ,A,Boys,RJC,Ringo Han Jia Ming,6,23.52
+2016,200 Metres ,A,Boys,RJC,Joshua Yap Sae Yong,7,23.71
+2016,200 Metres ,A,Boys,SSP,Rayhan B Fairuz,8,23.92
+2002,100 Metres ,A,Girls,NJC,Sheena Hu Min'en,1,12.96
+2002,100 Metres ,A,Girls,AJC,San Thit Oo,2,13.18
+2002,100 Metres ,A,Girls,VJC,Kong Jiayi Lorraine,3,13.25
+2002,100 Metres ,A,Girls,NJC,Goh Xu Zi Anastasia,4,13.29
+2002,100 Metres ,A,Girls,SRJC,Tan Yu Min,5,13.66
+2002,100 Metres ,A,Girls,AJC,Kok Chuan Tin,6,13.69
+2002,100 Metres ,A,Girls,PJC,Quek Si Min,7,14
+2002,100 Metres ,A,Girls,RJC,Yap Zhu Li,8,14.02
+2002,200 Metres ,A,Girls,NJC,Goh Xu Zi Anastasia,1,26.75
+2002,200 Metres ,A,Girls,NJC,Sheena Hu Min'en,2,27.14
+2002,200 Metres ,A,Girls,NJC,Teo Sok Li Benita,3,27.33
+2002,200 Metres ,A,Girls,AJC,San Thit Oo,4,27.38
+2002,200 Metres ,A,Girls,AJC,Neo Sok Hong,5,27.54
+2002,200 Metres ,A,Girls,VJC,Kong Jiayi Lorraine,6,27.93
+2002,200 Metres ,A,Girls,RJC,Liu Meifang,7,28.78
+2002,200 Metres ,A,Girls,RJC,Yap Zhu Li,8,28.92
+2003,100 Metres ,A,Girls,NJC,Goh Xu Zi Anastasia,1,13.06
+2003,100 Metres ,A,Girls,AJC,San Thit Oo,2,13.34
+2003,100 Metres ,A,Girls,CJC,Tan Toon Cheng,3,13.71
+2003,100 Metres ,A,Girls,ACJC,Pang Cui-Ying Maria Judith,4,13.97
+2003,100 Metres ,A,Girls,VJC,Yeo Siew Fen Josephine,5,14.1
+2003,100 Metres ,A,Girls,VJC,Jacqueline-Ann French,6,14.2
+2003,100 Metres ,A,Girls,NJC,Lai Xiu Min Jessica,7,14.31
+2003,100 Metres ,A,Girls,JJC,Yang Xueting,8,14.44
+2003,200 Metres ,A,Girls,NJC,Goh Xu Zi Anastasia,1,26.4
+2003,200 Metres ,A,Girls,AMK,Cheng Pei En,2,27.14
+2003,200 Metres ,A,Girls,AJC,San Thit Oo,3,27.26
+2003,200 Metres ,A,Girls,NJC,Teo Sok Li Benita,4,27.39
+2003,200 Metres ,A,Girls,AJC,Neo Sok Hong,5,27.75
+2003,200 Metres ,A,Girls,HCJC,Tan Xiaoying,6,28.25
+2003,200 Metres ,A,Girls,RJC,Liu Meifang,7,28.45
+2003,200 Metres ,A,Girls,ACJC,Kwa Yan Ling Andrea,8,28.75
+2004,100 Metres ,A,Girls,NJC,Lee Yan Lin,1,12.59
+2004,100 Metres ,A,Girls,NJC,Ann Siao Mei,2,12.68
+2004,100 Metres ,A,Girls,VJC,Helen Scida,3,12.86
+2004,100 Metres ,A,Girls,HCJC,Leong Su Ying,4,13.23
+2004,100 Metres ,A,Girls,NJC,Lai Xiu Min Jessica,5,13.56
+2004,100 Metres ,A,Girls,TJC,Roshini Mohan Krishnan,6,13.63
+2004,100 Metres ,A,Girls,VJC,Loke Wei Yolk,7,13.8
+2004,100 Metres ,A,Girls,ACJC,Pang Cui-Ying Maria Judith,8,13.93
+2004,200 Metres ,A,Girls,NJC,Lee Yan Lin,1,25.82
+2004,200 Metres ,A,Girls,CJC,Teo Bao Ling Amanda,2,26.49
+2004,200 Metres ,A,Girls,VJC,Helen Scida,3,26.64
+2004,200 Metres ,A,Girls,NJC,Choo Sze-Min Amanda,4,27.41
+2004,200 Metres ,A,Girls,HCJC,Leong Su Ying,5,27.77
+2004,200 Metres ,A,Girls,NJC,Lai Xiu Min Jessica,6,28.53
+2004,200 Metres ,A,Girls,VJC,Jacqueline-Ann French,7,29.28
+2004,200 Metres ,A,Girls,ACJC,Kwok Ying Christine,8,77.99
+2005,100 Metres ,A,Girls,NJC,Lee Yan Lin,1,12.73
+2005,100 Metres ,A,Girls,NJC,Ann Siao Mei,2,12.91
+2005,100 Metres ,A,Girls,HCJC,Leong Su Ying,3,13.36
+2005,100 Metres ,A,Girls,RJC,Wong Kit Fei,4,13.37
+2005,100 Metres ,A,Girls,IJC,Lehana Guo,5,13.54
+2005,100 Metres ,A,Girls,VJC,Helen Scida,6,13.59
+2005,100 Metres ,A,Girls,RJC,Ang Xiao Hong Joella,7,13.67
+2005,100 Metres ,A,Girls,TPJC,Genever Tan Bee Lu,8,13.67
+2005,200 Metres ,A,Girls,NJC,Lee Yan Lin,1,25.61
+2005,200 Metres ,A,Girls,CJC,Teo Bao Ling Amanda,2,25.97
+2005,200 Metres ,A,Girls,NJC,Ann Siao Mei,3,26.05
+2005,200 Metres ,A,Girls,HCJC,Leong Su Ying,4,27.04
+2005,200 Metres ,A,Girls,IJC,Lehana Guo,5,27.41
+2005,200 Metres ,A,Girls,RJC,Ang Xiao Hong Joella,6,27.84
+2005,200 Metres ,A,Girls,VJC,Loke Wei Yolk,7,28.73
+2005,200 Metres ,A,Girls,VJC,Helen Scida,8,28.8
+2006,100 Metres ,A,Girls,RJC,Ang Xiao Hong Joella,1,13.1
+2006,100 Metres ,A,Girls,ACJC,Tioh Shu Yuan Cassondra,2,13.2
+2006,100 Metres ,A,Girls,NJC,Yeo Hui En Sharon,3,13.22
+2006,100 Metres ,A,Girls,TJC,Cherrin Wang Pei Qi,4,13.25
+2006,100 Metres ,A,Girls,IJC,Lehana Guo,5,13.26
+2006,100 Metres ,A,Girls,NJC,Ang Yu Jia,6,13.27
+2006,100 Metres ,A,Girls,TPJC,Genever Tan Bee Lu,7,15.54
+2006,100 Metres ,A,Girls,VJC,Jesslyn Low,8,15.54
+2006,200 Metres ,A,Girls,CJC,Teo Bao Ling Amanda,1,26.4
+2006,200 Metres ,A,Girls,RJC,Ang Xiao Hong Joella,2,26.75
+2006,200 Metres ,A,Girls,ACJC,Tioh Shu Yuan Cassondra,3,27.1
+2006,200 Metres ,A,Girls,IJC,Lehana Guo,4,27.61
+2006,200 Metres ,A,Girls,NJC,Ang Yu Jia,5,27.82
+2006,200 Metres ,A,Girls,RJC,Lee Yan Fen,6,28.07
+2006,200 Metres ,A,Girls,NJC,Tan Ee Woon Esther,7,28.47
+2006,200 Metres ,A,Girls,ACJC,Tan Hui Ping,8,28.72
+2007,100 Metres ,A,Girls,RJC,Lee Yan Fen,1,13.13
+2007,100 Metres ,A,Girls,HCJC,Lim Shanru,2,13.16
+2007,100 Metres ,A,Girls,NJC,Ang Yu Jia,3,13.23
+2007,100 Metres ,A,Girls,HCJC,Tan Xue Ling Amanda,4,13.24
+2007,100 Metres ,A,Girls,RJC,Sabrina Ng Livia,5,13.26
+2007,100 Metres ,A,Girls,HCJC,Hsien Li Jie,6,13.33
+2007,100 Metres ,A,Girls,VJC,Ma Hua Jia,7,13.55
+2007,100 Metres ,A,Girls,ACJC,Tan Hui Ping,8,13.64
+2007,200 Metres ,A,Girls,RJC,Divya Moorthy,1,26.76
+2007,200 Metres ,A,Girls,NJC,Shalom Danielle See,2,27.21
+2007,200 Metres ,A,Girls,MI,Melanie Francis Lansakara,3,27.47
+2007,200 Metres ,A,Girls,NJC,Ang Yu Jia,4,27.67
+2007,200 Metres ,A,Girls,RJC,Lee Yan Fen,5,27.9
+2007,200 Metres ,A,Girls,CJC,Ang Peixuan,6,28.11
+2007,200 Metres ,A,Girls,NJC,Tan Ee Woon Esther,7,28.39
+2007,200 Metres ,A,Girls,HCJC,Allison Tan Pek Yong,8,28.49
+2008,100 Metres ,A,Girls,RJC,Joanna Chng,1,12.86
+2008,100 Metres ,A,Girls,HCJC,Chong Jia Yuan,2,13.01
+2008,100 Metres ,A,Girls,HCJC,Tan Xue Ling Amanda,3,13.33
+2008,100 Metres ,A,Girls,HCJC,Lee Jia Wen,4,13.57
+2008,100 Metres ,A,Girls,VJC,Cerigwen Ng,5,13.63
+2008,100 Metres ,A,Girls,RJC,Quey Li Zi Amanda,6,13.71
+2008,100 Metres ,A,Girls,NJC,Ng Wan Ching,7,13.93
+2008,100 Metres ,A,Girls,MJC,Nada Bte Ahmad Khalid,8,14.16
+2008,200 Metres ,A,Girls,RJC,Joanna Chng,1,26.6
+2008,200 Metres ,A,Girls,NJC,Shalom Danielle See,2,26.66
+2008,200 Metres ,A,Girls,HCJC,Chong Jia Yuan,3,26.7
+2008,200 Metres ,A,Girls,CJC,Ang Peixuan,4,27.52
+2008,200 Metres ,A,Girls,HCJC,Hsien Li Jie,5,27.99
+2008,200 Metres ,A,Girls,HCJC,Allison Tan Pek Yong,6,28.14
+2008,200 Metres ,A,Girls,AJC,Koh Shu Min Clarissa,7,29.14
+2008,200 Metres ,A,Girls,NJC,Liow Xin Ru,8,29.3
+2009,100 Metres ,A,Girls,RJC,Joanna Chng,1,12.51
+2009,100 Metres ,A,Girls,HCJC,Chong Jia Yuan,2,12.68
+2009,100 Metres ,A,Girls,TJC,Fok Yan Ting Melissa,3,13
+2009,100 Metres ,A,Girls,HCJC,Lee Jia Wen,4,13.11
+2009,100 Metres ,A,Girls,VJC,Grace Ng,5,13.2
+2009,100 Metres ,A,Girls,VJC,Tan Shi Ying,6,13.32
+2009,100 Metres ,A,Girls,ACJC,Tyanne Choo,7,13.47
+2009,100 Metres ,A,Girls,PLMGS,Samantha Ong May Yen,8,13.69
+2009,200 Metres ,A,Girls,RJC,Fiona Ng Yee Lin,1,25.88
+2009,200 Metres ,A,Girls,HCJC,Chong Jia Yuan,2,26.19
+2009,200 Metres ,A,Girls,RJC,Joanna Chng,3,26.37
+2009,200 Metres ,A,Girls,TJC,Fok Yan Ting Melissa,4,27.46
+2009,200 Metres ,A,Girls,VJC,Tan Shi Ying,5,28.17
+2009,200 Metres ,A,Girls,HCJC,Samantha Joanne Raeburn,6,28.31
+2009,200 Metres ,A,Girls,RJC,Emily Pauline Nickles,7,28.48
+2009,200 Metres ,A,Girls,NJC,Chua Si Qi Jacqueline,8,28.72
+2010,100 Metres ,A,Girls,AJC,Chang Ping Dorcas,1,13.08
+2010,100 Metres ,A,Girls,HCJC,Sarah Lee Mei En,2,13.16
+2010,100 Metres ,A,Girls,HCJC,Tan Ching Yi,3,13.19
+2010,100 Metres ,A,Girls,TJC,Fok Yan Ting Melissa,4,13.25
+2010,100 Metres ,A,Girls,VJC,Grace Ng,5,13.37
+2010,100 Metres ,A,Girls,ACJC,Dewi Tiara Ongkowidjaja,6,13.52
+2010,100 Metres ,A,Girls,CJC,Moneteiro Amelia Yuting,7,13.59
+2010,100 Metres ,A,Girls,HCJC,Bella Koh Suan Lin,8,13.72
+2010,200 Metres ,A,Girls,RJC,Fiona Ng Yee Lin,1,26.63
+2010,200 Metres ,A,Girls,HCJC,Tan Ching Yi,2,27.04
+2010,200 Metres ,A,Girls,AJC,Chang Ping Dorcas,3,27.18
+2010,200 Metres ,A,Girls,TJC,Fok Yan Ting Melissa,4,27.72
+2010,200 Metres ,A,Girls,CJC,Moneteiro Amelia Yuting,5,28.01
+2010,200 Metres ,A,Girls,VJC,Grace Ng,6,28.03
+2010,200 Metres ,A,Girls,NJC,Chua Si Qi Jacqueline,7,28.62
+2010,200 Metres ,A,Girls,NJC,Tay Ying Ying,8,29.23
+2011,100 Metres ,A,Girls,SSP,Liang Wei,1,12.74
+2011,100 Metres ,A,Girls,HCJC,Sarah Lee Mei En,2,12.97
+2011,100 Metres ,A,Girls,HCJC,Tan Ching Yi,3,13.05
+2011,100 Metres ,A,Girls,NJC,Maria Grazia Lee Shu En,4,13.35
+2011,100 Metres ,A,Girls,RJC,Ko Shi Min Sharon,5,13.38
+2011,100 Metres ,A,Girls,HCJC,Yeo Ke Qing Sabrina,6,13.42
+2011,100 Metres ,A,Girls,ACJC,Tan Yi Wen Amanda,7,13.5
+2011,100 Metres ,A,Girls,IJC,Mahirah Bte Mustaffa,8,13.58
+2011,200 Metres ,A,Girls,HCJC,Tan Ching Yi,1,26.07
+2011,200 Metres ,A,Girls,SSP,Liang Wei,2,26.26
+2011,200 Metres ,A,Girls,RJC,Ko Shi Min Sharon,3,27.29
+2011,200 Metres ,A,Girls,HCJC,Yeo Ke Qing Sabrina,4,27.67
+2011,200 Metres ,A,Girls,RJC,Wong Ying Yi Kristie,5,27.97
+2011,200 Metres ,A,Girls,ACJC,Ng Wan Leng,6,28.03
+2011,200 Metres ,A,Girls,ACJC,Tan Yi Wen Amanda,7,28.43
+2011,200 Metres ,A,Girls,NJC,Maria Grazia Lee Shu En,8,31.86
+2012,100 Metres ,A,Girls,HCJC,Goh Hui Yu Lynette,1,12.72
+2012,100 Metres ,A,Girls,RJC,Koh Hui Fang Rachel,2,12.97
+2012,100 Metres ,A,Girls,NJC,Maria Grazia Lee Shu En,3,13.21
+2012,100 Metres ,A,Girls,ACJC,Ching Hui Xian Jessica,4,13.28
+2012,100 Metres ,A,Girls,RJC,Ko Shi Min Sharon,5,13.42
+2012,100 Metres ,A,Girls,RJC,Joy Chia Jing Xian,6,13.48
+2012,100 Metres ,A,Girls,HCJC,Shermaine Yeo Xuewei,7,13.66
+2012,100 Metres ,A,Girls,HCJC,Yeo Ke Qing Sabrina,8,15.07
+2012,200 Metres ,A,Girls,SRJC,Ruelia Nesaranjini D/O R R,1,25.79
+2012,200 Metres ,A,Girls,HCJC,Goh Hui Yu Lynette,2,25.84
+2012,200 Metres ,A,Girls,RJC,Koh Hui Fang Rachel,3,26.68
+2012,200 Metres ,A,Girls,RJC,Joy Chia Jing Xian,4,27.6
+2012,200 Metres ,A,Girls,ACJC,Ching Hui Xian Jessica,5,27.63
+2012,200 Metres ,A,Girls,NJC,Maria Grazia Lee Shu En,6,27.8
+2012,200 Metres ,A,Girls,ACSI,Jean Chiew Ling,7,28.15
+2012,200 Metres ,A,Girls,HCJC,Shermaine Yeo Xuewei,8,28.34
+2013,100 Metres ,A,Girls,HCJC,Goh Hui Yu Lynette,1,12.51
+2013,100 Metres ,A,Girls,RJC,Wong Min Jannah,2,12.65
+2013,100 Metres ,A,Girls,RJC,Koh Hui Fang Rachel,3,13.02
+2013,100 Metres ,A,Girls,CJC,Wong Chu Wen Denise,4,13.55
+2013,100 Metres ,A,Girls,RJC,Joy Chia Jing Xian,5,13.46
+2013,100 Metres ,A,Girls,VJC,Diana Basil Heng Li Jiao,6,13.48
+2013,100 Metres ,A,Girls,HCJC,Tey Yu Xuan Sheryl,7,13.58
+2013,100 Metres ,A,Girls,ACSI,Yeow Ing Yee,8,13.9
+2013,200 Metres ,A,Girls,HCJC,Goh Hui Yu Lynette,1,26.13
+2013,200 Metres ,A,Girls,SRJC,Ruelia Nesaranjini D/O R R,2,26.63
+2013,200 Metres ,A,Girls,RJC,Koh Hui Fang Rachel,3,26.72
+2013,200 Metres ,A,Girls,CJC,Wong Chu Wen Denise,4,27.56
+2013,200 Metres ,A,Girls,RJC,Joy Chia Jing Xian,5,27.72
+2013,200 Metres ,A,Girls,ACJC,Janice Soh Wei Xin,6,28.33
+2013,200 Metres ,A,Girls,HCJC,Shermaine Yeo Xuewei,7,28.56
+2013,200 Metres ,A,Girls,RJC,Liang Cui Han Jermaine,8,28.82
+2014,100 Metres ,A,Girls,RJC,Wong Min Jannah,1,12.7
+2014,100 Metres ,A,Girls,CJC,Song Ern Kimberly Ann,2,13.57
+2014,100 Metres ,A,Girls,VJC,Janine Lim Jiajia,3,13.62
+2014,100 Metres ,A,Girls,VJC,Kristin Pang Li Yun,4,13.78
+2014,100 Metres ,A,Girls,HCJC,Jeannette Lim Hui Hong,5,13.84
+2014,100 Metres ,A,Girls,HCJC,Hilda Tang Jia Ying,6,13.87
+2014,100 Metres ,A,Girls,VJC,Nur Syafiqah Bte Mohamad Sham,7,13.96
+2014,100 Metres ,A,Girls,ACSI,Chia Pei Yin Lavender,8,14.08
+2014,200 Metres ,A,Girls,HCJC,Thia Yi Yi,1,26.18
+2014,200 Metres ,A,Girls,VJC,Janine Lim Jiajia,2,27.17
+2014,200 Metres ,A,Girls,RJC,Ong Chu Yi Elizabeth Jane,3,27.67
+2014,200 Metres ,A,Girls,NJC,Ong Jia Ling,4,27.74
+2014,200 Metres ,A,Girls,CJC,Song Ern Kimberly Ann,5,27.92
+2014,200 Metres ,A,Girls,VJC,Kristin Pang Li Yun,6,27.94
+2014,200 Metres ,A,Girls,HCJC,Hilda Tang Jia Ying,7,28.21
+2014,200 Metres ,A,Girls,VJC,Zheng Yanlei ,8,28.37
+2015,100 Metres ,A,Girls,CJC,Au Yee Sin,1,12.96
+2015,100 Metres ,A,Girls,HCJC,Naomi Louise Tan,2,12.97
+2015,100 Metres ,A,Girls,ACJC,Lim Hui Qi Jerrine,3,13.2
+2015,100 Metres ,A,Girls,RJC,Laura Tan Ling Ying,4,13.22
+2015,100 Metres ,A,Girls,NJC,Chu Sin Ping Natalie,5,13.37
+2015,100 Metres ,A,Girls,SAJC,Chloe Tan Hui Yin,6,13.42
+2015,100 Metres ,A,Girls,HCJC,Jeannette Lim Hui Hong,7,13.53
+2015,100 Metres ,A,Girls,ACSI,Tan Si Wen,8,13.54
+2015,200 Metres ,A,Girls,VJC,Janine Lim Jiajia,1,26.91
+2015,200 Metres ,A,Girls,ACSI,Tan Si Wen,2,27.84
+2015,200 Metres ,A,Girls,HCJC,Claudia Sng Jia Xin,3,27.99
+2015,200 Metres ,A,Girls,HCJC,Jeannette Lim Hui Hong,4,28.09
+2015,200 Metres ,A,Girls,CCH,Zhang Jingxuan,5,28.16
+2015,200 Metres ,A,Girls,NJC,Chu Sin Ping Natalie,6,28.23
+2015,200 Metres ,A,Girls,HCJC,Hilda Tang Jia Ying,7,28.42
+2015,200 Metres ,A,Girls,VJC,Kristin Pang Li Yun,8,29
+2016,100 Metres ,A,Girls,RJC,Amirah Aljunied,1,12.87
+2016,100 Metres ,A,Girls,VJC,Yeo Hui Wen Hannah,2,13.2
+2016,100 Metres ,A,Girls,NJC,Teo Sze-Anne,3,13.22
+2016,100 Metres ,A,Girls,ACJC,Lim Hui Qi Jerrine,4,13.36
+2016,100 Metres ,A,Girls,ACSI,Delia Low Ting,5,13.41
+2016,100 Metres ,A,Girls,NJC,Chu Sin Ping Natalie,6,13.45
+2016,100 Metres ,A,Girls,RJC,Hu Juan-Ning Nicole,7,13.5
+2016,100 Metres ,A,Girls,ACJC,Alicia Lau,8,13.74
+2016,200 Metres ,A,Girls,RJC,Amirah Aljunied,1,26.29
+2016,200 Metres ,A,Girls,VJC,Yeo Hui Wen Hannah,2,27.85
+2016,200 Metres ,A,Girls,RJC,Hu Juan-Ning Nicole,3,27.94
+2016,200 Metres ,A,Girls,HCJC,Zhang Jingxuan,4,28.08
+2016,200 Metres ,A,Girls,HCJC,Audrey Sarah Tan,5,28.33
+2016,200 Metres ,A,Girls,ACSI,Delia Low Ting,6,28.51
+2016,200 Metres ,A,Girls,NJC,Chu Sin Ping Natalie,7,28.61
+2016,200 Metres ,A,Girls,DHS,Chai Yinn,8,29.02
