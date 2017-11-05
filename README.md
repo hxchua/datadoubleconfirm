@@ -15,12 +15,12 @@ List of datasets along with descriptions
 **Dataset**: passport.xlsx  
 **Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries 
 **Variables**: `Top 10 Country` (name of country with passport in Top 10), `Country` (visiting country), `Type of Visa` (visa required)  
-**Mode of data collection**: Manual
+**Mode of data collection**: Manual  
 **Source**: [Passport Index 2017](https://www.passportindex.org/comparebyPassport.php)
 
 **Dataset**: pokemon.xlsx  
 **Description**: Pokemon and their attack and defense statistics  
-**Variables**: `HP`, `Attack`, `Defense`, `Sp Atk`, `Sp Def`, `Speed`, `Total`, `	HP Percentile`, `Attack Percentile`,  `Defense Percentile`, `Sp Atk Percentile`, `Sp DefPercentile`, `Speed Percentile`, `Total Percentile`  
+**Variables**: `HP`, `Attack`, `Defense`, `Sp Atk`, `Sp Def`, `Speed`, `Total`, `	HP Percentile`, `Attack Percentile`,  `Defense Percentile`, `Sp Atk Percentile`, `Sp Def Percentile`, `Speed Percentile`, `Total Percentile`  
 **Mode of data collection**: Manual, Excel function for percentile ranking  
 **Source**: [Pokemon database](https://pokemondb.net/pokedex/all)  
 
