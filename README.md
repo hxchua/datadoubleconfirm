@@ -1,4 +1,4 @@
-# Data is the ink
+## Data is the nutrients for the soul
 
 Provides simple datasets for data visualization, statistical analysis and modelling  
 Suitable for those starting out in data science and of course all who find the datasets useful   
