@@ -6,6 +6,12 @@ Suitable for those starting out in data science and of course all who find the d
 List of datasets along with descriptions
 ---
 
+**Dataset**: FreqWordsObama.csv  
+**Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at Dec 2017)  
+**Variables**: `Year` (year of tweet) , `Word` (station name), `Count` (number of tweets containing word), `Year Volume` (Volume of tweet in the year), `Percentage` (Percentage of tweets containing word)      
+**Mode of data collection**: Twitter web scraping and text mining  
+**Source**: [Barack Obama's Twitter account](https://twitter.com/barackobama)    
+
 **Dataset**: mrtsg.csv  
 **Description**: Latitude and longitude of train (MRT/LRT) stations in Singapore (as at Jun 2017)  
 **Variables**: `OBJECTID` (id) , `STN_NAME` (station name), `STN_NO` (station number), `X` (X coord in SVY21 format), `Y` (Y coord in SVY21 format), `Latitude`, `Longitude`, `COLOR` (color of train line)    
