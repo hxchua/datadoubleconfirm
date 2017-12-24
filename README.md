@@ -1,7 +1,9 @@
 # Data is nutrients for the soul
 
 Provides simple datasets for data visualization, statistical analysis and modelling  
-Suitable for those starting out in data science and of course all who find the datasets useful   
+Suitable for those starting out in data science and of course all who find the datasets useful  
+Data visualizations can be found [here](https://public.tableau.com/profile/hx.chua#!/)  
+Tutorials/ exercises can be found [here](https://projectosyo.wix.com/datadoubleconfirm)  
 
 List of datasets along with descriptions
 ---
