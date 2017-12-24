@@ -8,7 +8,7 @@ List of datasets along with descriptions
 
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
-**Variables**: `Year` (year of tweet) , `Word` (station name), `Count` (number of tweets containing word), `Year Volume` (Volume of tweet in the year), `Percentage` (Percentage of tweets containing word)      
+**Variables**: `Year` (year of tweet) , `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (Volume of tweet in the year), `Percentage` (Percentage of tweets containing word)      
 **Mode of data collection**: Twitter web scraping and text mining  
 **Source**: [Barack Obama's Twitter account](https://twitter.com/barackobama)    
 
