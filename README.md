@@ -44,3 +44,10 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual  
 **Source**: [Singapore Athletics LIVE Results](https://tnf.sg/)  
 
+
+List of notebooks along with descriptions
+---
+
+**Notebook**: bookdepository.ipynb  
+**Description**: Python code for scraping bookdepository.com bestsellers data  
+  
