@@ -8,6 +8,12 @@ Tutorials/ exercises can be found [here](https://projectosyo.wix.com/datadoublec
 List of datasets along with descriptions
 ---
 
+**Dataset**: bookdepo.csv  
+**Description**: Raw data on bestsellers scraped from bookdepository.com (as at 10 Jan 2018)  
+**Variables**: `(blank)` (row index number) , `name` (book title), `author` (author), `rank` (bestsellers rank), `maincat` (main category), `subcat` (sub category), `rating` (rating by readers), `ratingcount` (number of readers who gave ratings), `saleprice` (discounted price), `listprice` (original price), `numofpages` (number of pages), `datepub` (date published), `isbn13` (ISBN13 number)          
+**Mode of data collection**: Web scraping    
+**Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
+
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
 **Variables**: `Year` (year of tweet) , `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)      
