@@ -15,7 +15,7 @@ List of datasets along with descriptions
 
 **Dataset**: bookdepo.csv  
 **Description**: Raw data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)  
-**Variables**: `(blank)` (row index number) , `name` (book title), `material` (book material), `author` (author), `rank` (bestsellers rank), `maincat` (main category), `subcat` (sub category), `rating` (rating by readers), `ratingcount` (number of readers who gave ratings), `saleprice` (discounted price), `listprice` (original price), `numofpages` (number of pages), `datepub` (date published), `isbn13` (ISBN13 number)          
+**Variables**: `(blank)` (row index number) , `name` (book title), `material` (book material), `author` (author), `rank` (bestsellers rank), `maincat` (main category), `subcat` (sub category), `rating` (rating by readers), `ratingcount` (number of readers who gave ratings), `saleprice` (discounted price in S$), `listprice` (original price in S$), `numofpages` (number of pages), `datepub` (date published), `isbn13` (ISBN13 number)          
 **Mode of data collection**: Web scraping    
 **Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
 
