@@ -1,0 +1,1000 @@
+SN,name,rank,maincat,subcat,rating,saleprice,listprice,datepub,isbn13,GoodreadsRateCount,BookMaterial,Author(s),PageCount
+0,Fire and Fury,1,Politics & Government,NA,4,19.8,26.98,12-Jan-18,9781408711392,"1,929",Paperback,"  Michael Wolff",336
+1,Fire and Fury,2,Politics & Government,NA,4,25.19,35.99,12-Jan-18,9781408711408,"1,929",Hardback,"  Michael Wolff",336
+2,The Barefoot Investor,3,Investment & Securities,Personal Finance,4.59,26.33,34.19,31-Jul-17,9780730324218,"2,625",Paperback,"  Scott Pape",296
+3,Fire and Fury,4,History Of The Americas,Political Science & Theory,4,34.19,39.84,12-Jan-18,9781250158062,"1,929",Hardback,"  Michael Wolff",336
+4,The Subtle Art of Not Giving a F*ck,5,Advice On Careers & Achieving Success,"Assertiveness, Motivation & Self-esteem",4.02,21.47,33.18,13-Sep-16,9780062457714,"64,910",Hardback,"  Mark Manson",224
+5,5 Ingredients - Quick & Easy Food,6,Celebrity Chefs,Quick & Easy Cooking,4.27,39.27,46.79,05-Sep-17,9780718187729,503,Hardback,"  Jamie Oliver",320
+6,Milk and Honey,7,Poetry Books,Poetry By Individual Poets,4.2,14.16,19.9,22-Sep-17,9781449474256,"123,806",Paperback,"  Rupi Kaur",208
+7,Sapiens,8,General & World History,Classical History / Classical Civilisation,4.43,14.23,17.98,15-Sep-16,9780099590088,"89,413",Paperback,"  Yuval Noah Harari",512
+8,Good Night Stories for Rebel Girls,9,Biography,General & World History,4.46,29.24,35.99,02-Mar-17,9780141986005,"4,562",Hardback,"  Elena Favilli ,   Francesca Cavallo",224
+9,The Little Book of Mindfulness,11,Coping With Stress,Popular Psychology,3.81,8.57,10.62,27-May-14,9781856753531,814,Paperback,"  Dr. Patrizia Collard",96
+10,Wonder,10,Children's Literature Studies: General,Children's Fiction,4.44,11.91,23.9,01-Mar-13,9780552565974,"440,984",Paperback,"  R. J. Palacio",320
+11,The Sun and Her Flowers,12,Poetry By Individual Poets,NA,4.2,15.84,23.38,18-Oct-17,9781471165825,"18,902",Paperback,"  Rupi Kaur",256
+12,When Breath Becomes Air,13,Memoirs,Sociology: Death & Dying,4.32,12.69,16.18,05-Jan-17,9781784701994,"178,918",Paperback,"  Paul Kalanithi",256
+13,The Handmaid's Tale,15,Contemporary Fiction,NA,4.07,13.06,22.91,29-Jun-11,9780099511663,"765,389",Paperback,"  Margaret Atwood",336
+14,Lose Weight for Good,16,Dietetics & Nutrition,Diets & Dieting,5,31.56,39.84,28-Dec-17,9781472949295,1,Hardback,"  Tom Kerridge",256
+15,Homo Deus,17,21st Century History: From C 2000 -,Social & Cultural History,4.32,15.94,17.98,22-Jun-17,9781784703936,"23,097",Paperback,"  Yuval Noah Harari",528
+16,Goodnight Stories for Rebel Girls 2,18,True Story Books,Non-Fiction,4.82,26.99,44.99,28-Feb-18,9780997895827,62,Hardback,"  Elena Favilli ,   Francesca Cavallo",224
+17,Harry Potter and the Philosopher's Stone,19,Children's Literature Studies: General,Fantasy,4.44,44.76,53.99,06-Oct-15,9781408845646,"4,907,802",Hardback,"  J. K. Rowling , Illustrated by  Jim Kay",256
+18,How to Win Friends and Influence People,19,"Social, Group Or Collective Psychology",Management: Leadership & Motivation,4.14,9.75,10.28,17-May-11,9781439199190,"324,172",Paperback,"  Dale Carnegie",304
+19,This is Going to Hurt,20,Memoirs,Medicine,4.07,18.03,30.57,07-Sep-17,9781509858613,"5,454",Hardback,"  Adam Kay",288
+20,Ready Player One,22,Contemporary Fiction,Thriller Books,4.3,13.08,23.57,05-Apr-12,9780099560432,"483,732",Paperback,"  Ernest Cline",384
+21,"Thinking, Fast and Slow",24,Cognition & Cognitive Psychology,Intelligence & Reasoning,4.09,16.03,26.89,05-Oct-12,9780141033570,"158,825",Paperback,"  Daniel Kahneman",512
+22,Lincoln in the Bardo,21,Contemporary Fiction,Historical Fiction,3.88,14.11,16.18,06-Nov-17,9781408871775,"41,110",Paperback,"  George Saunders",368
+23,Man's Search for Meaning,26,"Biography: Historical, Political & Military",Memoirs,4.33,11.63,13.26,03-Jul-17,9780807014295,"199,221",Paperback,"  Viktor E. Frankl",165
+24,The Hate U Give,18,Contemporary Fiction,Crime,4.58,11.05,14.38,15-Jun-17,9781406372151,"79,329",Paperback,"  Angie Thomas",448
+25,Fantastically Great Women Who Changed The World,29,Nonfiction History Books for Kids,People & Places,4.6,10.89,12.53,08-Sep-16,9781408876985,171,Paperback,"  Kate Pankhurst",32
+26,The Power,28,Contemporary Fiction,Thriller Books,3.92,13.59,16.18,02-Oct-17,9780670919963,"22,118",Paperback,"  Naomi Alderman",352
+27,The Little Book of Hygge,28,Professional Interior Design,Popular Psychology,3.72,16.09,18,01-Dec-16,9780241283912,"21,350",Hardback,"  Meik Wiking",288
+28,Have You Filled A Bucket Today?,25,Picture Books,PSHE,4.38,12.15,13.21,01-Oct-15,9780996099936,"3,208",Paperback,"  Carol McCloud , Illustrated by  David Messing",32
+29,Principles,31,Business Innovation,Management & Management Techniques,4.32,32.72,39.84,21-Sep-17,9781501124020,"1,026",Hardback,"  Ray Dalio",592
+60,The Power of Now,30,Comparative Religion,"Mind, Body, Spirit: Thought & Practice",4.11,14.18,26.22,01-Feb-01,9780340733509,"121,548",Paperback,"  Eckhart Tolle",224
+61,Start With Why,33,Business Strategy,Business Innovation,4.07,13.64,28.88,14-Oct-11,9780241958223,"38,894",Paperback,"  Simon Sinek",256
+62,Astrophysics for People in a Hurry,31,"Astronomy, Space & Time",Astrophysics,4.13,22.69,25.16,08-Jun-17,9780393609394,"23,519",Hardback,"  Neil Degrasse Tyson",224
+63,The Clever Guts Diet,38,Dietetics & Nutrition,"Biology, Life Sciences",4.17,12.09,26.99,18-May-17,9781780723044,767,Paperback,"  Michael Mosley , With  Tanya Borowski",288
+64,Eleanor Oliphant is Completely Fine,36,Contemporary Fiction,NA,4.32,20.96,23.38,19-May-17,9780008172114,"34,563",Hardback,"  Gail Honeyman",400
+65,Saga Volume 8,37,Space Opera,Space Opera,4.45,17.1,19.9,02-Jan-18,9781534303492,"2,150",Paperback,"  Brian K. Vaughan , By (artist)  Fiona Staples",152
+66,The Life-Changing Magic of Not Giving a F**k,36,Popular Psychology,"Assertiveness, Motivation & Self-esteem",3.49,17.83,23.38,31-Dec-15,9781784298463,"9,698",Hardback,"  Sarah Knight",224
+67,The Little Prince,39,Children's Fiction,Classic Books for Children,4.28,4.48,6.62,01-Jan-98,9781853261589,"875,256",Paperback,"  Antoine de Saint-Exupery",112
+68,Nineteen Eighty-four,40,Contemporary Fiction,Classic Books & Novels,4.14,11.21,23.57,01-Oct-08,9780141036144,"2,095,625",Paperback,"  George Orwell",336
+69,Get Your Sh*t Together,41,Personal Development,"Assertiveness, Motivation & Self-esteem",3.7,18.41,23.38,29-Dec-16,9781786484086,"2,137",Hardback,"  Sarah Knight",304
+70,The 8-Week Blood Sugar Diet,45,Diabetes,Diets & Dieting,3.92,12.15,26.99,01-Jan-16,9781780722405,"1,363",Paperback,"  Michael Mosley",271
+71,Dear Zoo,43,Baby Books,Animal Stories,4.25,9.5,12.99,08-May-07,9781416947370,"17,285",Boardbook,"  Rod Campbell",18
+72,Braving the Wilderness,44,"Social, Group Or Collective Psychology",Popular Psychology,4.24,15.58,23.38,12-Sep-17,9781785041754,"9,723",Paperback,"  Brene Brown",208
+73,A Little Life,45,Contemporary Fiction,NA,4.27,15.37,17.98,10-Mar-16,9781447294832,"90,813",Paperback,"  Hanya Yanagihara",736
+74,Call Me by Your Name,46,Contemporary Fiction,Adult & Contemporary Romance,4.28,19.2,22.57,05-May-08,9780312426781,"24,070",Paperback,"  Andre Aciman",256
+75,You Do You,51,Autobiography: General,Popular Psychology,3.85,18.63,23.38,21-Nov-17,9781787470439,20,Hardback,"  Sarah Knight",320
+76,Q And A A Day,53,Miscellaneous Items,Stationery,4.43,16.32,22.57,02-Mar-15,9780307719775,920,NA,"  Potter Style",368
+77,The Very Hungry Caterpillar,49,Picture Books,Characters,4.28,10.47,12.6,05-Mar-01,9780241003008,"309,805",Boardbook,"  Eric Carle",26
+78,Elon Musk,50,Biography: General,Biography: Business & Industry,4.25,10.47,10.78,01-Mar-16,9780753557525,"94,088",Paperback,"  Ashlee Vance",416
+79,Look Inside: Your Body,51,Activity Books,Pop-Up Books,4.64,16.48,20.84,30-Jul-14,9781409549475,111,Boardbook,"  Louie Stowell , Illustrated by  Kate Leake",14
+80,A Gentleman in Moscow,44,Contemporary Fiction,NA,4.36,13.96,16.18,02-Nov-17,9780099558781,"56,466",Paperback,"  Amor Towles",480
+81,Why We Sleep,53,"Physiological & Neuro-psychology, Biopsychology",States Of Consciousness,4.48,14.14,17.98,04-Jan-18,9780141983769,753,Paperback,"  Matthew Walker",368
+82,A Brief History Of Time,61,Popular Science,"Astronomy, Space & Time",4.12,12.94,26.89,05-Feb-15,9780857501004,"187,140",Paperback,"  Stephen Hawking",272
+83,Animal Farm,56,Contemporary Fiction,Classic Books & Novels,3.88,10.89,23.57,01-Oct-08,9780141036137,"2,069,043",Paperback,"  George Orwell",112
+84,The Alchemist,52,Contemporary Fiction,NA,3.82,9.92,11.93,15-Apr-14,9780062355300,"1,432,164",Paperback,"  Paulo Coelho",208
+85,Mindset - Updated Edition,69,Psychology,Child & Developmental Psychology,4.04,14.79,19.78,11-Apr-17,9781472139955,"38,362",Paperback,"  Carol Dweck",320
+86,The Daily Stoic,72,Popular Philosophy,Personal Development,4.44,15.39,17.98,27-Oct-16,9781781257654,"2,295",Paperback,"  Ryan Holiday ,   Stephen Hanselman",418
+87,The 4-Hour Work Week,78,Management: Leadership & Motivation,Time Management,3.84,19.15,21.58,14-Jun-13,9780091929114,"87,993",Paperback,"  Timothy Ferriss",416
+88,Medical Medium Thyroid Healing,55,Endocrinology,Health Books,4.19,30.07,39.57,07-Nov-17,9781401948368,130,Hardback,"  Anthony William",304
+89,Origin,59,Fiction Books,NA,3.84,27.61,35.99,26-Sep-17,9780593078754,"59,289",Hardback,"  Dan Brown",480
+90,Brain Games For Clever Kids,63,Handicrafts,Children's Hobby & Gaming Books,4.3,7.23,10.62,01-Oct-14,9781780552491,13,Paperback,"  Gareth Moore",192
+91,You Are a Badass,63,Advice On Careers & Achieving Success,"Assertiveness, Motivation & Self-esteem",4.02,13.28,17.98,13-Oct-16,9781473649521,"38,001",Paperback,"  Jen Sincero",256
+92,Why I'm No Longer Talking to White People About Race,54,Social & Cultural History,Social Discrimination,4.41,24.33,35.85,07-Nov-17,9781408870556,984,Hardback,"  Reni Eddo-Lodge",272
+93,The Wonderful Things You Will Be,65,Storybooks,Poetry Books for Kids,4.31,20.37,23.88,22-Sep-15,9780385376716,"1,563",Hardback,"  Emily Martin",36
+94,Rich Dad Poor Dad,57,Advice On Parenting,Personal Finance,3.97,10.13,10.62,28-Apr-17,9781612680194,"194,426",Paperback,"  Robert T. Kiyosaki",336
+95,I Know Why the Caged Bird Sings,70,Biography: General,Autobiography: General,4.19,10.28,NA,21-Apr-09,9780345514400,"288,973",Paperback,"  Maya Angelou",289
+96,Quiet,68,"Social, Group Or Collective Psychology","Self, Ego, Identity, Personality",4.04,14.67,26.89,01-Mar-13,9780141029191,"225,252",Paperback,"  Susan Cain",352
+97,The Untethered Soul,69,Cognition & Cognitive Psychology,"Self, Ego, Identity, Personality",4.27,18.57,23.84,07-Nov-07,9781572245372,"18,250",Paperback,"  Michael A. Singer",200
+98,Dungeons & Dragons Player's Handbook (Dungeons & Dragons Core Rulebooks),70,Encyclopaedias & Reference Works,Reference Works,4.55,48.62,66.33,19-Aug-14,9780786965601,"3,500",Hardback,"  Wizards of the Coast",320
+99,The Intelligent Investor,71,Finance,Investment & Securities,4.26,22.1,30.52,23-Oct-03,9780060555665,"33,902",Paperback,"  Benjamin Graham",640
+100,Harry Potter and the Philosopher's Stone - Gryffindor Edition,72,Children's Literature Studies: General,Fantasy Books for Kids,4.44,18.75,26.98,01-Jun-17,9781408883747,"4,907,802",Hardback,"  J. K. Rowling",368
+101,All the Light We Cannot See,73,Contemporary Fiction,NA,4.31,13.41,16.18,05-Jul-15,9780007548699,"569,437",Paperback,"  Anthony Doerr",544
+102,Tribe of Mentors,74,Business & Management,Management: Leadership & Motivation,4.31,23.63,30.57,21-Nov-17,9781785041853,674,Paperback,"  Timothy Ferris",624
+103,Auggie & Me: Three Wonder Stories,75,Children's Literature Studies: General,Children's Fiction,4.36,12.09,14.38,27-Aug-15,9780552574778,"12,933",Paperback,"  R. J. Palacio",400
+104,Self-Care for the Real World,76,Women's Health,Coping With Stress,3,26.15,38.44,01-Feb-18,9781786331120,1,Hardback,"  Nadia Narain ,   Katia Narain Phillips",272
+105,Harry Potter and the Chamber of Secrets,81,Children's Literature Studies: General,Fantasy Books for Kids,4.38,45.21,53.99,13-Oct-16,9781408845653,"1,989,106",Hardback,"  J. K. Rowling , Illustrated by  Jim Kay",272
+106,Grit,65,"Self, Ego, Identity, Personality",Personal Development,4.07,13.64,17.98,04-May-17,9781785040207,"23,234",Paperback,"  Angela Duckworth",352
+107,"Peaceful Parent, Happy Kids",79,Psychology: Emotions,Family & Relationships,4.26,18.99,21.25,26-Jan-13,9780399160288,"2,851",Paperback,"  Laura Markham",304
+108,The Ultimate 5:2 Diet Recipe Book,106,Diets & Dieting,NA,3.5,NA,NA,23-May-13,9781409147992,126,Paperback,"  Kate Harrison",368
+109,Mythos,92,Poetry Books,Poetry By Individual Poets,4.33,30.16,35.99,27-Oct-17,9780718188726,624,Hardback,"  Stephen Fry",432
+110,2018 Gratitude Diary,82,Stationery,NA,NA,28.45,35.99,01-Aug-17,9780648031000,0,Paperback,"  Melanie Spears",450
+111,Here We Are,83,Storybooks,NA,4.55,21.59,26.98,16-Nov-17,9780008266165,714,Hardback,"  Oliver Jeffers",48
+112,The Day the Crayons Quit,89,Children's Literature Studies: General,Picture Books,4.41,12.24,14.38,27-Jul-16,9780007513765,"31,354",Paperback,"  Drew Daywalt , Illustrated by  Oliver Jeffers",40
+113,Prisoners of Geography,79,Geopolitics,Political Geography,4.24,13.8,17.98,02-Jun-16,9781783962433,"7,597",Paperback,"  Tim Marshall",320
+114,The Fast Diet (The Original 5:2 Diet: Revised and Updated),86,Diets & Dieting,NA,3.74,12.56,14.38,18-Dec-14,9781780722375,"5,719",Paperback,"  Michael Mosley ,   Mimi Spencer",256
+115,The Lost Words,113,Picture Books,Poetry Books for Kids,4.6,25.03,35.99,04-Oct-17,9780241253588,236,Hardback,"  Robert Macfarlane ,   Jackie Morris",128
+116,The Life-Changing Magic of Tidying,89,Popular Psychology,"Assertiveness, Motivation & Self-esteem",3.78,15.35,19.78,27-May-15,9780091955106,"145,186",Paperback,"  Marie Kondo",256
+117,Ikigai,83,Oriental & Indian Philosophy,Personal Development,3.51,16.86,23.38,07-Sep-17,9781786330895,"1,423",Hardback,"  Hector Garcia ,   Francesc Miralles",208
+118,You Are a Badass at Making Money,90,Personal Finance,Advice On Careers & Achieving Success,4.07,17.42,23.38,20-Apr-17,9781473649545,"2,027",Paperback,"  Jen Sincero",288
+119,Beautiful Oops!,91,Activity Books,Pop-Up Books,4.53,15.84,21.95,23-Sep-10,9780761157281,"2,537",Boardbook,"  Barney Saltzberg",28
+120,The Four Agreements,92,Indigenous Peoples,Advice On Careers & Achieving Success,4.12,14.43,17.2,07-Nov-97,9781878424310,"114,428",Paperback,"  Don Miguel Ruiz",144
+121,Harry Potter - A History of Magic,91,Exhibition Catalogues & Specific Collections,"Bibliographies, Catalogues, Discographies",4.25,46.7,53.99,20-Oct-17,9781408890769,"4,273",Hardback,"  British Library",256
+122,Man's Search For Meaning,139,Holocaust,World War 2 Books,4.33,7.99,8.98,07-Feb-08,9781846041242,"199,221",Paperback,"  Viktor E. Frankl",160
+123,The Adventures of Dog Man 4: Dog Man and Cat Kid,96,Children's General Story Books,Adventure Books for Kids,4.55,17.33,NA,26-Dec-17,9780545935180,532,Hardback,"  Dav Pilkey",192
+124,Roald Dahl's Marvellous Joke Book,96,Classic Books for Children,Jokes & Humour,3.77,8.28,10.89,29-Aug-12,9780141340555,86,Paperback,"  Roald Dahl",128
+125,The War of Art,97,Psychology,Cognition & Cognitive Psychology,4.05,16.39,17.2,01-Nov-12,9781936891023,"39,786",Paperback,"  Steven Pressfield",165
+126,At My Table,98,Health Books,Food & Drink,4.19,33.6,46.79,21-Sep-17,9781784741631,71,Hardback,"  Nigella Lawson",288
+127,To Kill A Mockingbird,77,Contemporary Fiction,Classic Books & Novels,4.25,10.19,NA,17-Jun-15,9780099549482,"3,376,674",Paperback,"  Harper Lee",320
+128,Gordon Ramsay Ultimate Fit Food,100,Fitness & Diet,General Cookery,5,31.94,44.99,27-Dec-17,9781473652279,1,Hardback,"  Gordon Ramsay",288
+129,One Line a Day,130,Miscellaneous Items,Stationery,4.51,13.62,22.51,24-Mar-15,9780811870191,202,NA,"Created by  Chronicle Books",370
+130,The Qur'an,111,Islamic Story & History Books,Koran,4.33,12.45,17.2,02-Sep-08,9780199535958,"44,573",Paperback,"Translated by  M. a. S. Abdel Haleem",512
+131,What to Do When You Worry Too Much,103,Self-Esteem,NA,4.34,16.03,21.18,01-Sep-05,9781591473145,914,Paperback,"  Dawn Huebner , Illustrated by  Bonnie Matthews",80
+132,Lost Connections,104,Memoirs,Prose: Non-fiction,NA,25.27,30.57,11-Jan-18,9781408878682,0,Hardback,"  Johann Hari",336
+133,Five Love Languages Revised Edition,105,"Christian Aspects Of Sexuality, Gender & Relationships",Family & Relationships,4.22,18.03,21.23,12-Feb-15,9780802412706,"198,216",Paperback,"  Gary Chapman",256
+134,Women Who Run with Wolves,106,Literary Studies: General,"Folklore, Myths & Legends",4.15,11.64,11.93,01-Jan-97,9780345409874,"24,867",Paperback,"  Clarissa Pinkola Estes",584
+135,We Should All Be Feminists,101,Literary Essays,Gender Studies: Women,4.46,8.06,9,13-Mar-15,9780008115272,"71,933",Paperback,"  Chimamanda Ngozi Adichie",64
+136,A5 2018 Diary Antique Rose,73,Stationery,NA,NA,18.32,28.79,27-Jun-17,9781849499996,0,Hardback,"  Cath Kidston",192
+137,The Whole-Brain Child,109,Child & Developmental Psychology,Advice On Parenting,4.14,17.29,21.25,11-Sep-12,9780553386691,"7,193",Paperback,"  Daniel J Siegel",176
+138,The Book of Dust Volume One,123,Children's Fiction,NA,4.25,26.26,35.99,19-Oct-17,9780385604413,"16,790",Hardback,"  Philip Pullman",448
+139,Harry Potter and the Prisoner of Azkaban,110,Contemporary Fiction,Fantasy,4.53,53.36,53.99,02-Nov-17,9781408845660,"1,997,848",Hardback,"  J. K. Rowling , Illustrated by  Jim Kay",336
+140,The Body Keeps the Score,107,Abnormal Psychology,Clinical Psychology,4.61,14.94,17.98,24-Sep-15,9780141978611,"5,696",Paperback,"  Bessel A. van der Kolk",464
+141,The Alchemist,113,Contemporary Fiction,NA,3.82,11.01,11.93,01-Oct-06,9780061233845,"1,432,164",Paperback,"  Paulo Coelho , Translated by  Alan R. Clarke",208
+142,The Fat-Loss Plan,111,Health Books,Fitness & Diet,4.37,22.28,30.57,26-Dec-17,9781509836079,8,Paperback,"  Joe Wicks",240
+143,Medical Medium,115,"Complementary Therapies, Healing & Health","Spirit Guides, Angels & Channelling",4.11,18.37,23.38,10-Nov-15,9781781805367,"1,681",Paperback,"  Anthony William",392
+144,The Gifts of Imperfection,116,Popular Psychology,"Assertiveness, Motivation & Self-esteem",4.17,17.64,19.85,05-Nov-10,9781592858491,"53,690",Paperback,"  Brene Brown",160
+145,A Closed and Common Orbit,95,Adventure Books,Science Fiction,4.37,7.5,14.38,15-Jun-17,9781473621473,"9,022",Paperback,"  Becky Chambers",384
+146,Fresh India,118,Vegetarian Cookery,National & Regional Cuisine,4.53,33.08,35.99,07-Jul-16,9780241200421,91,Hardback,"  Meera Sodha",304
+147,The Secret,139,Popular Psychology,"Mind, Body & Spirit",3.63,20.84,35.52,04-Dec-06,9781847370297,"260,896",Hardback,"  Rhonda Byrne",224
+148,The Bear and The Nightingale,103,Contemporary Fiction,Fantasy,4.14,12.11,14.38,05-Oct-17,9781785031052,"25,619",Paperback,"  Katherine Arden",464
+149,A6 2018 Diary - Wells Rose,75,Stationery,NA,NA,14.04,21.59,27-Jun-17,9781787130012,0,Paperback,"  Cath Kidston",192
+150,Tools of Titans,122,Management: Leadership & Motivation,Management Decision Making,4.25,23.03,30.57,14-Dec-16,9781785041273,"10,554",Paperback,"  Timothy Ferriss",288
+151,Shoe Dog,154,Autobiography: Business & Industry,Entrepreneurship,4.44,17.78,23.38,26-Apr-16,9781471146718,"33,500",Paperback,"  Phil Knight",400
+152,One Of Us Is Lying,124,Thriller Books for Children,NA,4.06,12.62,14.38,01-Jun-17,9780141375632,"17,923",Paperback,"  Karen McManus",368
+153,The Power of Habit,125,Popular Science,Neurosciences,4.03,14.29,19.18,16-Dec-13,9781847946249,"176,524",Paperback,"  Charles Duhigg",400
+154,Giraffes Can't Dance,126,Picture Books,Children's Fiction,4.28,10.64,17.6,01-May-14,9781841215655,"16,458",Paperback,"  Giles Andreae , Illustrated by  Guy Parker-Rees",32
+155,The 13-Storey Treehouse,129,Children's General Story Books,Adventure Books for Kids,4,7.94,10.78,23-Mar-15,9781447279785,"3,805",Paperback,"  Andy Griffiths , Illustrated by  Terry Denton",256
+156,Leonardo Da Vinci,146,Biography: Arts & Entertainment,"Biography: Historical, Political & Military",4.13,35.15,53.99,17-Oct-17,9781471166761,"4,047",Hardback,"  Walter Isaacson",624
+157,7 Habits Of Highly Effective People,156,Advice On Careers & Achieving Success,NA,4.05,13.6,16.18,26-Sep-12,9781416502494,"344,802",Paperback,"  Stephen R. Covey",384
+158,Macbeth,130,Dance & Other Performing Arts,Dance & Other Performing Arts,4.23,14.95,16.2,20-Jan-14,9781107615496,46,Paperback,"  William Shakespeare , Edited by  Linzy Brady , Edited by  Dr. David James , Edited by  Rex Gibson , General editor  Vicki Wienand , General editor  Richard Andrews",200
+159,Daring Greatly,90,Management: Leadership & Motivation,Personal Development,4.24,13.91,17.98,03-Dec-15,9780241257401,"60,964",Paperback,"  Brene Brown",304
+160,Women & Power,145,Social & Cultural History,Feminism & Feminist Theory,4.24,12.27,14.38,02-Nov-17,9781788160605,"1,848",Hardback,"  Mary Beard",128
+161,Dark Matter,169,Contemporary Fiction,Thriller Books,4.1,11.77,14.38,24-Aug-17,9781447297581,"91,080",Paperback,"  Blake Crouch",416
+162,A Monk's Guide to a Clean House and Mind,134,Popular Philosophy,Zen Buddhism,3.55,7.67,8.98,02-Jan-18,9781846149696,20,Paperback,"  Shoukei Matsumoto",144
+163,The Tattooist of Auschwitz,135,Historical Fiction,NA,4.41,24.26,NA,11-Jan-18,9781785763649,202,Hardback,"  Heather Morris",288
+164,Look Inside Things That Go,151,Activity Books,Pop-Up Books,4.5,15.94,17.98,01-Nov-13,9781409550259,20,Hardback,"  Rob Lloyd Jones , Illustrated by  Stefano Tognetti",14
+165,Pachinko,137,Contemporary Fiction,NA,4.23,14.88,16.18,10-Aug-17,9781786691378,"15,201",Paperback,"  Min Jin Lee",560
+166,Born A Crime,150,Biography: Arts & Entertainment,Autobiography: Arts & Entertainment,4.43,12.42,16.18,21-Sep-17,9781473635302,"74,668",Paperback,"  Trevor Noah",304
+167,The Snail and the Whale,136,Storybooks,Children's Fiction,4.31,9.34,NA,04-Jun-06,9780142405802,"3,998",Paperback,"  Julia Donaldson , Illustrated by  Axel Scheffler",32
+168,Judgement Detox,140,Personal Development,"Assertiveness, Motivation & Self-esteem",3.2,15.89,23.38,02-Jan-18,9781788170734,5,Paperback,"  Gabrielle Bernstein",240
+169,Aristotle and Dante Discover the Secrets of the Universe,188,Children's Fiction,Children's General Story Books,4.34,10.82,17.26,24-Mar-15,9781442408937,"127,250",Paperback,"  Benjamin Alire Saenz",368
+170,Lonely Planet Japan,142,Guidebooks,NA,4.17,26.98,39.82,15-Aug-17,9781786570352,23,Paperback,"  Lonely Planet",928
+171,Never Split the Difference,147,Business Strategy,Business Negotiation,4.47,13.77,17.98,23-Mar-17,9781847941497,"5,347",Paperback,"  Chris Voss ,   Tahl Raz",288
+172,Mindhunter,140,Biography: General,True Crime Biographies,4.05,13.32,16.18,02-Nov-17,9781787460614,"10,211",Paperback,"  John Douglas ,   Mark Olshaker",448
+173,The Disaster Artist,160,Individual Actors & Performers,Individual Actors & Performers,4.39,12.96,16.18,29-Apr-16,9780751561876,"11,907",Paperback,"  Greg Sestero ,   Tom Bissell",304
+174,Autumn,146,Contemporary Fiction,NA,3.86,13.19,16.18,07-Sep-17,9780241973318,"15,348",Paperback,"  Ali Smith",272
+175,Turtles All the Way Down,192,Romance Books for Teenagers,Family,4.14,20.55,26.98,26-Oct-17,9780241335437,"66,472",Hardback,"  John Green",304
+176,Six Minutes in May,177,British & Irish History,20th Century History: C 1900  To C 2000,4.23,29.93,35.99,05-Oct-17,9781846559723,26,Hardback,"  Nicholas Shakespeare",528
+177,Sweet,172,Celebrity Chefs,Cookery Dishes & Courses,4.5,41.46,48.59,07-Sep-17,9781785031144,198,Hardback,"  Yotam Ottolenghi ,   Helen Goh",368
+178,What Happened,150,"Biography: Historical, Political & Military",Memoirs,4.04,28.54,35.99,26-Sep-17,9781471166945,"18,772",Hardback,"  Hillary Rodham Clinton",512
+179,Where Is the Green Sheep?,127,Early Learning,Colours,4.18,9.66,NA,16-Mar-09,9780152067045,"5,796",Boardbook,"  Judy Horacek ,   Mem Fox",32
+180,Brave New World,168,Contemporary Fiction,Classic Books & Novels,3.97,11.07,12.58,02-Sep-04,9780099477464,"1,119,750",Paperback,"  Aldous Huxley",288
+181,A Darker Shade of Magic,153,Crime,Crime Fiction,4.07,12.56,14.38,27-Feb-15,9781783295401,"79,254",Paperback,"  V. E. Schwab",400
+182,Six of Crows,154,Thriller Books,Thrillers,4.45,13.33,14.38,02-Jun-16,9781780622286,"110,266",Paperback,"  Leigh Bardugo",512
+183,The Secret Life of Cows,155,Animal Husbandry,Natural History Books,3.48,14.43,17.98,05-Oct-17,9780571336777,348,Hardback,"  Rosamund Young",160
+184,influence,156,Psychology,Market Research,4.18,17.47,25.21,06-Jul-11,9780061241895,"54,255",Paperback,"  Robert B. Cialdini",336
+185,The Girl in the Spider's Web,157,Crime,Crime Fiction,3.74,8.46,14.38,11-Apr-16,9781848667785,"90,244",Paperback,"  David Lagercrantz , Translated by  George Goulding",496
+186,The Universe Has Your Back,164,Personal Development,"Mind, Body, Spirit: Thought & Practice",4.09,14.88,19.78,05-Oct-16,9781781804254,"3,499",Paperback,"  Gabrielle Bernstein",192
+187,Refugee,216,Children's General Story Books,Historical,4.61,10.17,12.58,05-Oct-17,9781407184326,"3,727",Paperback,"  Alan Gratz",352
+188,The Underground Railroad,160,Contemporary Fiction,NA,4.02,13.1,16.18,29-Jun-17,9780708898406,"114,281",Paperback,"  Colson Whitehead",400
+189,The Art of War,170,Oriental & Indian Philosophy,Theory Of Warfare & Military Science,3.96,4.48,8.3,18-Oct-11,9780007420124,"220,847",Paperback,"  Sun Tzu",112
+190,Murder on the Orient Express,120,Classic Books & Novels,Crime,4.16,10.85,NA,01-Jan-15,9780007119318,"188,167",Paperback,"  Agatha Christie",240
+191,The Happiness Trap,241,Psychology,Abnormal Psychology,4.04,15.12,21,26-Jun-08,9781845298258,"3,189",Paperback,"  Russ Harris",288
+192,Harry Potter and the Philosopher's Stone - Slytherin Edition,164,Fantasy Books for Kids,NA,4.44,20.86,26.98,01-Jun-17,9781408883761,"4,907,802",Hardback,"  J. K. Rowling",368
+193,The Husband's Secret,165,Contemporary Fiction,Crime,3.92,12.42,14.38,30-Nov-17,9781405911665,"376,072",Paperback,"  Liane Moriarty",432
+194,Secrets for the Mad,166,Music,Music,4.38,23.74,30.57,02-Nov-17,9781785036804,"1,268",Hardback,"  dodie",256
+195,Fahrenheit 451,159,Science Fiction,Science Fiction,3.97,10.1,NA,23-May-12,9781451690316,"1,192,180",Paperback,"  Ray Bradbury",158
+196,Medical Medium Life-Changing Foods,168,Diets & Dieting,"Complementary Therapies, Healing & Health",4.25,32.3,39.82,16-Dec-16,9781401948320,603,Hardback,"  Anthony William",352
+197,Goodnight Moon,169,Baby Books,Children's Fiction,4.27,11.19,11.93,08-Jul-11,9780694003617,"257,574",Boardbook,"  Margaret Wise Brown",32
+198,The Alice Network,170,Espionage,Espionage,4.26,15.42,22.57,06-Jun-17,9780062654199,"18,833",Paperback,"  Kate Quinn",528
+199,All the Light We Cannot See,171,Contemporary Fiction,NA,4.31,14.49,16.18,01-May-15,9780008138301,"569,437",Paperback,"  Anthony Doerr",544
+200,How Not To Die,153,Public Health & Preventive Medicine,Dietetics & Nutrition,4.53,15.71,17.98,28-Dec-17,9781509852505,"5,422",Paperback,"  Michael Greger ,   Gene Stone",672
+201,Tom Kerridge's Dopamine Diet,173,Diets & Dieting,General Cookery,3.94,30.63,39.84,14-Mar-17,9781472935410,200,Hardback,"  Tom Kerridge",272
+202,Art of Star Wars: The Last Jedi,174,Electronic & Video Art,"Films, Cinema",4.42,37.74,53.12,15-Dec-17,9781419727054,113,Hardback,"  Phil Szostak",256
+203,Zero to One,175,Business & Management,Entrepreneurship,4.17,13.91,17.98,04-Jun-15,9780753555200,"57,657",Paperback,"  Blake Masters ,   Peter Thiel",224
+204,Mastering Your Mean Girl,176,Personal Development,"Assertiveness, Motivation & Self-esteem",4.01,20.07,22.57,22-Mar-16,9780399176715,707,Paperback,"  Melissa Ambrosini",288
+205,The Very Hungry Caterpillar: Little Learning Library,177,Graphic Novels: Literary & Memoirs,Graphic Novels: Literary & Memoirs,4.11,9.97,14.61,10-Jan-11,9780141385112,54,Boardbook,"  Eric Carle",48
+206,They Both Die at the End,178,Children's General Story Books,NA,4.18,12.45,14.38,07-Sep-17,9781471166204,"10,920",Paperback,"  Adam Silvera",384
+207,A Man Called Ove,179,Contemporary Fiction,Fiction In Translation,4.34,11.77,16.18,02-Mar-16,9781444775815,"263,732",Paperback,"  Fredrik Backman",320
+208,Harry Potter and the Philosopher's Stone - Ravenclaw Edition,180,Fantasy Books for Kids,NA,4.44,18.75,26.98,01-Jun-17,9781408883785,"4,907,802",Hardback,"  J. K. Rowling",368
+209,Wonder,181,Children's Fiction,School Stories,4.44,10.83,13.26,07-Aug-14,9780553509977,"440,984",Paperback,"  R. J. Palacio",315
+210,Sea of Strangers,178,Poetry Books,Poetry By Individual Poets,4.12,20.21,22.57,09-Jan-18,9781449489892,178,Paperback,"  Lang Leav",224
+211,Tower of Dawn,183,Children's Fiction,NA,4.48,13.39,14.38,05-Sep-17,9781408887974,"28,860",Paperback,"  Sarah J. Maas",672
+212,His Dark Materials,184,Adventure Books for Kids,Sci Fi Books for Kids,4.25,34.95,45.48,03-Nov-11,9781407131184,"102,860",Paperback,"  Philip Pullman",1360
+213,The Most Magnificent Thing,161,Picture Books,Children's Fiction,4.29,18.18,22.51,31-Oct-17,9781554537044,"3,801",Hardback,"  Ashley Spires",32
+214,the princess saves herself in this one,177,Poetry By Individual Poets,Literary Studies: General,3.96,14.29,19.9,23-Mar-17,9781449486419,"22,332",Paperback,"  Amanda Lovelace",208
+215,"Rosie Revere, Engineer",187,Storybooks,Children's Fiction,4.54,19.85,23.84,03-Sep-13,9781419708459,"4,893",Hardback,"  Andrea Beaty",32
+216,The Happiness Project,197,Memoirs,Personal Development,3.57,10.47,10.62,25-Oct-11,9780062105240,"104,270",Paperback,"  Gretchen Rubin",320
+217,Almost Midnight: Two Short Stories by Rainbow Rowell,189,Romance Books for Teenagers,Short Stories for Kids,4.22,13.32,17.98,02-Nov-17,9781509869947,"2,556",Hardback,"  Rainbow Rowell",144
+218,Room on the Broom,190,Storybooks,Children's Fiction,4.42,8.28,9.29,25-Aug-03,9780142501122,"10,847",Paperback,"  Julia Donaldson , Illustrated by  Axel Scheffler",32
+219,Harry Potter and the Philosopher's Stone - Hufflepuff Edition,191,Fantasy Books for Kids,NA,4.44,18.75,26.98,01-Jun-17,9781408883808,"4,907,802",Hardback,"  J. K. Rowling",368
+220,The Original Rider Waite Tarot Deck,192,"Mind, Body & Spirit",Fortune-telling & Divination,NA,17.44,27.32,10-Jun-99,9780712670579,0,Paperback,"  Arthur Edward Waite",80
+221,The Little Book of Lykke,193,Psychology: Emotions,Family & Relationships,4.08,16.09,17.98,02-Oct-17,9780241302019,623,Hardback,"  Meik Wiking",288
+222,The Gruffalo,193,Graphic Novels: Literary & Memoirs,Graphic Novels: Literary & Memoirs,4.47,10.35,10.62,02-Mar-06,9780142403877,"21,569",Paperback,"  Julia Donaldson",32
+223,We're All Wonders,195,Storybooks,Activity Books,4.26,11,12.58,28-Mar-17,9780141386416,"3,483",Paperback,"  R. J. Palacio",32
+224,Nudge,196,Decision Theory: General,Sociology,3.81,13.62,29.21,01-Mar-09,9780141040011,"35,118",Paperback,"  Richard H. Thaler ,   Cass R. Sunstein",320
+225,"Guns, Germs And Steel",197,General & World History,Classical History / Classical Civilisation,4,15.85,29.21,26-Apr-00,9780099302780,"188,475",Paperback,"  Jared Diamond",496
+226,The Heart's Invisible Furies,169,Contemporary Fiction,Historical Fiction,4.44,14.79,16.18,28-Dec-17,9781784161002,"6,354",Paperback,"  John Boyne",720
+227,Little Fires Everywhere,199,Contemporary Fiction,NA,4.17,18.86,26.98,09-Nov-17,9781408709719,"56,437",Hardback,"  Celeste Ng",352
+228,Discipline Equals Freedom,200,Advice On Careers & Achieving Success,"Assertiveness, Motivation & Self-esteem",4.09,23.21,33.18,17-Oct-17,9781250156945,"1,229",Hardback,"  Jocko Willink",199
+229,The Dry,201,Crime,Crime Fiction,4.06,19.08,21.23,02-Jan-18,9781250105622,"46,077",Paperback,"  Jane Harper",320
+230,The Midnight Line,202,Thriller Books,Thrillers,4.21,19.18,26.98,07-Nov-17,9780593078174,"16,988",Paperback,"  Lee Child",400
+231,The Prince,245,Literary Essays,Early Modern History: C 1450/1500 To C 1700,3.77,4.48,NA,21-Sep-92,9780486272740,"186,264",Paperback,"  Niccolo Machiavelli",80
+232,The Catcher in the Rye,208,Contemporary Fiction,Classic Books & Novels,3.79,11.05,11.93,18-Mar-05,9780316769488,"2,146,445",Paperback,"  J. D. Salinger",224
+233,The Complete MAUS,205,Comic Book & Cartoon Art,"Biography: Historical, Political & Military",4.52,24.53,31.55,01-Oct-03,9780141014081,"86,002",Paperback,"  Art Spiegelman",296
+234,Annabel Karmel's New Complete Baby & Toddler Meal Planner - 4th Edition,206,Child Care & Upbringing,General Cookery,4.12,22.89,43.82,24-Jan-08,9780091924850,330,Hardback,"  Annabel Karmel",240
+235,"Moleskine 12 Month Weekly Planner, Pocket, Black, Soft Cover (3.5 X 5.5)",207,Miscellaneous Items,NA,NA,14.23,23.84,08-Jun-17,8055002854023,0,NA,"  Moleskine",144
+236,Coco Chanel,208,Fashion & Textiles: Design,People & Places,4.15,13.77,17.91,01-Feb-16,9781847807717,189,Hardback,"  Isabel Sanchez Vegara ,   Ana Albero",32
+237,The Miracle Of Mindfulness,228,"Buddhist Worship, Rites & Ceremonies","Mind, Body, Spirit: Meditation & Visualisation",4.26,11.7,16.79,07-Feb-08,9781846041068,"15,130",Paperback,"  Thich Nhat Hanh",160
+238,Fast Exercise,210,Health Books,Fitness & Diet,3.77,12.09,14.38,19-Dec-13,9781780721989,645,Paperback,"  Michael Mosley , With  Peta Bee",208
+239,How Not To Die,229,Public Health & Preventive Medicine,Health Books,4.53,19.62,26.98,08-Apr-16,9781447282440,"5,422",Paperback,"  Michael Greger ,   Gene Stone",576
+240,Allen Carr's Easy Way to Stop Smoking,249,Giving Up Smoking,NA,4.26,13.77,17.98,29-Sep-15,9781405923316,"5,356",Paperback,"  Allen Carr",288
+241,The Story of Ferdinand,213,Picture Books,Children's Fiction,4.35,4.48,6.62,31-Mar-11,9780448456942,"73,491",Paperback,"  Munro Leaf , Illustrated by  Robert Lawson",32
+242,The Last Mrs Parrish,198,Crime,Crime Fiction,3.94,11.36,14.38,28-Dec-17,9780008272951,"7,015",Paperback,"  Liv Constantine",400
+243,Happy,215,Biography: Arts & Entertainment,Popular Psychology,4.04,10.37,21.23,17-Apr-18,9781409175070,408,Paperback,"  Fearne Cotton",272
+244,The Elements of Psychological Case Report Writing in Australia,232,Psychology,NA,NA,69.19,72.97,27-Nov-17,9780815367185,0,Paperback,"Edited by  Nadine J. Pelling , Edited by  Lorelle Jane Burton",254
+245,12 Rules for Life,217,Social & Political Philosophy,Clinical Psychology,4.68,32.21,35.99,16-Jan-18,9780241351635,32,Hardback,"  Jordan B. Peterson",448
+246,Raising Boys,207,Family & Relationships,Child Care & Upbringing,3.66,15.84,23.38,01-Oct-17,9780008128036,"2,210",Paperback,"  Steve Biddulph",224
+247,The 91-Storey Treehouse,284,Children's Fiction,Adventure Books for Kids,4.61,9.52,10.78,24-Aug-17,9781509839162,266,Paperback,"  Andy Griffiths",384
+248,"Everything, Everything",244,Children's Fiction,Romance Books for Teenagers,4.1,11.97,14.38,28-Jun-16,9780552574235,"167,288",Paperback,"  Nicola Yoon",320
+249,The Curious Incident of the Dog in the Night-time,279,Contemporary Fiction,Crime,3.85,10.51,12.58,24-Sep-14,9780099470434,"922,578",Paperback,"  Mark Haddon",288
+250,Where The Wild Things Are,222,Children's Literature Studies: General,Picture Books,4.21,11.05,17.6,11-May-01,9780099408390,"645,449",Paperback,"  Maurice Sendak",48
+251,Gangsta Granny,223,Funny Books for Kids,NA,4.27,11.77,12.58,28-Feb-13,9780007371464,"7,236",Paperback,"  David Walliams",306
+252,The One Thing,280,Advice On Careers & Achieving Success,Popular Psychology,4.15,13.12,17.98,25-Apr-14,9781848549258,"17,793",Paperback,"  Gary Keller , Selected by  Jay Papasan",240
+253,Lost Connections,357,Memoirs,Psychology,4.66,34.93,37.18,23-Jan-18,9781632868305,9,Hardback,"  Johann Hari",400
+254,The Hero with a Thousand Faces,226,Religious Books,"Folklore, Myths & Legends",4.24,23.86,30.47,16-Jun-15,9781577315933,"21,528",Hardback,"  Joseph Campbell",224
+255,The Wisdom of Sundays,187,Christian Spirituality & Religious Experience,Personal Christian Testimony & Popular Inspirational Works,4.33,25.82,34.17,19-Oct-17,9781509874118,732,Hardback,"  Oprah Winfrey",240
+256,Thomas Kinkade: the Disney Dreams Collection 2018 Wall Calendar,228,"Individual Artists, Art Monographs",Animated Films,NA,18.77,19.9,30-May-17,9781449482992,0,NA,"  Thomas Kinkade",24
+257,In My Heart: A Book of Feelings,229,First Experiences,The Senses,4.29,18.27,22.51,14-Oct-14,9781419713101,575,Hardback,"  Jo Witek",32
+258,Listen and Learn First English Words,294,ABC,First Words,5,13.69,23.38,01-Oct-17,9781409582489,1,NA,"  Sam Taplin , Illustrated by  Rosalinde Bonnet",20
+259,I Want My Hat Back,248,Picture Books,Storybooks,4.39,11.14,20.59,04-Oct-12,9781406338539,"19,245",Paperback,"  Jon Klassen",40
+260,Just Between Us,331,Miscellaneous Items,Stationery,4.52,15.84,21.18,01-May-10,9780811868952,339,Hardback,"  Meredith Jacobs ,   Sophie Jacobs",144
+261,House of Leaves,233,Contemporary Fiction,Thriller Books,4.13,28.72,NA,07-Mar-00,9780375703768,"90,044",Paperback,"  Mark Z. Danielewski",709
+262,The Hate U Give,234,Children's Fiction,Children's General Story Books,4.58,10.69,23.88,28-Feb-17,9780062498533,"79,329",Hardback,"  Angie Thomas",444
+263,Rick Stein: The Road to Mexico,221,Celebrity Chefs,National & Regional Cuisine,3,35.25,46.79,01-Nov-17,9781785942006,3,Hardback,"  Rick Stein",320
+264,You Can Heal Your Life,211,Coping With Death & Bereavement,Popular Psychology,4.15,17.22,21.23,01-Jul-04,9780937611012,"50,074",Paperback,"  Louise Hay",272
+265,The Hitchhiker's Guide to the Galaxy,237,Contemporary Fiction,Adventure Books,4.2,9.79,10.62,01-Nov-95,9780345391803,"1,014,631",Paperback,"  Douglas Adams",224
+266,Hillbilly Elegy,238,Memoirs,Society & Social Sciences,3.95,12.87,17.98,27-Jul-17,9780008220563,"142,241",Paperback,"  J. D. Vance",272
+267,Moleskine Large Watercolour Notebook,240,Miscellaneous Items,Stationery,NA,20.41,26.49,01-Jan-08,9788883705625,0,NA,"  Moleskine",60
+268,The Daily Stoic Journal,151,Advice On Careers & Achieving Success,"Assertiveness, Motivation & Self-esteem",NA,12.65,18,02-Nov-17,9781788160230,0,Hardback,"  Ryan Holiday ,   Stephen Hanselman",384
+269,Six of Crows: Crooked Kingdom,242,Adventure Books,Children's Fiction,4.62,13.6,14.38,04-May-17,9781780622316,"59,920",Paperback,"  Leigh Bardugo",560
+270,I Am Malala,242,Biography: General,"Autobiography: Historical, Political & Military",4.08,12.56,14.38,09-Oct-14,9781780226583,"257,551",Paperback,"  Malala Yousafzai ,   Christina Lamb",320
+271,The Cruel Prince (The Folk of the Air),243,Children's Fiction,Fantasy Books for Kids,4.4,19.92,23.38,02-Jan-18,9781471406454,"2,888",Hardback,"  Holly Black",384
+272,How to Talk So Kids Will Listen and Listen So Kids Will Talk,273,Family & Relationships,Child Care & Upbringing,4.24,19.11,21.25,02-Jul-12,9781451663884,"14,773",Paperback,"  Adele Faber ,   Elaine Mazlish",368
+273,Love You Forever,395,Children's Fiction,Classic Books for Children,4.34,6.06,7.9,01-Sep-95,9780920668375,"164,101",Paperback,"  Robert Munsch , Illustrated by  Sheila McGraw",32
+274,The Things You Can See Only When You Slow Down,188,Oriental & Indian Philosophy,Zen Buddhism,4.1,16.16,17.98,23-Feb-17,9780241298190,"1,729",Hardback,"  Haemin Sunim , Translated by  Chi-Young Kim",288
+275,Moleskine Soft Underwater Blue Large Dotted Notebook,247,Miscellaneous Items,Stationery,NA,19.6,26.49,06-May-14,9788867323678,0,NA,"  Moleskine",192
+276,Harry Potter and the Philosopher's Stane,248,Children's General Story Books,Sci Fi Books for Kids,4.44,11.18,19.85,01-Mar-18,9781785301544,"4,991,236",Paperback,"  J. K. Rowling , Translated by  Matthew Fitt",320
+277,The Girl Who Never Made Mistakes,249,Children's Fiction,Children's General Story Books,3.96,15.21,22.57,04-Nov-11,9781402255441,"1,034",Hardback,"  Mark Pett",32
+278,Dungeon Master's Guide (Dungeons & Dragons Core Rulebooks),250,Encyclopaedias & Reference Works,Reference Works,4.1,53.54,66.33,06-Jul-16,9780786965625,"1,920",Hardback,"  Wizards of the Coast",320
+279,The Course of Love,268,Contemporary Fiction,Adult & Contemporary Romance,4.01,13.06,16.18,17-Jan-17,9780241962138,"9,645",Paperback,"  Alain de Botton",240
+280,The Wild Unknown Tarot Deck and Guidebook (Official Keepsake Box Set),279,"Mind, Body, Spirit: Thought & Practice",Tarot,4.44,32,53.11,08-Nov-16,9780062466594,229,Hardback,"  Kim Krans",208
+281,The Doctor's Kitchen: Supercharge your health with 100 delicious everyday recipes,253,Health & Wholefood Cookery,NA,5,21.67,26.98,28-Dec-17,9780008239336,1,Paperback,"  Rupy Aujla",272
+282,"Moleskine 12 Month Weekly Horizontal Planner, Large, Black, Hard Cover (5 X 8.25)",909,Miscellaneous Items,NA,NA,16.68,30.47,08-Jun-17,8055002853996,0,NA,"  Moleskine",144
+283,Good Food: Slow cooker favourites,255,Business & Management,General Cookery,3.8,9.5,13.21,01-Jan-15,9781849908696,61,Paperback,"  Sarah Cook",216
+284,The Road Less Travelled,256,Philosophy,Popular Philosophy,4.03,12.94,16.79,02-Jul-08,9781846041075,"67,073",Paperback,"  M. Scott Peck",320
+285,Ego is the Enemy,257,Business Strategy,Management: Leadership & Motivation,4.12,13.44,16.18,24-Aug-17,9781781257029,"12,849",Paperback,"  Ryan Holiday",256
+286,Secret Garden,258,Activity Books,Colouring & Painting Books,4.48,11.37,19.85,15-Jun-15,9781780671062,"1,378",Paperback,"  Johanna Basford",96
+287,Unshakeable,251,Economics,Economics,4.13,20.37,30.57,28-Feb-17,9781471164934,"2,435",Paperback,"  Tony Robbins",256
+288,The Nightingale,260,Contemporary Fiction,Military Fiction,4.54,8.87,14.38,27-Jul-15,9781447283072,"341,593",Paperback,"  Kristin Hannah",464
+289,I Can Do it 2018 Calendar,342,Popular Psychology,"Assertiveness, Motivation & Self-esteem",NA,21.11,22.57,15-Aug-17,9781401949792,0,NA,"  Louise Hay",
+290,Monster Manual: A Dungeons & Dragons Core Rulebook,262,Encyclopaedias & Reference Works,Reference Works,4.23,54.62,66.33,05-Apr-16,9780786965618,"2,112",Hardback,"  Wizards of the Coast",320
+291,Lean In,263,Biography: General,Feminism & Feminist Theory,3.94,12.67,16.18,06-Aug-15,9780753541647,"149,867",Paperback,"  Sheryl Sandberg",240
+292,The Hidden Life of Trees,338,"Trees, Wildflowers & Plants",NA,4.06,13.28,17.98,24-Aug-17,9780008218430,"7,534",Paperback,"  Peter Wohlleben",288
+293,Darker,265,Contemporary Fiction,Romance,4.16,12.99,14.38,30-Nov-17,9781787460560,"9,868",Paperback,"  E.L. James",576
+294,Body Positive Power,266,Feminism & Feminist Theory,Eating Disorders & Therapy,4.65,17.85,23.38,07-Sep-17,9781785041327,250,Paperback,"  Megan Jayne Crabbe",288
+295,Stick Man,306,Storybooks,NA,4.18,10.06,12.58,26-Nov-16,9781407170718,"2,820",Paperback,"  Julia Donaldson , Illustrated by  Axel Scheffler",32
+296,The Wise Man's Fear,268,Fantasy,Fantasy Books,4.57,14.52,26.22,03-Jun-12,9780575081437,"290,161",Paperback,"  Patrick Rothfuss",1008
+297,Never Let Me Go,269,Contemporary Fiction,Science Fiction,3.8,13.44,NA,08-Sep-16,9780571258093,"329,978",Paperback,"  Kazuo Ishiguro",304
+298,Reinventing Your Life,270,Psychology,Cognition & Cognitive Psychology,4.04,20.07,22.57,25-Jul-11,9780452272040,"1,067",Paperback,"  Jeffrey E. Young ,   Janet S. Klosko",365
+299,Deep Work,271,Business & Management,Management & Management Techniques,4.19,20.17,26.98,05-Jan-16,9780349411903,"17,129",Paperback,"  Cal Newport",304
+301,Find Your Why,272,Management & Management Techniques,Management: Leadership & Motivation,3.78,21.88,26.56,05-Sep-17,9780143111726,551,Paperback,"  Simon Sinek",242
+302,Diary of a Wimpy Kid: The Getaway (book 12),273,Family,Funny Books for Kids,4.36,13.73,23.38,01-Nov-17,9780141376677,"4,109",Hardback,"  Jeff Kinney",224
+303,Paddington Pop-Up London: Movie tie-in,320,Characters,Activity Books,4.5,31.31,39.82,28-Nov-17,9780008254520,4,Hardback,"Illustrated by  Joanna Bill , Illustrated by  Olga Baumert",16
+304,Ma'am Darling,275,Biography: Royalty,NA,3.8,22.13,30.57,18-Sep-17,9780008203610,202,Hardback,"  Craig Brown",432
+305,Crime and Punishment,299,Classic Books & Novels,Historical Fiction,4.18,7.11,7.95,05-May-00,9781840224306,"452,454",Paperback,"  Fyodor Dostoyevsky , Translated by  Constance Garnett , Introduction and notes by  Dr. Keith Carabine",528
+306,Who Says You Can't? You Do,249,Health Books,Popular Medicine & Health,NA,18.72,23.38,11-Jan-18,9781473684249,0,Paperback,"  Daniel Chidiac",368
+307,Legacy,250,Management: Leadership & Motivation,Advice On Careers & Achieving Success,4.24,16.99,26.54,17-Dec-13,9781472103536,"1,302",Paperback,"  James Kerr",224
+308,Pillow Thoughts,265,Poetry By Individual Poets,NA,3.87,16.32,22.57,05-Oct-17,9781449489755,"1,148",Paperback,"  Courtney Peppernell",272
+309,Fragile Things,274,Contemporary Fiction,Short Story Books,4.01,NA,NA,05-Apr-07,9780755334148,"46,567",Paperback,"  Neil Gaiman",448
+310,"Peaceful Parent, Happy Siblings",291,Family & Relationships,Advice On Parenting,4.21,17.24,21.18,05-May-15,9780399168451,389,Paperback,"  Dr Laura Markham",324
+311,On the Night You Were Born,282,Picture Books,Children's Fiction,4.35,11.16,NA,19-Jan-10,9780312601553,"12,140",Boardbook,"  Nancy Tillman",32
+312,Star Wars The Last Jedi (TM) Visual Dictionary,311,"Films, Cinema","Films, Cinema",4.3,25.01,28.78,15-Dec-17,9780241281093,170,Hardback,"  Pablo Hidalgo",80
+313,The Crucible,284,"Plays, Playscripts",Literary Studies: Plays & Playwrights,3.55,12.06,18.88,24-Feb-00,9780141182551,"261,114",Paperback,"  Arthur Miller",144
+314,A New Earth,366,Popular Psychology,"Mind, Body, Spirit: Thought & Practice",4.02,10.98,26.22,01-Mar-09,9780141039411,"114,625",Paperback,"  Eckhart Tolle",336
+315,The Modern Cook's Year,286,Quick & Easy Cooking,Vegetarian Cookery,4.66,33.89,46.79,05-Oct-17,9780008172459,3,Hardback,"  Anna Jones",480
+316,Year of Wonders,287,Historical Fiction,NA,4,12.42,16.79,15-Oct-11,9781841154589,"109,500",Paperback,"  Geraldine Brooks",336
+317,The Book of Joy,300,Tibetan Buddhism,"Mind, Body, Spirit: Thought & Practice",4.33,19.85,23.38,22-Sep-16,9781786330444,"10,827",Hardback,"  Dalai Lama ,   Archbishop Desmond Tutu",368
+318,The Obstacle is the Way,289,Macroeconomics,Macroeconomics,4.11,14.29,17.98,27-May-15,9781781251492,"16,105",Paperback,"  Ryan Holiday",201
+319,On Writing,325,Literary Studies: From C 1900 -,"Literary Studies: Fiction, Novelists & Prose Writers",4.31,12.53,26.22,11-Oct-12,9781444723250,"155,226",Paperback,"  Stephen King",384
+320,Harry Potter - A Journey Through A History of Magic,291,Exhibition Catalogues & Specific Collections,"Bibliographies, Catalogues, Discographies",4.35,20.44,23.38,20-Oct-17,9781408890776,"1,320",Paperback,"  British Library",144
+321,There Was an Old Lady Who Swallowed a Fly,292,Baby Books,Rhyming & Wordplay,4.2,7.67,7.95,01-Dec-00,9780859537278,"26,856",Boardbook,"Illustrated by  Pam Adams",14
+322,Thug Kitchen,293,Health & Wholefood Cookery,NA,4.16,25.9,30.57,10-Dec-14,9780751555516,"13,539",Hardback,"  Thug Kitchen",240
+323,Harry Potter and the Cursed Child - Parts One and Two,294,Contemporary Fiction,Graphic Novels: Literary & Memoirs,3.72,11.77,14.38,25-Jul-17,9780751565362,"438,954",Paperback,"  J. K. Rowling ,   John Tiffany ,   Jack Thorne",352
+324,Chanel,316,Art History,Photographs: Collections,4.13,39.81,53.12,17-Jul-07,9780500513606,296,Hardback,"  Daniele Bott",208
+325,The Cruel Prince,296,Children's Fiction,Children's General Story Books,4.4,22.91,25.21,02-Jan-18,9780316310277,"2,888",Hardback,"  Holly Black",384
+326,Everything I Never Told You,360,Contemporary Fiction,Thriller Books,3.79,16.32,21.25,05-Dec-15,9780143127550,"151,018",Paperback,"  Celeste Ng",297
+327,Animal Farm,298,Contemporary Fiction,Classic Books & Novels,3.88,10.89,26.22,01-Sep-07,9780141182704,"2,069,043",Paperback,"  George Orwell , Introduction by  Malcolm Bradbury",144
+328,Robert Kuok,300,Biography: Business & Industry,NA,5,40.26,44.99,28-Mar-18,9789814189736,1,Hardback,"  Robert Kuok ,   Andrew Tanzer",376
+329,The Magic,301,"Mind, Body & Spirit",NA,4.14,15.87,23.29,03-Jun-12,9781849838399,"9,759",Paperback,"  Rhonda Byrne",272
+330,Being Mortal,262,Public Health & Preventive Medicine,Popular Science,4.41,14.54,17.98,01-Jul-15,9781846685828,"72,901",Paperback,"  Atul Gawande",304
+331,The Dot,303,Contemporary Fiction,Children's Fiction,4.2,10.73,NA,04-Oct-04,9781844281695,"20,070",Paperback,"  Peter H. Reynolds",32
+332,The Three-Body Problem,304,Science Fiction,Science Fiction,4.01,13.24,16.18,01-Feb-16,9781784971571,"47,129",Paperback,"  Cixin Liu , Translated by  Ken Liu",416
+333,Complete Runner's Day-by-Day Log 2018 Diary,305,"Track & Field Sports, Athletics",Miscellaneous Items,5,18.57,19.9,01-Aug-17,9781449482312,1,NA,"  Marty Jerome",144
+334,"Ada Twist, Scientist",306,Storybooks,Children's Fiction,4.46,20.21,23.84,06-Sep-16,9781419721373,"3,080",Hardback,"  Andrea Beaty",32
+335,Happy: The Journal,256,Coping With Illness,Personal Development,4.37,15.58,26.98,05-Oct-17,9781409176879,8,Paperback,"  Fearne Cotton",256
+336,Harry Potter and the Chamber of Secrets,252,Fantasy,Fantasy Books,4.38,12.62,14.38,16-Oct-14,9781408855669,"1,989,106",Paperback,"  J. K. Rowling",384
+337,Fantastic Beasts and Where to Find Them,308,Children's General Story Books,Fantasy Books for Kids,3.96,38.4,44.99,07-Nov-17,9781408885260,"227,364",Hardback,"  J. K. Rowling , Illustrated by  Olivia Lomenech Gill",160
+338,Marshall & Ruedy's On Call: Principles & Protocols,276,Clinical & Internal Medicine,NA,NA,76.93,97.9,09-Nov-17,9780729542623,0,Paperback,"  Anthony F. T. Brown ,   Mike Cadogan ,   Antonio Celenza",648
+339,Wreck This Journal,311,Occupational Therapy,Funny Books & Stories,4.18,13.87,17.98,20-Nov-14,9780141976143,"13,035",Paperback,"  Keri Smith",224
+340,Bad Dad,312,Children's General Story Books,Funny Books for Kids,4.41,19.35,23.38,09-Nov-17,9780008164652,221,Hardback,"  David Walliams , Illustrated by  Tony Ross",464
+341,"Moleskine 12 Month Weekly Planner, Large, Scarlet Red, Hard Cover (5 X 8.25)",313,Miscellaneous Items,NA,NA,16.57,30.47,08-Jun-17,8055002854061,0,NA,"  Moleskine",144
+342,Behind Closed Doors,314,Thriller Books,Thrillers,3.93,12.69,14.38,11-Feb-16,9781848454125,"115,991",Paperback,"  B. A. Paris",352
+343,The Diary of a Bookseller,315,"Diaries, Letters & Journals",Memoirs,4.1,19.71,26.98,28-Sep-17,9781781258620,617,Hardback,"  Shaun Bythell",320
+344,A Poem for Every Night of the Year,342,Poetry Anthologies (various Poets),Poetry Books for Kids,4.06,25.07,30.57,08-Sep-16,9781509813131,116,Hardback,"  Allie Esiri",544
+345,The Way of Wisdom,303,Christian Books,Protestantism & Protestant Churches,4.5,18.59,23.38,19-Oct-17,9781473647558,6,Hardback,"  Timothy Keller",400
+346,The 26-Storey Treehouse,318,Children's General Story Books,Adventure Books for Kids,4.26,8.37,10.78,07-May-15,9781447279808,"2,420",Paperback,"  Andy Griffiths , Illustrated by  Terry Denton",352
+347,Peppa Pig: Little Library,219,Characters,Children's Fiction,4.27,7.61,10.47,20-Jun-11,9781409303183,111,Boardbook,"  Ladybird",60
+348,Home Fire,355,Contemporary Fiction,NA,4.1,22.89,30.57,15-Aug-17,9781408886779,"5,108",Hardback,"  Kamila Shamsie",272
+349,Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond,466,Monetary Economics,Monetary Economics,4.22,33.04,39.84,19-Oct-17,9781260026672,197,Hardback,"  Chris Burniske",325
+350,Two by Two,295,Contemporary Fiction,Adult & Contemporary Romance,3.9,8.64,14.38,01-Jun-17,9780751550047,"36,735",Paperback,"  Nicholas Sparks",560
+351,The Name of the Wind,323,Fantasy,Fantasy Books,4.55,13.82,18.88,30-Jun-08,9780575081406,"461,720",Paperback,"  Patrick Rothfuss",672
+352,Still Me,324,Contemporary Fiction,Romance,NA,20.19,22.57,30-Jan-18,9780525559030,0,Paperback,"  Jojo Moyes",400
+353,In Order To Live,295,Biography: General,Memoirs,4.47,14.29,17.98,07-Jul-16,9780241973035,"11,296",Paperback,"  Yeonmi Park",288
+354,Meditations,326,Classical History / Classical Civilisation,"Western Philosophy: Ancient, To C 500",4.2,12.67,14.61,18-Nov-15,9780140449334,"57,152",Paperback,"  Marcus Aurelius , Introduction by  Diskin Clay , Translated by  Martin Hammond",304
+355,Moleskine Soft Large Khaki Beige Dotted Notebook,355,Miscellaneous Items,Stationery,NA,14.68,26.49,06-May-14,9788867323661,0,NA,"  Moleskine",192
+356,The Bright Hour,328,Memoirs,NA,4.37,NA,NA,03-Aug-17,9781911231134,"4,823",Paperback,"  Nina Riggs",288
+357,Amelia Earhart,329,People & Places,Science,4.11,13.77,17.98,08-Sep-16,9781847808851,149,Hardback,"  Isabel Sanchez Vegara ,   MARIA DIAMANTES",32
+358,His Dark Materials,301,Contemporary Fiction,Fantasy,4.25,30.88,43.15,16-Nov-15,9781841593425,"102,860",Hardback,"  Philip Pullman , Introduction by  Lucy Hughes-Hallett",1144
+359,Spark Joy,330,Personal Development,"Assertiveness, Motivation & Self-esteem",3.82,21.02,NA,05-Jan-17,9781785041020,"14,481",Paperback,"  Marie Kondo",304
+360,The 8-Week Blood Sugar Diet Recipe Book,332,Popular Medicine & Health,Diets & Dieting,4.16,22.1,26.98,15-Sep-16,9781780722931,159,Paperback,"  Clare Bailey , With  Sarah Schenker , Introduction by  Michael Mosley",176
+361,The State Of Affairs,333,Family & Relationships,"Dating, Relationships, Living Together & Marriage",4.4,17.04,26.98,12-Oct-17,9781473673540,665,Paperback,"  Esther Perel",336
+362,Uprooted,334,Fantasy,Fantasy Books,4.11,10.2,14.38,05-May-16,9781447294146,"83,442",Paperback,"  Naomi Novik",448
+363,The Heart of Yoga,343,Oriental & Indian Philosophy,Exercise & Workout Books,4.3,23.54,26.49,09-Nov-99,9780892817641,"2,952",Paperback,"  T. K. V. Desikachar",244
+364,Dr. Seuss's ABC,336,ABC,NA,4.07,7.02,NA,26-Nov-96,9780679882817,"35,478",Boardbook,"  Dr. Seuss",24
+365,Too Much and Not the Mood,337,Poetry Books,Poetry By Individual Poets,4.13,16.56,19.92,11-Apr-17,9780374535957,"1,317",Paperback,"  Durga Chew-Bose",240
+366,Oxford Handbook of Clinical Medicine,296,Epidemiology & Medical Statistics,Clinical & Internal Medicine,5,46.82,53.11,27-Sep-17,9780199689903,2,NA,"  Ian B. Wilkinson ,   Tim Raine ,   Kate Wiles ,   Anna Goodhart ,   Catriona Hall ,   Harriet O'Neill",904
+367,Of Mice and Men,348,Contemporary Fiction,Classic Books & Novels,3.84,9.16,10.98,01-Mar-07,9780141023571,"1,535,266",Paperback,"  John Steinbeck , Introduction by  Susan Shillinglaw",128
+368,The Gentleman's Guide to Vice and Virtue,314,Children's General Story Books,Fantasy Books for Kids,4.18,23.12,25.21,27-Jun-17,9780062382801,"18,825",Hardback,"  Mackenzi Lee",528
+369,Little Black Book,380,Feminism & Feminist Theory,Business & Management,3.73,8.3,14.59,22-May-18,9780008245115,242,Paperback,"  Otegha Uwagba",128
+370,The Great Gatsby,343,Classic Books & Novels,NA,3.89,5.07,5.29,01-Dec-99,9781853260414,"2,862,324",Paperback,"  F. Scott Fitzgerald , Introduction and notes by  Guy Reynolds , Series edited by  Dr. Keith Carabine",144
+371,What If?,367,Popular Science,Cartoons & Comic Strips,4.16,12.81,16.18,12-Oct-15,9781848549562,"74,471",Paperback,"  Randall Munroe",320
+372,Call Me By Your Name,346,Contemporary Fiction,Romance,4.28,NA,NA,03-Apr-09,9781843546535,"24,070",Paperback,"  Andre Aciman",256
+373,Crazy Rich Asians,405,Contemporary Fiction,Romance,NA,13.21,NA,20-May-14,9781782393849,0,Paperback,"  Kevin Kwan",416
+374,The Happiest Refugee,348,Other Performing Arts,Other Performing Arts,4.15,29.85,34.46,01-Sep-10,9781742372389,"7,540",Paperback,"  Anh Do",240
+375,Stuck,395,Picture Books,Storybooks,4.22,9.41,20.59,01-May-12,9780007263899,"7,169",Paperback,"  Oliver Jeffers",32
+376,The 5 Second Rule,349,Management: Leadership & Motivation,Personal Development,4.02,27.75,33.18,28-Feb-17,9781682612385,"3,426",Hardback,"  Mel Robbins",238
+377,How To Talk So Little Kids Will Listen,362,Child Care & Upbringing,NA,4.33,17.98,23.38,26-Jan-17,9781848126145,606,Paperback,"  Joanna Faber ,   Julie King",432
+378,Think and Grow Rich,350,Management: Leadership & Motivation,Advice On Careers & Achieving Success,4.17,9.52,NA,30-Jan-08,9781604591873,"120,522",Paperback,"  Napoleon Hill",200
+379,Mistborn Trilogy Boxed Set,351,Fantasy,Fantasy Books,4.54,50.08,50.39,14-May-15,9781473213692,"32,899",NA,"  Brandon Sanderson",
+380,Marie Curie,351,People & Places,Science,4.09,13.77,19.9,22-Feb-17,9781847809612,135,Hardback,"  Isabel Sanchez Vegara , Illustrated by  Frau Isa",32
+381,Charlotte Crosby's 30-Day Blitz,352,Diets & Dieting,Celebrity Chefs,5,20.37,30.57,27-Dec-17,9781472243317,1,Paperback,"  Charlotte Crosby",224
+382,A Column of Fire,290,Espionage,Espionage,4.27,29.71,35.99,12-Sep-17,9781447278733,"13,092",Hardback,"  Ken Follett",768
+383,Burial Rites,354,True Crime Biographies,True Crime Books,4.01,12.69,16.18,27-Feb-14,9781447233176,"56,022",Paperback,"  Hannah Kent",384
+384,River Cottage Much More Veg,355,Celebrity Chefs,Quick & Easy Cooking,4.69,39.43,46.79,21-Sep-17,9781408869000,23,Hardback,"  Hugh Fearnley-Whittingstall",416
+385,Queen of Shadows,356,Home,NA,4.59,13.68,14.31,10-Sep-15,9781408858615,"124,783",Paperback,"  Sarah J. Maas",656
+386,The Art of Happiness,348,Buddhist Books,Popular Psychology,4.14,13.39,13.46,08-Nov-99,9780340750155,"65,758",Paperback,"  Dalai Lama XIV ,   Howard C. Cutler",288
+387,Annihilation,359,Science Fiction,Science Fiction,3.64,13.32,16.18,09-Sep-15,9780008139100,"66,585",Paperback,"  Jeff Vandermeer",208
+388,What Do You Do with an Idea?,360,Children's Fiction,Children's General Story Books,4.46,21.4,22.51,01-Feb-14,9781938298073,"4,093",Hardback,"  Kobi Yamada",36
+389,Men Without Women,361,Contemporary Fiction,Short Story Books,3.76,22.28,30.57,27-Jul-17,9781911215370,"16,068",Hardback,"  Haruki Murakami , Translated by  Philip Gabriel , Translated by  Ted Goossen",240
+390,Frida Kahlo,404,Art,Nonfiction History Books for Kids,3.94,13.77,22.24,04-Feb-16,9781847807700,200,Hardback,"  Isabel Sanchez Vegara ,   Eng Gee Fan",32
+391,Lonely Planet Sri Lanka,364,Guidebooks,NA,3.62,20.96,33.18,01-Jan-18,9781786572578,50,Paperback,"  Lonely Planet",352
+392,"Oh, The Places You'll Go",365,Characters,Storybooks,4.34,10.87,20.59,03-Mar-11,9780007413577,"263,762",Paperback,"  Dr. Seuss",48
+393,The Dark Forest,406,Science Fiction,Science Fiction,4.38,12.62,16.18,14-Jul-16,9781784971618,"19,637",Paperback,"  Cixin Liu , Translated by  Ken Liu",512
+394,Peep Inside The Zoo,367,Baby Books,Activity Books,4.39,12.02,14.38,11-Apr-14,9781409549925,46,Boardbook,"  Anna Milbourne , Illustrated by  Simona Dimitri",14
+395,Harry Potter Box Set: The Complete Collection Children's Paperback,293,Children's Fiction,Fantasy Books for Kids,4.74,99.28,113.35,09-Oct-14,9781408856772,"206,308",Paperback,"  J. K. Rowling",3422
+396,Dangerous,369,Politics & Government,Conservatism & Right-of-centre Democratic Ideologies,4.24,30.65,39.84,04-Jul-17,9780692893449,"1,977",Hardback,"  Milo Yiannopoulos",285
+397,The Lean Startup,370,Business Innovation,E-commerce: Business Aspects,4.04,21.43,26.98,20-Oct-11,9780670921607,"96,561",Paperback,"  Eric Ries",336
+398,The Complete Poetry Of Edgar Allan Poe,266,Poetry & Drama,Poetry Books,4.31,5.96,6.57,26-Nov-09,9780451531056,"8,492",Paperback,"  Edgar Allan Poe",139
+399,Feeling Good,372,Cognition & Cognitive Psychology,Health Books,3.95,9.95,11.93,11-Jul-11,9780380810338,"18,210",Paperback,"  David D. Burns",736
+400,Wrinkle in Time,373,Children's Fiction,Sci Fi Books for Kids,4.04,9.65,NA,01-May-08,9780312367541,"661,810",Paperback,"  Madeleine L'Engle",245
+401,The Unwomanly Face of War,448,European History,20th Century History: C 1900  To C 2000,4.51,18.48,23.38,25-Jul-17,9780141983523,"5,043",Paperback,"  Svetlana Alexievich , Translated by  Richard Pevear , Translated by  Larissa Volokhonsky",384
+402,Clean Architecture,378,Computer Programming / Software Development,Software Engineering,4.26,34.88,46.46,20-Sep-17,9780134494166,225,Paperback,"  Robert C. Martin",432
+403,How to Build a Car,421,Autobiography: Sport,Car Racing,4.57,34.66,35.99,02-Nov-17,9780008196806,123,Hardback,"  Adrian Newey",400
+405,What Do You Do with a Problem?,379,Children's Fiction,Children's General Story Books,4.3,21.09,22.51,01-Jun-16,9781943200009,"2,603",Hardback,"  Kobi Yamada",
+406,Lonely Planet Ultimate Travel Wall Calendar 2018,380,"Yearbooks, Annuals, Almanacs",Guidebooks,3,14.56,18,14-Jul-17,9781786579447,1,NA,"  Lonely Planet",24
+407,How to Stop Time,381,Contemporary Fiction,NA,4.12,11.61,16.18,01-Jan-18,9781782118640,"5,736",Paperback,"  Matt Haig",336
+408,Mastering Bitcoin 2e,521,Finance,E-commerce: Business Aspects,4.28,33.45,46.46,06-Jul-17,9781491954386,780,Paperback,"  Andreas Antonopoulos",398
+409,Save Our Sleep,415,Reference Works,Popular Medicine & Health,3.41,14.23,29.21,01-Apr-10,9780091929503,43,Paperback,"  Tizzie Hall",320
+410,History Is All You Left Me,383,Children's General Story Books,NA,4.14,12.09,14.38,09-Feb-17,9781471146183,"9,465",Paperback,"  Adam Silvera",304
+411,The Tiger Who Came to Tea,492,Picture Books,Characters,4.23,8.66,9.29,06-Feb-06,9780007215997,"11,305",Paperback,"  Judith Kerr",32
+412,Oi Dog!,432,Storybooks,Verse,4.35,10.71,12.58,06-Oct-16,9781444919592,180,Paperback,"Illustrated by  Jim Field ,   Kes Gray ,   Claire Gray",32
+413,The Giver,381,Sci Fi Books for Kids,NA,4.12,11.12,20.59,18-Jan-12,9780007263516,"1,361,136",Paperback,"  Lois Lowry",240
+414,Red Rising,336,Thriller Books,Thrillers,4.26,11.37,16.18,25-Sep-14,9781444758993,"133,412",Paperback,"  Pierce Brown",400
+415,King's Cage,386,Contemporary Fiction,Fantasy,4.01,11.1,14.38,24-Aug-17,9781409150763,"41,949",Paperback,"  Victoria Aveyard",528
+416,Big Little Lies,387,Contemporary Fiction,Crime,4.21,12.87,14.38,07-May-15,9781405916363,"426,137",Paperback,"  Liane Moriarty",496
+417,Steal Like an Artist,388,Psychology,"Creative Therapy (eg Art, Music, Drama)",3.88,13.96,17.94,01-May-12,9780761169253,"113,712",Paperback,"  Austin Kleon",160
+418,Way Out Is In,389,Zen Buddhism,NA,4.66,10.55,17.91,07-Sep-15,9780500110287,9,Hardback,"  Thich Nhat Hanh",116
+419,Rich People Problems,476,Contemporary Fiction,NA,3.94,18.52,25.23,13-Jun-17,9780385542326,"15,616",Paperback,"  Kevin Kwan",384
+422,Dune,414,Science Fiction,Science Fiction,4.19,13.69,16.18,31-Jul-15,9780340960196,"533,114",Paperback,"  Frank Herbert",592
+423,Harry Potter and the Philosopher's Stone - Gryffindor Edition,531,Fantasy Books for Kids,NA,4.44,12.87,14.38,01-Jun-17,9781408883730,"4,907,802",Paperback,"  J. K. Rowling",368
+424,The Undoing Project,392,Decision Theory: General,Behavioural Theory (Behaviourism),3.98,10.83,17.98,31-Oct-17,9780141983042,"19,109",Paperback,"  Michael Lewis",368
+425,My Mouth is a Volcano!,396,Picture Books,Children's Fiction,4.28,11.9,13.21,01-Oct-08,9781931636858,"1,052",Paperback,"  Julia Cook , Illustrated by  Carrie Hartman",32
+426,Macbeth (No Fear Shakespeare),427,Shakespeare Plays,Literary Studies: General,3.88,8.28,NA,23-Feb-11,9781586638467,"528,292",Paperback,"  William Shakespeare , Edited by  John Crowther",240
+427,Relentless,389,Management: Leadership & Motivation,Advice On Careers & Achieving Success,4.07,18.79,21.25,03-Nov-14,9781476714202,"2,348",Paperback,"  Tim S. Grover , With  Shari Wenk",272
+428,Fingerprint Activities: Animals,534,Activity Books,Colouring & Painting Books,5,15.01,17.98,01-Mar-16,9781474914338,2,NA,"  Fiona Watt , Illustrated by  Erica Harrison",64
+429,Love Her Wild,400,Poetry By Individual Poets,NA,4.13,21.02,23.38,11-Jul-17,9781472250933,"2,927",Hardback,"  Atticus Poetry",240
+430,Persepolis I & II,400,Biography: General,"Graphic Novels, Anime & Manga",4.36,14.94,23.57,05-Jul-11,9780099523994,"78,854",Paperback,"  Marjane Satrapi",352
+431,Yoga Anatomy,401,Human Biology,Exercise & Workout Books,4.23,21.13,26.49,01-Dec-11,9781450400244,"3,949",Paperback,"  Leslie Kaminoff ,   Amy Matthews",288
+432,Fox's Socks,448,Storybooks,Activity Books,4.04,8.62,10.78,23-Mar-15,9781447273400,255,Boardbook,"  Julia Donaldson",12
+433,Throne of Glass,403,Adventure Books for Kids,Fantasy Books for Kids,4.23,12.35,14.58,31-Aug-15,9781408832332,"342,439",Paperback,"  Sarah J. Maas",432
+434,Heir of Fire,404,Sci Fi Books for Kids,Fantasy Books for Kids,4.52,13.51,14.31,09-Nov-14,9781408839126,"153,172",Paperback,"  Sarah J. Maas",576
+435,First Aid for the USMLE Step 1 2018,405,Clinical & Internal Medicine,NA,NA,63.27,73.03,29-Dec-17,9781260116120,0,Paperback,"  Tao Le",792
+436,The 78-Storey Treehouse,359,Adventure Books for Kids,Funny Books for Kids,4.39,8.15,10.78,12-Jan-17,9781509833757,539,Paperback,"  Andy Griffiths",384
+437,The Book Thief,655,Contemporary Fiction,Military Fiction,4.36,10.83,14.38,20-Mar-14,9780552779739,"1,353,191",Paperback,"  Markus Zusak",560
+438,The Couple Next Door,406,Crime,Crime Fiction,3.74,12.62,14.38,20-Apr-17,9780552173148,"96,209",Paperback,"  Shari Lapena",368
+439,Recharge,898,Psychology,Health Books,NA,15.24,23.38,04-Jan-18,9780349418148,0,Hardback,"  Julie Montagu",272
+440,Becoming Myself,410,"Autobiography: Science, Technology & Engineering",Psychiatry,4.26,26.99,35.99,03-Oct-17,9780349410067,261,Hardback,"  Irvin D. Yalom",352
+441,Lolita,410,Contemporary Fiction,Classic Books & Novels,3.88,13.14,27.23,04-Jul-11,9780241951644,"522,486",Paperback,"  Vladimir Nabokov",368
+442,Superintelligence,480,Risk Assessment,Impact Of Science & Technology On Society,3.85,15.57,21.18,01-May-16,9780198739838,"5,828",Paperback,"  Nick Bostrom",432
+443,Oxford School Shakespeare: Macbeth,412,Shakespeare Plays,Literary Reference Works,3.88,10.51,13.21,12-Oct-09,9780198324003,"528,292",Paperback,"  William Shakespeare , Series edited by  Roma Gill",160
+444,Runner,491,Contemporary Fiction,NA,NA,17.92,20.88,30-May-05,9780143302070,0,Paperback,"  Robert Newton",240
+445,The Wonder Weeks,416,Child Care & Upbringing,NA,4.2,23.92,26.49,05-Sep-17,9789491882166,319,Paperback,"  Hetty van de Rijt ,   Frans Plooij ,   Xaviera Plas-Plooij",510
+446,Twisted,417,Romance,Romance Books,4.62,13.75,21.23,26-Dec-17,9781943893249,954,Paperback,"  Helen Hardt",288
+447,Birth Skills,466,Gynaecology & Obstetrics,"Pregnancy, Birth & Baby Care",4.12,22.48,43.82,03-Jun-08,9780091922146,333,Paperback,"  Juju Sundin ,   Sarah Murdoch",304
+448,Playing for Time,438,"Plays, Playscripts",NA,4.13,NA,NA,01-Feb-90,9781854590961,661,Paperback,"  Arthur Miller , Edited by  Fania Fenelon",96
+449,Ina May's Guide to Childbirth,817,Advice On Parenting,"Pregnancy, Birth & Baby Care",4.41,18.23,35.18,07-Aug-08,9780091924157,"13,109",Paperback,"  Ina May Gaskin",352
+450,The Choice,420,Biography: General,Memoirs,4.61,16.41,23.38,07-Sep-17,9781846045110,576,Paperback,"  Edith Eger",400
+451,Man's Search For Meaning,500,Holocaust,World War 2 Books,4.33,11.7,16.79,06-May-04,9781844132393,"199,221",Paperback,"  Viktor E. Frankl",160
+452,Fangirl,324,Romance Books for Teenagers,NA,4.11,12.74,19.99,30-Jan-14,9781447263227,"382,226",Paperback,"  Rainbow Rowell",480
+453,Space,423,Activity Books,Pop-Up Books,4.51,16.79,20.75,29-Nov-12,9781409523383,64,Hardback,"  Rob Lloyd Jones , Illustrated by  Benedetta Giaufret , Illustrated by  Enrica Rusina",14
+454,Why I'm No Longer Talking to White People About Race,424,Social & Cultural History,Social Discrimination,4.41,14.47,16.18,08-Mar-18,9781408870587,984,Paperback,"  Reni Eddo-Lodge",272
+455,Crown of Midnight,425,Sci Fi Books for Kids,Fantasy Books for Kids,4.48,12.56,14.31,22-Jul-15,9781408834947,"196,136",Paperback,"  Sarah J. Maas",432
+456,Press Here,469,Picture Books,Colours,4.44,17.38,21.23,01-Apr-11,9780811879545,"15,862",Hardback,"  Herve Tullet",56
+457,Red Notice,427,Autobiography: General,True Crime Biographies,4.34,12.7,16.18,11-Feb-16,9780552170321,"16,298",Paperback,"  Bill Browder",480
+458,Practising The Power Of Now,429,Spirituality & Religious Experience,Religious Life & Practice,4.24,12.72,16.79,04-Apr-02,9780340822531,"30,572",Paperback,"  Eckhart Tolle",144
+459,The Book With No Pictures,449,Storybooks,Funny Books for Kids,4.34,11,12.58,05-May-16,9780141361796,"14,843",Paperback,"  B. J. Novak",48
+460,Grandpa's Great Escape,434,Children's General Story Books,Funny Books for Kids,4.35,12.04,12.58,09-Feb-17,9780008183424,"2,772",Paperback,"  David Walliams",464
+461,The Giver,435,Classic Books for Children,Sci Fi Books for Kids,4.12,9.88,12.58,16-Dec-16,9780007578498,"1,361,136",Paperback,"  Lois Lowry",240
+462,Awful Auntie,436,Funny Books for Kids,NA,4.19,9.41,12.58,04-May-16,9780007453627,"3,577",Paperback,"  David Walliams",416
+463,Raise Your Vibration,437,"Mind, Body & Spirit",Psychic Powers & Psychic Phenomena,4.22,13.96,17.98,29-Mar-16,9781781805107,144,Paperback,"  Kyle Gray",272
+464,Becoming A Supple Leopard,436,Exercise & Workout Books,NA,4.38,87.35,NA,19-May-15,9781628600834,"3,046",Hardback,"  Kelly Starrett ,   Glen Cordoza",482
+465,Key Muscles of Yoga: Your Guide to Functional Anatomy in Yoga,439,Human Biology,Exercise & Workout Books,4.33,35.74,46.41,15-Nov-09,9781607432388,"1,127",Paperback,"  Ray Long",240
+466,The Yellow Belt Memory Jogger,"1,265",Management & Management Techniques,NA,NA,5.33,23.84,15-May-15,9781576811733,0,NA,"  Joseph T Basala",
+467,The Internet of Money,835,Internet Guides & Online Services,Online Finance & Investing,4.11,18.81,NA,30-Aug-16,9781537000459,546,Paperback,"  Andreas M Antonopoulos",134
+468,That's Not My Unicorn...,442,Baby Books,Activity Books,4.25,10.91,12.58,05-Jul-17,9781474935975,35,Boardbook,"  Fiona Watt , Illustrated by  Rachel Wells",10
+469,Oi Frog!,443,Picture Books,Activity Books,4.17,10.8,12.58,05-Feb-15,9781444910865,"1,035",Paperback,"  Kes Gray , Illustrated by  Jim Field",32
+470,Davina's Sugar-Free in a Hurry,"67,936",General Cookery,Celebrity Chefs,4.17,21.79,33.18,13-Jun-17,9781409157694,29,Paperback,"  Davina McCall",224
+471,Calm,334,Memoirs,Creative Writing & Creative Writing Guides,4.75,29.15,34.17,28-Dec-17,9781409176923,4,Hardback,"  Fearne Cotton",288
+472,Harry Potter and the Philosopher's Stone,446,Children's Literature Studies: General,Fantasy,4.44,12.49,14.38,16-Oct-14,9781408855652,"4,907,802",Paperback,"  J. K. Rowling",352
+473,Goddess Guidance Oracle Cards,515,Fortune-telling By Cards (cartomancy),Tarot,4.54,15.03,25.21,23-Sep-04,9781401903015,327,NA,"  Doreen Virtue",44
+474,Whoever You Are,585,Picture Books,Children's Fiction,4.18,5.96,6.62,20-Dec-07,9780152060305,"2,179",Paperback,"  Mem Fox",32
+475,High Performance Habits,375,Advice On Careers & Achieving Success,NA,4.23,26.85,37.77,21-Sep-17,9781401952853,445,Hardback,"  Brendon Burchard",400
+476,The Power of Habit,449,"Social, Group Or Collective Psychology",Organizational Theory & Behaviour,4.03,12.53,22.57,01-Jul-14,9780812981605,"176,524",Paperback,"  Charles Duhigg",383
+477,Oathbringer,450,Fantasy,Fantasy Books,4.7,41.77,46.46,14-Nov-17,9780765326379,"20,331",Hardback,"  Brandon Sanderson",1248
+478,The Dinosaur's Diary,547,Children's Fiction,Children's General Story Books,3.96,8.15,12.94,28-Mar-02,9780141313825,65,Paperback,"  Julia Donaldson",112
+479,The Myth of Sisyphus,451,Literary Essays,"Western Philosophy, From C 1900 -",4.18,8.39,14.61,01-Oct-05,9780141023991,"6,094",Paperback,"  Albert Camus",144
+480,Clean Code,814,Computer Programming / Software Development,Software Engineering,4.37,45.66,NA,01-Mar-09,9780132350884,"8,465",Paperback,"  Robert C. Martin",464
+481,Where's Spot?,346,Characters,Activity Books,4.05,10.76,NA,21-Jun-11,9780723263661,"13,942",Boardbook,"  Eric Hill",12
+482,Organised,453,Reference Works,Philosophy Of Mind,NA,21.83,26.98,20-Dec-17,9780717175567,0,Paperback,"  Sarah Reynolds",320
+483,Mr Stink,386,Graphic Novels: Literary & Memoirs,Graphic Novels: Literary & Memoirs,4.19,9.84,12.58,01-Jun-10,9780007279067,"5,332",Paperback,"  David Walliams , Illustrated by  Quentin Blake",272
+484,Save with Jamie,454,Health Books,Personal Finance,4.04,38.24,46.79,29-Aug-13,9780718158149,933,Hardback,"  Jamie Oliver",288
+485,Hero at the Fall,455,Adventure Books for Kids,Fantasy Books for Kids,4.5,12.87,14.38,01-Feb-18,9780571325436,193,Paperback,"  Alwyn Hamilton",528
+486,Rookie on Love,456,Self-Esteem,Relationships,4.28,15.96,19.85,01-Jan-18,9780448493992,7,Paperback,"  Tavi Gevinson",252
+487,Stalking Jack the Ripper,459,Thriller Books for Children,NA,4,15.28,NA,05-Sep-17,9780316273510,"13,625",Paperback,"  Kerri Maniscalco",325
+488,Sleep,621,Cognition & Cognitive Psychology,States Of Consciousness,3.76,13.95,17.98,27-Oct-16,9780241975978,169,Paperback,"  Nick Littlehales",208
+489,Unbreakable,562,Biography: General,Biography: Sport,4.33,30.57,43.75,01-Feb-18,9780143784227,30,Paperback,"  Jess Halloran ,   Jelena Dokic",320
+490,Weapons of Math Destruction,606,Political Ideologies,Political Structures: Democracy,3.87,14.16,17.98,06-Jul-17,9780141985411,"4,259",Paperback,"  Cathy O'neil",272
+491,Jerusalem,338,National & Regional Cuisine,NA,4.36,40.45,56.09,06-Sep-12,9780091943745,"12,165",Hardback,"  Yotam Ottolenghi ,   Sami Tamimi",320
+492,Artemis,467,Contemporary Fiction,Adventure Books,3.72,19.54,23.38,14-Nov-17,9780091956943,"33,102",Hardback,"  Andy Weir",320
+493,The Unexpected Joy of Being Sober,469,Biography: General,Memoirs,4.26,14.16,16.18,28-Dec-17,9781912023387,19,Paperback,"  Catherine Gray",272
+494,Nonviolent Communication 3rd Ed,383,Communication Studies,Communication Studies,4.31,21.02,26.49,01-Sep-15,9781892005281,"7,849",Paperback,"  Marshall B. Rosenberg , Foreword by  Deepak Chopra",264
+495,Don't Let the Pigeon Drive the Bus!,471,Picture Books,Children's Fiction,4.28,9.43,16.93,22-Jul-11,9781844285136,"63,173",Paperback,"  Mo Willems",40
+496,A Gathering of Shadows,472,Crime,Crime Fiction,4.32,13.06,14.38,23-Feb-16,9781783295425,"38,484",Paperback,"  V. E. Schwab ,   Victoria Schwab",356
+497,Working Class Man,473,Rock & Pop Music,Rock & Pop Music,4.23,26.76,38.49,21-Aug-18,9781460752142,238,Hardback,"  Jimmy Barnes",512
+498,The 52-Storey Treehouse,697,Adventure Books for Kids,Funny Books for Kids,4.27,8.3,10.78,10-Oct-16,9781447287575,"1,342",Paperback,"  Andy Griffiths , Illustrated by  Terry Denton",336
+499,"lalylala's Beetles, Bugs and Butterflies",450,Knitting & Crochet,Toys: Making & Decorating,4.41,21.83,33.18,03-Nov-17,9781446306666,12,Hardback,"  Lydia Tresselt",128
+500,It,312,Horror,Horror,4.19,17.13,27.23,26-Jul-11,9781444707861,"502,337",Paperback,"  Stephen King",1184
+502,Thunderhead,462,Children's Fiction,Children's General Story Books,4.65,22.3,25.21,09-Jan-18,9781442472457,195,Hardback,"  Neal Shusterman",352
+503,The Man Who Mistook His Wife for a Hat,710,Literary Studies: General,"Physiological & Neuro-psychology, Biopsychology",4.04,13.26,26.89,01-Sep-11,9780330523622,"113,443",Paperback,"  Oliver Sacks",272
+504,"Tokyo Ghoul: re, Vol. 2",478,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.47,12.17,17.26,19-Dec-17,9781421594972,"1,180",Paperback,"  Sui Ishida",228
+505,Harry Potter and the Prisoner of Azkaban,444,Fantasy,Fantasy Books,4.53,13.12,14.38,16-Oct-14,9781408855676,"1,997,848",Paperback,"  J. K. Rowling",480
+506,Exit West,430,Contemporary Fiction,NA,3.82,20.8,26.98,27-Feb-17,9780241290088,"32,038",Hardback,"  Mohsin Hamid",240
+507,Empire of Storms,464,Children's General Story Books,Adventure Books for Kids,4.57,14.14,14.31,08-Sep-16,9781408872895,"87,906",Paperback,"  Sarah J. Maas",704
+508,The Silk Roads,412,General & World History,NA,4.25,16.97,19.78,07-Jun-16,9781408839997,"4,705",Paperback,"  Peter Frankopan",656
+509,The Outsiders,481,Classic Books for Children,Children's General Story Books,4.06,9.72,13.26,02-Dec-98,9780140385724,"691,623",Paperback,"  S. E. Hinton",180
+510,After You,482,Contemporary Fiction,Adult & Contemporary Romance,3.69,12.6,14.38,15-Sep-16,9781405909075,"189,733",Paperback,"  Jojo Moyes",448
+511,"Iggy Peck, Architect",498,Picture Books,Children's Fiction,4.44,19.22,23.84,19-Oct-07,9780810911062,"2,995",Hardback,"  Andrea Beaty",32
+512,Beneath the Sugar Sky,377,Fantasy,Fantasy Books,4.25,20.28,23.88,09-Jan-18,9780765393586,236,Hardback,"  Seanan McGuire",176
+513,The Jolly Postman or Other People's Letters,519,Baby Books,Activity Books,4.48,18.97,27.28,20-Jun-11,9780670886241,"10,077",Hardback,"  Allan Ahlberg ,   Janet Ahlberg",48
+514,The Diary of a Young Girl,486,Biography: General,"Biography: Historical, Political & Military",4.1,9.29,NA,04-Feb-02,9780553296983,"2,061,965",Paperback,"  Anne Frank",283
+515,Lord of the Flies,487,Contemporary Fiction,Classic Books & Novels,3.65,12.04,13.26,22-Jul-11,9780399501487,"1,730,814",Paperback,"  William Golding",208
+516,Misbehaving,488,Psychology,Behavioural Economics,4.14,14.94,17.98,05-May-16,9780241951224,"5,499",Paperback,"  Richard H. Thaler",432
+517,Anything is Possible,489,Contemporary Fiction,NA,3.82,16.9,23.38,04-May-17,9780241287972,"16,387",Hardback,"  Elizabeth Strout",272
+521,No-Drama Discipline,401,Advice On Parenting,NA,4.24,20.96,26.98,01-Jan-15,9781922247568,"2,227",Paperback,"  Daniel J. Siegel ,   Tina Payne Bryson",288
+522,Let's Make Some Great Art,488,Activity Books,Art,4.36,20.21,26.49,17-Aug-11,9781856697866,102,Paperback,"  Marion Deuchars",224
+523,How to Talk so Kids Will Listen and Listen so Kids Will Talk,495,Child Care & Upbringing,NA,4.24,17.6,38.83,05-Dec-12,9781848123090,"14,773",Paperback,"  Adele Faber ,   Elaine Mazlish",368
+524,Women Who Run With The Wolves,499,Gender Studies: Women,Sociology & Anthropology,4.15,19.04,27.28,22-Sep-16,9781846041099,"24,867",Paperback,"  Clarissa Pinkola Estes",560
+525,Lonely Planet Morocco,497,Guidebooks,NA,3.87,21.56,37.16,15-Aug-17,9781786570321,8,Paperback,"  Lonely Planet",512
+526,The Universe Has Your Back,498,Popular Psychology,"Mind, Body, Spirit: Thought & Practice",4.96,16.16,25.21,05-Sep-17,9781781809334,25,NA,"  Gabrielle Bernstein , Illustrated by  Micaela Ezra",52
+527,The Wicked & The Divine Volume 6,499,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.18,19.89,22.57,16-Jan-18,9781534304734,144,Paperback,"  Kieron Gillen , By (artist)  Jamie McKelvie , By (artist)  Matt Wilson",168
+528,Quantum Physics for Babies,500,Baby Books,Early Learning,4.03,13.86,NA,09-Oct-17,9781492656227,244,Boardbook,"  Chris Ferrie",24
+529,Eleanor & Park,501,Contemporary Fiction,Romance Books for Teenagers,4.1,9.75,14.38,07-Jul-14,9781409157250,"594,137",Paperback,"  Rainbow Rowell",336
+530,Harry Potter and the Order of the Phoenix,561,Fantasy,Fantasy Books,4.46,15.24,16.18,16-Oct-14,9781408855690,"1,860,288",Paperback,"  J. K. Rowling",816
+531,Harry Potter and the Goblet of Fire,503,Fantasy,Fantasy Books,4.53,14.43,16.18,16-Oct-14,9781408855683,"1,933,985",Paperback,"  J. K. Rowling",640
+532,The Kite Runner,742,Contemporary Fiction,NA,4.26,12.27,12.58,05-Sep-11,9781408824863,"1,921,637",Paperback,"  Khaled Hosseini",352
+533,Batman Vol. 4 The War Of Jokes And Riddles (Rebirth),505,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",3.96,18.19,26.54,19-Dec-17,9781401273613,481,Paperback,"  Tom King ,   David Finch",200
+534,Communist Manifesto,449,Philosophy,Politics & Government,3.54,4.48,NA,01-Jan-98,9780850364781,"77,133",Paperback,"  Karl Marx ,   Friedrich Engels , Translated by  Samuel Moore",32
+535,Are You My Mother?,507,Family,Animal Stories,4.16,6.75,NA,08-Sep-98,9780679890478,"179,671",Boardbook,"  P. D. Eastman",12
+536,Leaders Eat Last,508,Political Leaders & Leadership,Business Strategy,4.12,15.22,19.78,12-Jul-17,9780670923175,"10,581",Paperback,"  Simon Sinek",368
+537,Storyfun for Movers Student's Book,509,Language: Reference & General,Language Teaching & Learning Material & Coursework,4.5,18.39,NA,30-Jun-15,9780521172813,2,Paperback,"  Karen Saxby",95
+538,A Mindfulness Guide for the Frazzled,523,Psychology,Coping With Stress,3.8,13.19,16.18,05-Jan-17,9780241972069,"1,133",Paperback,"  Ruby Wax",272
+539,Together is Better,511,Social & Cultural Anthropology,Business & Management,4.25,18.32,23.38,27-Oct-16,9780241187296,"1,036",Hardback,"  Simon Sinek",160
+541,Slaughterhouse 5,511,Contemporary Fiction,Military Fiction,4.05,11.81,17.67,21-Mar-91,9780099800200,"901,081",Paperback,"  Kurt Vonnegut",192
+542,Freakonomics,723,Home,NA,3.93,10.51,10.62,16-Feb-10,9780061956270,"552,107",Paperback,"  Steven D. Levitt ,   Stephen J. Dubner",315
+543,Billionaire Boy,468,Graphic Novels: Literary & Memoirs,Graphic Novels: Literary & Memoirs,4.2,11.77,21.25,06-Sep-11,9780007371082,"5,213",Paperback,"  David Walliams",288
+544,Authority,465,Science Fiction,Science Fiction,3.54,14.22,16.18,30-Jul-15,9780008139117,"23,337",Paperback,"  Jeff Vandermeer",352
+545,Americanah,515,Contemporary Fiction,People & Places,4.26,14.09,16.18,24-Feb-14,9780007356348,"139,707",Paperback,"  Chimamanda Ngozi Adichie",400
+546,Hey Warrior,592,Picture Books,NA,4.33,25,26.06,01-Jan-17,9781925545081,9,Hardback,"  Karen Young , Illustrated by  Norvile Dovidonyte",32
+547,Mere Christianity,677,Christian Books,Christian Theology,4.31,12.9,20.25,01-Apr-12,9780007461219,"202,786",Paperback,"  C. S. Lewis",256
+548,Moleskine Large Ruled Notebook,514,Miscellaneous Items,Stationery,NA,15.24,25.18,01-Jan-08,9788883701122,0,NA,"  Moleskine",192
+549,The Rainbow Fish,518,Graphic Novels: Literary & Memoirs,Graphic Novels: Literary & Memoirs,4.15,9.32,13.21,01-Jul-12,9783314015441,"97,717",Paperback,"  Marcus Pfister",25
+550,"Piano Exam Pieces 2017 & 2018, Grade 2",686,Keyboard Instruments,Keyboard Instruments,4,10.82,NA,07-Jul-16,9781848498747,6,NA,"Edited by  Richard Jones",12
+551,The Atlas of Beauty,520,Individual Photographers,Photographs: Collections,4.59,39.18,44.99,01-Oct-17,9781846149412,370,Hardback,"  Mihaela Noroc",352
+552,My New Baby,521,Baby Books,Family,3.95,7.16,13.98,01-Feb-10,9781846432767,260,Boardbook,"Illustrated by  Rachel Fuller",12
+553,A Short History Of The Middle East,634,Middle Eastern History,NA,3.42,7.67,22.51,28-Sep-16,9781843446361,70,Paperback,"  Gordon Kerr",192
+554,Attached,524,"Social, Group Or Collective Psychology","Dating, Relationships, Living Together & Marriage",4.06,19.54,21.25,01-May-12,9781585429134,"5,697",Paperback,"  Rachel Heller ,   Amir Levine",304
+555,Shadows of Self,525,Fantasy,Fantasy Books,4.29,12.88,16.18,13-Oct-16,9781473208230,"42,316",Paperback,"  Brandon Sanderson",384
+556,Manhattan Beach,524,Contemporary Fiction,Thriller Books,3.75,25.01,30.57,03-Oct-17,9781472150875,"13,432",Hardback,"  Jennifer Egan",448
+557,"Dragon Ball Super, Vol. 2",527,Graphic Novels: Manga,Graphic Novels: Manga,4.29,10.37,13.26,28-Dec-17,9781421596471,145,Paperback,"Other primary creator  Akira Toriyama , Illustrated by  Toyotarou",216
+558,"My Hero Academia, Vol. 10",528,Graphic Novels: Manga,Graphic Novels: Manga,4.54,9.57,13.26,16-Nov-17,9781421594378,411,Paperback,"  Kohei Horikoshi",192
+559,The 5:2 Diet Book,561,Diets & Dieting,NA,3.31,7.2,19.9,14-Feb-13,9781409146698,662,Paperback,"  Kate Harrison",240
+560,The Four Legendary Kingdoms,760,Contemporary Fiction,Thriller Books,4.3,7.59,16.18,01-Jun-17,9781409167136,"3,658",Paperback,"  Matthew Reilly",448
+561,To All the Boys I've Loved Before,532,Adventure Books for Kids,NA,4.1,10.56,12.58,10-Aug-15,9781407149073,"156,626",Paperback,"  Jenny Han",368
+562,Mortal Engines,576,Sci Fi Books for Kids,NA,3.98,9.54,14.38,01-Dec-15,9781407152134,"15,810",Paperback,"  Philip Reeve",336
+563,"Your Fantastic Elastic Brain Stretch It, Shape It",616,Activity Books,Science,4.34,20.88,25.16,13-Dec-10,9780982993804,391,Hardback,"  Joann Deak , Illustrated by  Sarah Ackerley",32
+564,Alice's Adventures in Wonderland: Pop-Up Book,536,Activity Books,Pop-Up Books,4.32,27.73,42,03-Nov-03,9780689837593,"21,382",Hardback,"  Robert Sabuda",12
+565,We're Going on a Bear Hunt,537,Storybooks,First Words,4.27,9.27,10.62,01-Oct-97,9780689815812,"34,988",Boardbook,"Illustrated by  Helen Oxenbury",36
+566,An Echo in the Bone,582,Contemporary Fiction,Fantasy,4.42,15.87,NA,31-May-11,9780440245681,"86,949",Paperback,"  Diana Gabaldon",1184
+568,Blockchain Revolution,540,Monetary Economics,Monetary Economics,3.41,19.04,26.98,26-May-16,9780241237854,"1,254",Paperback,"  Don Tapscott ,   Alex Tapscott",368
+569,The Perfect Nanny,542,Contemporary Fiction,NA,3.75,16.5,21.25,09-Jan-18,9780143132172,"2,912",Paperback,"  Leila Slimani",256
+571,"Brown Bear, Brown Bear, What Do You See?",461,Picture Books,Baby Books,4.18,9.99,14.68,02-Jan-97,9780241137291,"128,029",Boardbook,"  Eric Carle",28
+572,Soulful Simplicity,543,Coping With Stress,Personal Development,4.4,19.06,22.57,26-Dec-17,9780143130680,82,Hardback,"  Courtney Carver",224
+573,The Gruffalo's Child,544,Picture Books,Children's Fiction,4.3,10.22,10.62,01-Mar-07,9780142407547,"5,258",Paperback,"  Julia Donaldson , Illustrated by  Axel Scheffler",32
+574,Politics and the English Language,446,Literary Essays,Communication Studies,4.31,4.48,NA,09-Apr-13,9780141393063,"2,903",Paperback,"  George Orwell",32
+575,Feel The Fear And Do It Anyway,414,Psychology,Personal Development,4.01,13.19,NA,01-Apr-07,9780091907075,"20,307",Paperback,"  Susan Jeffers",272
+576,The Outsiders,381,Children's General Story Books,NA,4.06,11.59,14.38,04-Aug-16,9780141368887,"691,623",Paperback,"  S. E. Hinton",224
+578,Japanese Knitting Stitch Bible,550,Fashion & Textiles: Design,Knitting & Crochet,4.76,24.04,NA,10-Oct-17,9784805314531,46,Paperback,"  Hitomi Shida ,   Gayle Roehm",160
+579,When: The Scientific Secrets of Perfect Timing,551,Time Management,Popular Science,3.48,27.64,34.46,02-Jan-18,9781925498189,37,Paperback,"  Daniel H. Pink",256
+580,The Seven Spiritual Laws of Success,782,Religion: General,Personal Development,4.07,9.77,11.88,09-Mar-15,9781878424716,"43,240",Paperback,"  Deepak Chopra",128
+581,The Gentle Art of Swedish Death Cleaning,554,Personal Development,NA,NA,16.07,23.38,28-Dec-17,9781786891082,0,Hardback,"  Margareta Magnusson",144
+582,The Magic of Thinking Big,555,"Assertiveness, Motivation & Self-esteem",NA,4.2,14.54,17.98,25-Feb-16,9781785040474,"45,296",Paperback,"  David J. Schwartz",384
+583,Grey,499,Fiction Books,NA,3.76,13.15,14.38,19-Jun-15,9781784753252,"106,496",Paperback,"  E. L. James",576
+584,Witch,557,"Complementary Therapies, Healing & Health",Psychic Powers & Psychic Phenomena,3.72,15.66,21.23,09-May-17,9781781807545,458,Paperback,"  Lisa Lister",304
+585,Reasons to Stay Alive,916,Prose: Non-fiction,NA,4.18,12.56,16.18,07-Jan-16,9781782116820,"16,142",Paperback,"  Matt Haig",272
+586,Lonely Planet Vietnam,564,Guidebooks,NA,3.94,21.29,37.16,16-Aug-16,9781743218723,286,Paperback,"  Lonely Planet ,   Iain Stewart ,   Brett Atkinson ,   Anna Kaminski ,   Jessica Lee ,   Nick Ray ,   Benedict Walker",520
+587,The Complete Guide To Fasting,560,Popular Medicine & Health,Fitness & Diet,4.43,32.27,39.77,18-Oct-16,9781628600018,"1,580",Paperback,"  Jimmy Moore ,   Dr. Jason Fung",304
+588,Descender Volume 5,561,Science Fiction,Science Fiction,3.98,19.53,22.57,16-Jan-18,9781534303454,55,Paperback,"  Jeff Lemire , By (artist)  Dustin Nguyen",120
+589,The Language of Thorns,562,Fantasy Books for Kids,Short Stories for Kids,4.51,17.31,23.38,26-Sep-17,9781510104419,"8,616",Hardback,"  Leigh Bardugo",304
+590,The Bands of Mourning,563,Fantasy,Fantasy Books,4.44,13.06,16.18,12-Jan-17,9781473208278,"35,427",Paperback,"  Brandon Sanderson",448
+591,The 7 Habits of Highly Effective People,565,Organizational Theory & Behaviour,Personal Development,4.05,19.96,22.57,19-Nov-13,9781451639612,"344,802",Paperback,"  Dr Stephen R Covey",391
+592,A Court of Wings and Ruin,568,Children's General Story Books,Adventure Books for Kids,4.52,13.89,14.38,09-May-17,9781408857908,"86,204",Paperback,"  Sarah J. Maas",720
+593,The Raven Boys,569,Sci Fi Books for Kids,Fantasy Books for Kids,4.05,11.61,23.23,21-Sep-12,9781407134611,"164,339",Paperback,"  Maggie Stiefvater",464
+594,A Monster Calls,446,Classic Books & Novels,Children's Fiction,4.36,11.93,14.38,07-May-15,9781406361803,"137,320",Paperback,"  Patrick Ness ,   Siobhan Dowd",240
+595,Medical Medium,571,Health Books,"Complementary Therapies, Healing & Health",4.11,25.01,NA,15-Nov-16,9781401948313,"1,681",Paperback,"  Anthony William",392
+596,The Invisible String,572,Children's Fiction,Children's General Story Books,4.4,22.51,NA,30-May-01,9780875167343,704,Hardback,"  Patrice Karst , Illustrated by  Geoff Stevenson",36
+597,Small Great Things,581,Contemporary Fiction,Sagas,4.34,12.24,NA,11-Apr-17,9780425286029,"109,053",Paperback,"  Jodi Picoult",534
+598,"Head, Shoulders, Knees and Toes...",573,Baby Books,Novelty Books,4.04,6.8,NA,01-Oct-02,9780859537285,982,Boardbook,"Illustrated by  Annie Kubler",12
+599,Tao Te Ching New Edition,477,"Mind, Body, Spirit: Thought & Practice",NA,4.31,11.5,20.91,01-May-11,9780857830159,"81,842",Paperback,"  Lao-Tzu , Translated by  Stephen Mitchell",224
+600,Guess How Much I Love You,575,Children's Fiction,Classic Books for Children,4.35,10.38,10.62,14-Oct-08,9780763642648,"108,566",Boardbook,"  Sam McBratney",24
+601,Lost Ocean,576,"Animals & Nature In Art (still Life, Landscapes & Seascapes, Etc)",Art Techniques & Principles,4.31,16.34,23.38,22-Oct-15,9780753557150,48,Paperback,"  Johanna Basford",80
+602,I'm a Big Sister,513,Picture Books,Children's Fiction,4.08,9.34,NA,01-Apr-10,9780061900624,637,Hardback,"  Joanna Cole ,   Rosalinda Kightley",32
+603,Oh My God What a Complete Aisling The Novel,577,Contemporary Fiction,NA,4.02,20.07,23.38,31-Aug-17,9780717175536,967,Paperback,"  Emer McLysaght ,   Sarah Breen",272
+604,Zenith,667,Adventure Books for Kids,Sci Fi Books for Kids,3.32,12.56,14.38,11-Jan-18,9780008228330,163,Paperback,"  Sasha Alsberg ,   Lindsay Cummings",368
+605,Evicted,571,Poverty  & Unemployment,Social Classes,4.47,20.84,22.57,07-Mar-17,9780553447453,"23,277",Paperback,"  Matthew Desmond",422
+606,Collusion,442,European History,Elections & Referenda,4.42,18.23,22.51,16-Nov-17,9780525562511,811,Paperback,"  Luke Harding",354
+607,Super Minds Level 1 Student's Book with DVD-ROM,"1,632",Language Teaching & Learning Material & Coursework,ELT: Learning Material & Coursework,NA,22.84,40.17,30-Sep-12,9780521148559,0,NA,"  Herbert Puchta ,   Günter Gerngross ,   Peter Lewis-Jones",130
+608,Fahrenheit 451,727,Classic Books & Novels,Science Fiction,3.97,12.2,23.57,01-Sep-08,9780006546061,"1,192,180",Paperback,"  Ray Bradbury",192
+609,Everyday Watercolor,582,Watercolours,"Animals & Nature In Art (still Life, Landscapes & Seascapes, Etc)",4.39,24.71,30.52,10-Oct-17,9780399579721,38,Paperback,"  Jenna Rainey",216
+610,"The Saga of Tanya the Evil, Vol. 1 (light novel)",583,Fantasy,Fantasy Books,4.47,16.43,18.59,19-Dec-17,9780316512442,34,Paperback,"  Carlo Zen",336
+611,Maori Made Easy,586,Language Self-study Texts,NA,5,NA,NA,28-Jan-15,9780143570912,2,Paperback,"  Scotty Morrison",336
+612,Artemis,588,Contemporary Fiction,Adventure Books,3.72,19.35,23.38,14-Nov-17,9780091956950,"33,102",Paperback,"  Andy Weir",320
+613,The Plant Paradox,420,Popular Medicine & Health,Diets & Dieting,3.98,25.93,37.16,25-Apr-17,9780062427137,690,Hardback,"  Steven R. Gundry",416
+614,Lonely Planet Iceland,621,Guidebooks,NA,4.08,21.02,37.16,16-May-17,9781786574718,811,Paperback,"  Lonely Planet",424
+615,Moleskine Pocket Watercolour Notebook,486,Art History,Miscellaneous Items,NA,13.86,18.52,01-Jan-08,9788883705601,0,NA,"  Moleskine",60
+616,Trash,795,Children's Fiction,Children's General Story Books,3.66,11.97,14.38,13-Aug-14,9781909531130,"8,113",Paperback,"  Andy Mulligan",224
+618,The 48 Laws Of Power,594,Society & Culture: General,Sociology & Anthropology,4.18,20.79,31.49,20-Nov-00,9781861972781,"43,907",Paperback,"  Robert Greene ,   Joost Ellfers",480
+619,The Grisha: Siege and Storm,596,Adventure Books for Kids,Sci Fi Books for Kids,4.08,11.86,14.38,05-Jun-14,9781780621708,"91,214",Paperback,"  Leigh Bardugo",416
+620,Extinctions,422,Contemporary Fiction,NA,3.75,35.31,NA,20-Dec-16,9781742588988,484,Paperback,"  Josephine Wilson",280
+621,Create Your Life Book,598,Graphic Art,Crafts & Hobbies,4.2,26.38,30.52,19-Dec-17,9781631593536,20,Paperback,"  Tamara Laporte",144
+622,The Seven Sisters,743,Contemporary Fiction,NA,4.2,13.48,14.38,23-Apr-15,9781447218647,"9,389",Paperback,"  Lucinda Riley",640
+623,Basketball (and Other Things),600,Biography: General,Funny Books & Stories,4.42,21.04,26.54,07-Nov-17,9781419726477,651,Paperback,"  Shea Serrano , Illustrated by  Arturo Torres , Foreword by  Reggie Miller",240
+624,Shantaram,844,Contemporary Fiction,NA,4.26,18.16,21,01-Apr-05,9780349117546,"114,480",Paperback,"  Gregory David Roberts",944
+625,Glass Sword,572,Contemporary Fiction,Fantasy,3.93,12.74,14.38,21-Jul-16,9781409150749,"100,958",Paperback,"  Victoria Aveyard",464
+626,Wild Embers,524,Poetry By Individual Poets,Myth & Legend Told As Fiction,4.29,14.05,23.38,16-Nov-17,9781409173922,248,Paperback,"  Nikita Gill",160
+627,A Court of Thorns and Roses,603,Children's Literature Studies: General,Fantasy Books for Kids,4.28,12.87,14.31,05-Jul-15,9781408857861,"199,259",Paperback,"  Sarah J. Maas",432
+628,Possum Magic,848,Storybooks,Children's Fiction,4.16,10.17,10.62,15-Sep-91,9780152632243,"7,524",Paperback,"  Mem Fox",32
+629,Harry Potter Boxed Set: The Complete Collection (Adult Paperback),631,Fantasy,Fantasy Books,4.74,90.72,107.96,07-Nov-13,9781408850756,"206,308",Paperback,"  J. K. Rowling",3422
+630,Time for Bed,620,Children's Fiction,Animal Stories,4.16,8.57,9.29,03-Jan-14,9780152010669,"13,899",Boardbook,"  Mem Fox",28
+631,War Horse,448,Children's General Story Books,Adventure Books for Kids,4.13,6.66,14.38,31-Jul-14,9781405271882,"32,887",Paperback,"  Michael Morpurgo",192
+632,Heart of Darkness,717,Contemporary Fiction,Classic Books & Novels,3.41,10.02,14.61,01-Dec-07,9780141441672,"312,663",Paperback,"  Joseph Conrad , Series edited by  J. H. Stape , Edited by  Robert Hampson , Edited by  Owen Knowles",192
+633,Becoming Supernatural,606,Psychotherapy,"Mind, Body, Spirit: Thought & Practice",4.66,29.94,36.89,31-Oct-17,9781401953096,12,Hardback,"  Joe Dispenza",384
+634,Extreme Ownership,607,Military History,Management: Leadership & Motivation,4.29,28.6,37.16,21-Nov-17,9781250183866,"8,504",Hardback,"  Jocko Willink",322
+635,Ways of Seeing,608,Art Theory,Art History,3.74,12.42,26.22,01-Mar-09,9780141035796,"157,075",Paperback,"  John Berger",176
+636,The Travelling Cat Chronicles,608,Contemporary Fiction,Fiction In Translation,4.36,13.01,16.18,02-Nov-17,9780857524195,268,Paperback,"  Hiro Arikawa , Translated by  Philip Gabriel",256
+637,The Old Man and the Sea,721,Contemporary Fiction,Classic Books for Children,3.73,9.97,17.6,18-Aug-94,9780099908401,"586,385",Paperback,"  Ernest Hemingway",112
+638,The Art of War,"2,456",Military History,Oriental & Indian Philosophy,3.95,12.65,29.91,21-Jun-10,9780857080097,"210,456",Hardback,"  Sun Tzu , Introduction by  Tom Butler-Bowdon",224
+639,The Handmaid's Tale,524,Contemporary Fiction,NA,4.07,13.64,NA,27-Oct-17,9780099740919,"765,389",Paperback,"  Margaret Atwood",320
+640,Words of Radiance,369,Fantasy,Fantasy Books,4.76,15.55,NA,03-Mar-15,9780765365286,"112,034",Paperback,"  Brandon Sanderson",1328
+641,The Name of the Wind: 10th Anniversary Deluxe Edition,800,Adventure Books,Fantasy,4.55,30.81,53.12,03-Oct-17,9780756413712,"461,720",Hardback,"  Patrick Rothfuss",729
+642,That's Not My Monkey,764,Baby Books,Activity Books,4.17,9.54,12.6,25-Apr-08,9780746093368,405,Boardbook,"  Fiona Watt , Illustrated by  Rachel Wells",10
+643,"Predictably Irrational, Revised",549,Economics,Economics,4.1,11.03,11.93,08-Jul-11,9780062018205,"69,328",Paperback,"  Dan Ariely",368
+644,Peppa Pig: Practise with Peppa: Wipe-Clean Writing,613,Hand Writing,NA,4.41,7.7,NA,15-Oct-15,9780723292081,17,Paperback,"  Ladybird",16
+645,The Big Leap,926,Advice On Careers & Achieving Success,Popular Psychology,4.07,12.63,21.23,13-Sep-11,9780061735363,"4,204",Paperback,"  Gay Hendricks",224
+646,Jamie's 15-Minute Meals,614,Health Books,General Cookery,3.96,38.83,76.01,19-Sep-12,9780718157807,"1,965",Hardback,"  Jamie Oliver",288
+647,The Boy in the Dress,590,Children's General Story Books,Family,4.11,9.99,20.59,25-Jun-09,9780007279043,"5,636",Paperback,"  David Walliams , Illustrated by  Quentin Blake",240
+648,Hamlyn All Colour Cookery: 200 Family Slow Cooker Recipes,721,General Cookery,Quick & Easy Cooking,3.9,8.22,12.94,06-Dec-16,9780600630579,10,Paperback,"  Sara Lewis",240
+649,And Then There Were None,615,Classic Books & Novels,Crime,4.23,10.38,14.68,03-Mar-03,9780007136834,"471,432",Paperback,"  Agatha Christie",224
+650,A Breath of Snow and Ashes,554,Science Fiction,Science Fiction,4.42,10.2,13.26,01-May-08,9780440225805,"104,841",Paperback,"  Diana Gabaldon",1438
+651,365 Days of Wonder: Mr. Browne's Precepts,574,Children's Fiction,Children's General Story Books,4.35,13.6,NA,30-Aug-16,9780399559181,"6,422",Paperback,"  R J Palacio",465
+652,The Yes Brain,618,Child & Developmental Psychology,Advice On Parenting,3.94,27.82,35.85,02-Jan-18,9780399594663,18,Hardback,"  Daniel J. Siegel",208
+653,Hey Warrior,674,Picture Books,NA,NA,21.94,NA,01-Jan-17,9781925545098,0,Paperback,"  Karen Young , Illustrated by  Norvile Dovidonyte",32
+654,Pre-Suasion,419,"Social, Group Or Collective Psychology",Business Negotiation,4.03,14.85,17.98,20-Apr-17,9781847941435,"1,800",Paperback,"  Robert B. Cialdini",432
+655,Lonely Planet Scotland,553,Guidebooks,NA,3.97,19.4,33.18,18-Apr-17,9781786573384,36,Paperback,"  Lonely Planet",480
+656,The Artist's Way,621,Religious Life & Practice,Psychology,3.9,20.25,22.57,08-Nov-16,9780143129257,"74,367",Paperback,"  Julia Cameron",245
+657,Percy Jackson and the Titan's Curse (Book 3),811,Children's General Story Books,Adventure Books for Kids,4.33,10.87,12.58,01-Aug-14,9780141346816,"496,947",Paperback,"  Rick Riordan",320
+658,Death's End,595,Science Fiction,Science Fiction,4.44,15.48,16.18,04-May-17,9781784971656,"12,106",Paperback,"  Cixin Liu , Translated by  Ken Liu",608
+659,The Night Circus,611,Contemporary Fiction,NA,4.03,8.82,20.91,24-May-12,9780099570295,"482,725",Paperback,"  Erin Morgenstern",512
+660,Acceptance,526,Science Fiction,Science Fiction,3.57,14.07,16.18,09-Sep-15,9780008139124,"17,383",Paperback,"  Jeff Vandermeer",352
+661,The Trauma Cleaner,627,True Story Books,NA,4.16,28.25,NA,29-Mar-18,9781925498523,460,Paperback,"  Sarah Krasnostein",1
+662,"Piano Exam Pieces 2017 & 2018, ABRSM Grade 1",685,Keyboard Instruments,Keyboard Instruments,4.68,10.83,NA,07-Jul-16,9781848498730,19,NA,"Edited by  Richard Jones",12
+663,Vegan 100,629,Health Books,Health & Wholefood Cookery,5,29.69,33.18,25-Jan-18,9781787131248,1,Hardback,"  Gaz Oakley",224
+664,Lonely Planet New Zealand,630,"Walking, Hiking, Trekking",Tips & Advice,4.05,23.29,37.16,08-Oct-16,9781786570246,589,Paperback,"  Lonely Planet ,   Charles Rawlings-Way ,   Brett Atkinson ,   Sarah Bennett ,   Peter Dragicevich ,   Lee Slater",672
+665,The Courage to be Disliked,631,Popular Psychology,NA,4.23,25.75,26.09,24-May-17,9781760630492,365,Paperback,"  Ichiro Kishimi ,   Fumitake Koga",
+666,Cardcaptor Sakura: Clear Card 1,629,Graphic Novels: Manga,Graphic Novels: Manga,4.34,12.42,14.59,21-Dec-17,9781632365378,299,Paperback,"  CLAMP CLAMP",1
+667,Sitting Still Like A Frog,633,Psychotherapy,Advice On Parenting,4.17,16.07,23.84,03-Dec-13,9781611800586,794,Paperback,"  Eline Snel",112
+668,Saga Volume 1,531,Science Fiction,Science Fiction,4.23,12.62,13.26,09-Sep-13,9781607066019,"146,998",Paperback,"  Brian K. Vaughan , By (artist)  Fiona Staples",160
+669,Creative Lettering and Beyond,402,Drawing,Graphic Art,3.94,18.25,26.49,03-Nov-14,9781600583971,427,Paperback,"  Gabri Joy Kirkendall ,   Laura Lavender ,   Julie Manwaring ,   Shauna Lynn Panczyszyn",144
+670,I Am Watching You,636,Thriller Books,Thrillers,4.13,15.51,21.18,01-Oct-17,9781542046596,"24,082",Paperback,"  Teresa Driscoll",300
+671,The Keto Reset Diet,633,Dietetics & Nutrition,Diets & Dieting,4.02,30.68,37.16,03-Oct-17,9781524762230,204,Hardback,"  Mark Sisson",352
+672,My Rock; My Refuge,"1,118",Christian Books,"Bible Readings, Selections & Meditations",4.47,18.86,23.38,19-Nov-15,9781473614222,680,Hardback,"  Timothy Keller",384
+673,Hunger,698,Biography: General,Literary Essays,4.28,19.06,25.18,10-Jul-17,9781472151117,"23,167",Paperback,"  Roxane Gay",288
+674,I Quit Sugar,637,Diets & Dieting,Cookery For Dietary Conditions,3.63,24.4,26.98,01-Feb-14,9781447264286,"1,583",Paperback,"  Sarah Wilson",224
+675,10% Happier,558,Personal Development,"Assertiveness, Motivation & Self-esteem",3.93,13.26,17.98,26-Jan-17,9781444799057,"44,326",Paperback,"  Dan Harris",256
+676,Tom Gates: Epic Adventure (kind of),946,Children's Books,Children's Fiction,4.63,15.42,23.38,09-Nov-17,9781407168050,22,Hardback,"  Liz Pichon",240
+677,The How Not to Die Cookbook,688,Dietetics & Nutrition,Health Books,4.52,31.82,39.82,05-Dec-17,9781250127761,105,Hardback,"  Michael Greger",270
+678,Outlander Boxed Set,644,Fantasy,Fantasy Books,4.68,81.88,NA,03-Feb-17,9781101887486,423,Paperback,"  Diana Gabaldon",
+679,First Words,899,Early Learning,NA,NA,5.11,NA,29-Mar-06,9780769647197,0,NA,"Compiled by  Brighter Child",54
+680,Essentialism,643,Management & Management Techniques,NA,4,17.89,23.38,17-Apr-14,9780753555163,"21,310",Paperback,"  Greg McKeown",272
+681,The Tales of Beedle the Bard,754,Fantasy,Fantasy Books,4.06,11.34,20.59,02-Dec-08,9780747599876,"322,135",Hardback,"  J. K. Rowling",128
+682,The Remains of the Day,807,Contemporary Fiction,Classic Books & Novels,4.1,12.35,16.18,01-Apr-10,9780571258246,"125,697",Paperback,"  Kazuo Ishiguro",272
+683,The Sun is also a Star,649,Children's Fiction,Children's General Story Books,4.12,11.84,14.38,03-Nov-16,9780552574242,"56,894",Paperback,"  Nicola Yoon",384
+684,The Hobbit and the Lord of the Rings,650,Fantasy,Fantasy Books,4.58,46.36,66.33,21-Oct-14,9780544445789,"95,095",Paperback,"  J. R. R. Tolkien",1504
+685,Fantomorphia,770,Art History: From c 1960,"Individual Artists, Art Monographs",NA,14.25,15.93,27-Mar-18,9780525536727,0,Paperback,"  Kerby Rosanes",64
+686,The Fiery Cross,652,Fantasy,Fantasy Books,4.26,15.64,NA,01-Sep-05,9780440221661,"123,622",Paperback,"  Diana Gabaldon",1472
+687,There's a Boy in the Girls' Bathroom,"1,689",Children's Fiction,Children's General Story Books,3.95,10.87,NA,06-Sep-11,9780394805726,"15,467",Hardback,"  Louis Sachar",195
+688,The Lord of the Rings,"1,328",Contemporary Fiction,Classic Books & Novels,4.47,35.11,58.43,01-Apr-08,9780261102385,"441,450",Paperback,"  J. R. R. Tolkien",1664
+689,"Thinking, Fast and Slow",651,Psychology,Cognition & Cognitive Psychology,4.09,19.31,21.25,01-Sep-17,9780374533557,"158,825",Paperback,"  Daniel Kahneman",499
+690,"Mastering the Art of French Cooking, Vol.1",663,National & Regional Cuisine,NA,4.47,17.64,38.51,17-Nov-11,9780241956465,919,Paperback,"  Julia Child ,   Louisette Bertholle ,   Simone Beck",784
+691,Getting Things Done,"1,060",Time Management,Advice On Careers & Achieving Success,3.98,18.19,25.18,19-Jun-15,9780349408941,"84,002",Paperback,"  David Allen",352
+692,The Hidden Oracle (The Trials of Apollo Book 1),784,Children's General Story Books,Adventure Books for Kids,4.3,11.45,14.38,04-May-17,9780141363929,"59,845",Paperback,"  Rick Riordan",400
+693,#Girlboss,522,Biography: Business & Industry,Autobiography: Business & Industry,3.7,11.7,17.98,05-Aug-15,9780241217931,"46,274",Paperback,"  Sophia Amoruso",256
+694,The Getaway: Diary of a Wimpy Kid (BK12): Diary of a Wimpy Kid Book 12,658,Children's General Story Books,NA,4.56,14.65,15.66,07-Nov-17,9780143782797,41,Paperback,"  Jeff Kinney",224
+695,Boy Overboard,"1,172",Children's Fiction,Children's General Story Books,3.72,10.38,17.6,05-Oct-15,9780141316253,"2,166",Paperback,"  Morris Gleitzman",192
+696,The Pyramid of Mud,659,Crime,Crime Fiction,3.78,16.39,21.25,02-Jan-18,9780143128083,509,Paperback,"  Andrea Camilleri",272
+697,Modern Romance,660,Other Performing Arts,Other Performing Arts,3.85,13.59,16.18,04-Feb-16,9780141981468,"110,963",Paperback,"  Aziz Ansari",288
+698,Holding Up the Universe,510,Romance Books for Teenagers,Family,3.91,12.49,14.38,04-Oct-16,9780141357058,"28,243",Paperback,"  Jennifer Niven",432
+699,Percy Jackson and the Battle of the Labyrinth (Book 4),586,Children's Fiction,Children's General Story Books,4.38,11.77,12.58,04-Jul-13,9780141346830,"544,482",Paperback,"  Rick Riordan",384
+700,Swing Time,441,Contemporary Fiction,NA,3.57,13.73,16.18,06-Jul-17,9780141036601,"28,015",Paperback,"  Zadie Smith",464
+701,Rising Strong,833,Personal Development,Popular Psychology,4.2,18.1,23.38,03-Sep-15,9780091955038,"26,624",Paperback,"  Brene Brown",336
+702,Moleskine Large Sketch-book,793,Miscellaneous Items,Stationery,NA,16.25,26.49,01-Jan-09,9788883701153,0,NA,"  Moleskine",100
+703,Mary Berry Everyday,"1,127",Food & Drink,Celebrity Chefs,4.42,38.83,59.76,01-Apr-18,9781785941689,56,Hardback,"  Mary Berry",320
+704,The Working Woman's Handbook,669,Business & Management,Advice On Careers & Achieving Success,4.23,18.07,26.49,17-Oct-17,9783791383149,17,Hardback,"  Phoebe Lovatt",176
+705,Unraveled,670,Romance,Romance Books,4.5,19,21.23,13-Feb-18,9781943893256,68,Paperback,"  Helen Hardt",288
+706,Nekomonogatari (black),671,Adventure Books,Fantasy,4.27,16.95,21.18,14-Dec-17,9781945054488,121,Paperback,"  Nisioisin",280
+707,The Keto Diet,"1,239",Popular Medicine & Health,Fitness & Diet,4.12,36.68,46.41,13-Apr-17,9781628600162,81,Paperback,"  Leanne Vogel",448
+708,The Yoga Sutras of Patanjali,672,Oriental & Indian Philosophy,Other Non-Christian Religions,4.4,17.91,23.84,15-Sep-12,9781938477072,"5,397",Paperback,"  Swami Satchidananda",272
+709,The Complete Guide to Yin Yoga,847,Exercise & Workout Books,"Cosmetics, Hair & Beauty",4.38,20.14,25.16,21-May-15,9781935952503,576,Paperback,"  Bernie Clark , Foreword by  Sarah Powers",296
+710,Between The World And Me,675,Social & Cultural History,Cultural Studies,4.4,14.76,19.69,26-Sep-16,9781925240702,"107,905",Paperback,"  Ta-Nehisi Coates",166
+711,Diary of an Oxygen Thief,564,Contemporary Fiction,NA,3.33,12.08,16.18,20-Nov-17,9781472152756,"9,783",Paperback,"  Anonymous",160
+712,While My Eyes Were Closed,500,Contemporary Fiction,Crime,3.91,7.54,14.38,05-May-16,9781784292812,"11,385",Paperback,"  Linda Green",416
+713,The Clever Guts Recipe Book,679,Health & Wholefood Cookery,NA,3.5,19.63,26.98,16-Nov-17,9781780723389,2,Paperback,"  Dr. Claire Bailey , With  Joy Skipper , Foreword by  Michael Mosley",208
+714,Amazing World Atlas,518,People & Places,Atlases,3.66,26.87,31.55,17-Oct-14,9781743603895,3,Hardback,"  Lonely Planet Kids",160
+715,The Care and Keeping of You,682,Mysteries & The Supernatural (Children's/YA),Children's Health Books,4.36,16.18,17.26,20-Apr-13,9781609580834,"1,043",Paperback,"  Valorie Schaefer",102
+716,Flour Water Salt Yeast,625,Cookery Dishes & Courses,"Cakes, Baking, Icing & Sugarcraft",4.44,38.49,46.48,18-Sep-12,9781607742739,"1,590",Hardback,"  Ken Forkish",272
+717,Wine Folly,684,Food & Drink,Beverages,4.44,29.85,33.2,16-Dec-15,9781592408993,770,Paperback,"  Madeline Puckette",230
+718,The Secret Language of Your Body,781,"Mind, Body & Spirit","Mind, Body, Spirit: Thought & Practice",4.27,23.39,23.9,02-Sep-10,9781582702605,143,Paperback,"Foreword by  Bernie S. Siegel ,   Inna Segal",288
+719,Act Made Simple,863,Clinical Psychology,Psychotherapy,4.32,37,53.05,01-Nov-09,9781572247055,432,Paperback,"  Russ Harris",280
+720,Adventures of a Young Naturalist,687,Memoirs,Natural History Books,4.36,32.64,44.99,21-Sep-17,9781473664401,74,Hardback,"  Sir David Attenborough",416
+721,What to Expect When You're Expecting 5th Edition,688,Popular Medicine & Health,Family & Relationships,4.22,26.22,30.57,13-Jan-17,9781471147524,71,Paperback,"  Heidi E. Murkoff",656
+723,The 39-Storey Treehouse,644,Adventure Books for Kids,Funny Books for Kids,4.26,8.37,10.78,30-Jul-15,9781447281580,"1,633",Paperback,"  Andy Griffiths , Illustrated by  Terry Denton",352
+724,The 65-Storey Treehouse,515,Adventure Books for Kids,Funny Books for Kids,4.31,8.53,10.78,02-Jun-16,9781447287599,890,Paperback,"  Andy Griffiths , Illustrated by  Terry Denton",384
+725,Golden Son,691,Science Fiction,Science Fiction,4.45,12.04,14.38,24-Sep-15,9781444759037,"83,217",Paperback,"  Pierce Brown",464
+726,"Tokyo Ghoul, Vol. 1",692,Graphic Novels: Manga,Graphic Novels: Manga,4.42,13.32,17.26,18-Jun-15,9781421580364,"52,050",Paperback,"  Sui Ishida",224
+727,A Court of Mist and Fury,693,Children's Literature Studies: General,Adventure Books for Kids,4.7,13.77,14.31,05-May-16,9781408857885,"149,747",Paperback,"  Sarah J. Maas",640
+728,The Assassin's Blade,694,Children's Literature Studies: General,Children's Fiction,4.47,12.99,14.31,02-Jul-15,9781408851982,"65,910",Paperback,"  Sarah J. Maas",448
+729,Fantastic Beasts and Where to Find Them,695,Film Scripts & Screenplays,Film Scripts & Screenplays,4.36,16.2,30.57,19-Nov-16,9781408708989,"57,430",Hardback,"  J. K. Rowling",304
+730,I'll Give You the Sun,696,Contemporary Fiction,Adult & Contemporary Romance,4.14,12.9,14.38,02-Apr-15,9781406326499,"170,022",Paperback,"  Jandy Nelson",432
+731,Five Nights at Freddy's: The Silver Eyes,704,Mystery Books for Kids,NA,4.21,11.39,13.26,06-Jan-17,9781338134377,"4,337",Paperback,"  Scott Cawthon ,   Kira Breed-Wrisley",400
+732,Algorithms to Live by,698,Cognition & Cognitive Psychology,Management Decision Making,4.15,20.21,23.9,04-Apr-17,9781250118363,"6,781",Paperback,"  Brian Christian",351
+733,The Little Book of Common Sense Investing,475,Finance,Investment & Securities,4.47,21.9,37.4,12-Dec-17,9781119404507,17,Hardback,"  John C. Bogle",304
+734,Written in My Own Heart's Blood,633,Science Fiction,Science Fiction,4.5,14.41,NA,31-May-16,9781101884249,"65,633",Paperback,"  Diana Gabaldon",1131
+735,Victoria: The Queen,619,"Biography: Historical, Political & Military",Biography: Royalty,4.21,28.97,34.17,22-Nov-16,9780349134505,"2,759",Paperback,"  Julia Baird",752
+736,Release Your Anger: Midnight Edition: An Adult Coloring Book with 40 Swear Words to Color and Relax,"1,276",Drawing,Art Techniques & Principles,3.87,10.64,12.56,28-Jul-16,9780753545669,8,Paperback,"  James Alexander",80
+737,Mindfulness,702,Coping With Anxiety & Phobias,Coping With Stress,4.18,20.32,38.83,05-May-11,9780749953089,"1,623",Paperback,"  J. Mark G. Williams ,   Dr. Danny Penman",288
+738,My Name Is Lucy Barton,531,Contemporary Fiction,NA,3.5,12.94,16.18,02-Feb-17,9780241248782,"69,405",Paperback,"  Elizabeth Strout",208
+739,The Power Of Positive Thinking,703,Popular Psychology,"Mind, Body & Spirit",4.09,13.32,NA,21-May-90,9780749307158,"57,650",Paperback,"  DR. NORMAN VINCENT PEALE",320
+740,Peppa Pig: Practise with Peppa: Wipe-Clean Numbers,704,Characters,Numbers & Counting,4.5,7.56,NA,07-Oct-15,9780723292111,18,Paperback,,16
+741,The Chalk Man,705,Contemporary Fiction,Crime,3.96,20.08,23.38,11-Jan-18,9780718187439,"1,890",Hardback,"  C. J. Tudor",352
+742,Pokemon: Deluxe Essential Handbook,795,Television & Film,People & Places,4.35,12.99,15.93,06-Aug-15,9780545795661,475,Paperback,"  Cris Silvestri",432
+743,Matilda,622,Children's Fiction,Classic Books for Children,4.28,9.79,10.62,16-Aug-07,9780142410370,"466,698",Paperback,"  Roald Dahl",232
+744,The Richest Man In Babylon,707,Business Ethics,Management: Leadership & Motivation,4.23,11.97,13.26,04-Feb-14,9780451205360,"57,690",Paperback,"  George S. Clason",196
+745,What Alice Forgot,920,Contemporary Fiction,Adult & Contemporary Romance,4.05,13.17,14.38,02-Jan-14,9780141043760,"212,926",Paperback,"  Liane Moriarty",512
+746,Outliers,587,Sociology,"Social, Group Or Collective Psychology",4.11,11.3,12.58,04-Jun-09,9780141043029,"377,738",Paperback,"  Malcolm Gladwell",384
+747,A Short History of Drunkenness,500,British & Irish History,History Of The Americas,3.77,19,23.38,02-Nov-17,9780241297681,9,Hardback,"  Mark Forsyth",256
+748,Why We Sleep,702,"Physiological & Neuro-psychology, Biopsychology",States Of Consciousness,4.48,25.59,35.99,06-Oct-17,9780241269060,753,Hardback,"  Matthew Walker",368
+749,Percy Jackson and the Last Olympian (Book 5),723,Children's Fiction,Children's General Story Books,4.49,11.9,12.58,04-Jul-13,9780141346885,"506,359",Paperback,"  Rick Riordan",416
+751,Antifragile,"1,240",Philosophy,Popular Philosophy,4.05,15.93,19.78,08-Nov-13,9780141038223,"19,845",Paperback,"  Nassim Nicholas Taleb",544
+752,Reservoir 13,724,Contemporary Fiction,NA,3.76,20.5,26.98,27-Mar-17,9780008204853,"1,785",Hardback,"  Jon McGregor",336
+753,With the End in Mind,382,Memoirs,Palliative Medicine,4.66,20.55,30.57,28-Dec-17,9780008210885,6,Hardback,"  Kathryn Mannix",352
+754,The Alchemist,726,Contemporary Fiction,NA,3.82,13.91,17.98,24-Jul-15,9780008144227,"1,432,164",Hardback,"  Paulo Coelho",224
+755,Moleskine Soft Large Ruled Notebook,730,Miscellaneous Items,Stationery,NA,15.13,26.49,01-Jan-09,9788883707162,0,NA,"  Moleskine",192
+756,"A Beautiful Mind, a Beautiful Life",731,Nonfiction History Books for Kids,History Books for Kids,4.4,11.86,13.26,12-Jun-18,9781945293627,72,Paperback,"  Lindy Tsang",288
+757,Depression & Other Magic Tricks,841,Poetry By Individual Poets,NA,3.99,17.44,21.25,24-Aug-17,9781943735204,"2,398",Paperback,"  Sabrina Benaim",96
+758,Tinkering: The Complete Book of John Clarke,662,Humour Collections & Anthologies,NA,4.2,33.09,36.55,27-Nov-17,9781925603194,5,Hardback,"  John Clarke",288
+759,Guinness World Records 2018,734,General Encyclopaedias,"Yearbooks, Annuals, Almanacs",4.29,32.61,35.99,07-Sep-17,9781910561713,31,Hardback,"  Guinness World Records",256
+760,The Concise 48 Laws Of Power,776,Society & Culture: General,Sociology & Anthropology,4.24,11.7,20.59,01-Jun-02,9781861974044,"1,100",Paperback,"  Robert Greene ,   Joost Elffers",208
+761,Lagom,736,Language Teaching & Learning Material & Coursework,Regional Studies,3.64,12.72,18,13-Jul-17,9781856753746,352,Hardback,"  Linnea Dunne",160
+762,Floret Farm's Cut Flower Garden,964,Flower Arranging & Floral Crafts,Gardening: Plants,4.62,29.42,39.77,12-May-17,9781452145761,111,Hardback,"  Erin Benzakein",308
+763,The Invention of Nature,737,"Biography: Science, Technology & Engineering",European History,4.29,16.05,19.78,04-Apr-16,9781848549005,"5,853",Paperback,"  Andrea Wulf",496
+764,"Piano Exam Pieces 2017 & 2018, Grade 3","1,030",Keyboard Instruments,Keyboard Instruments,4.75,12.09,12.51,07-Jul-16,9781848498754,4,NA,"Edited by  Richard Jones",12
+765,The Perks of Being a Wallflower,739,Contemporary Fiction,NA,4.2,11.59,14.31,18-Mar-15,9781847394071,"963,947",Paperback,"  Stephen Chbosky",240
+766,Lonely Planet Cuba,719,National & Regional Cuisine,Guidebooks,3.84,22.84,29.21,17-Oct-17,9781786571496,266,Paperback,"  Lonely Planet",544
+767,Wild Embers,740,Poetry By Individual Poets,Myth & Legend Told As Fiction,4.24,14.05,23.38,16-Nov-17,9781409173922,654,Paperback,"  Nikita Gill",160
+768,Audrey Hepburn,741,Picture Books,True Stories for Children,4.29,13.77,17.98,23-Aug-17,9781786030528,54,Hardback,"Illustrated by  Amaia Arrazola ,   Isabel Sanchez Vegara",32
+769,Dog Man Collection 1-3,744,Graphic Novels,NA,NA,29.1,41.77,01-Nov-17,9781742763309,0,Hardback,"  Dav Pilkey",224
+770,Franklin Barbecue,720,National & Regional Cuisine,Cooking With Specific Gadgets,4.48,35.74,39.82,26-Oct-15,9781607747208,"1,014",Hardback,"  Aaron Franklin",224
+771,Harry Potter Hogwarts Battle,"1,834",Home,NA,NA,105.15,NA,26-Sep-16,9781223124445,0,Hardback,,
+772,Zak George's Dog Training Revolution,809,Dogs As Pets,Dog Obedience & Training,4.3,19.33,19.9,07-Jun-16,9781607748915,374,Paperback,"  Zak George",229
+773,Live the Let-Go Life,749,Christian Spirituality & Religious Experience,Christian Life & Practice,4.82,14.2,19.78,08-Jan-18,9781546032830,46,Paperback,"  Joseph Prince",368
+774,The Artist's Way,887,Art Books,Art Theory,3.9,23.65,30.57,21-Nov-16,9781509829477,"74,367",Paperback,"  Julia Cameron",224
+775,Arcanum Unbounded,751,Fantasy,Fantasy Books,4.54,13.69,17.98,05-Oct-17,9781473218055,"7,609",Paperback,"  Brandon Sanderson",672
+776,The Cyber Effect,727,Psychology,Impact Of Science & Technology On Society,3.55,9.48,19.78,09-Mar-17,9781473610255,378,Paperback,"  Mary Aiken",400
+777,The Slow Regard of Silent Things,891,Fantasy,Fantasy Books,3.91,11.05,14.38,10-Nov-16,9781473209336,"72,942",Paperback,"  Patrick Rothfuss",176
+778,Elantris,754,Fantasy,Fantasy Books,4.17,15.44,17.98,21-Nov-16,9781473217706,"108,608",Paperback,"  Brandon Sanderson",608
+779,Scrappy Little Nobody,755,Individual Actors & Performers,Individual Actors & Performers,3.9,22.73,35.52,15-Nov-16,9781471156816,"36,037",Hardback,"  Anna Kendrick",304
+781,What I Know for Sure,526,Literary Essays,Family & Relationships,4.13,19.17,26.98,09-Nov-15,9781447277668,"12,894",Hardback,"  Oprah Winfrey",240
+782,Into the Magic Shop,"1,546",Autobiography: Religious & Spiritual,Neurology & Clinical Neurophysiology,3.66,18.99,30.57,11-Feb-16,9781444786187,3,Paperback,"  Dr. James R. Doty",288
+783,Freedom Day Planner 2018,837,Dictionaries Of Quotations,"Yearbooks, Annuals, Almanacs",4.57,19.09,22.51,01-Aug-17,9780525435075,7,Paperback,"  Paulo Coelho",
+784,The Autobiography of Malcolm X,912,Biography: General,"Biography: Historical, Political & Military",4.29,10.33,10.62,02-Sep-10,9780345350688,"139,667",Paperback,"  Malcolm X",460
+785,Peep Inside Animal Homes,898,Baby Books,Activity Books,4.53,12.36,14.38,05-Mar-14,9781409550181,58,Boardbook,"  Anna Milbourne , Illustrated by  Simona Dimitri",14
+786,Pirate Pete's Potty,762,Novelty Books,Early Learning,4.21,11.14,14.68,02-Jul-09,9781409302209,136,Boardbook,"  Andrea Pinnington",18
+787,The Silmarillion,713,Contemporary Fiction,Fantasy,3.88,14.09,23.57,01-Aug-13,9780261102736,"166,045",Paperback,"  J. R. R. Tolkien , Volume editor  Christopher Tolkien",480
+788,Harry Potter Box Set: The Complete Collection Children's Hardback,"1,036",Children's Fiction,Fantasy Books for Kids,4.74,156.38,206.95,09-Oct-14,9781408856789,"206,308",Hardback,"  J. K. Rowling",3422
+789,The Elements of Style,782,Language: Reference & General,Usage & Grammar Guides,4.19,10.37,13.21,02-Aug-99,9780205309023,"58,189",Paperback,"  William I. Strunk , Revised by  E. B. White",105
+790,The Mortal Instruments 2: City of Ashes,703,Adventure Books for Kids,Sci Fi Books for Kids,4.2,8.37,16.79,07-Jul-08,9781406307634,"591,513",Paperback,"  Cassandra Clare",416
+791,The Mortal Instruments 3: City of Glass,765,Sci Fi Books for Kids,Fantasy Books for Kids,4.33,8.71,23.57,01-Jul-09,9781406307641,"638,907",Paperback,"  Cassandra Clare",512
+792,The Year of Less,641,Memoirs,Abnormal Psychology,4.41,20.44,26.54,16-Jan-18,9781401954871,12,Hardback,"  Cait Flanders",216
+793,"Goodbye, Things","1,008",Coping With Stress,Popular Psychology,3.8,14.31,17.98,11-Apr-17,9780141986388,"2,876",Paperback,"  Fumio Sasaki",256
+794,The E-Myth Revisited,708,Entrepreneurship,Management & Management Techniques,3.98,17.51,29.21,14-Oct-04,9780887307287,"39,755",Paperback,"  Michael E. Gerber",288
+795,Everyone's a Aliebn When Ur a Aliebn Too,791,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.05,18.01,21.23,27-Jun-17,9780062569028,"14,253",Hardback,"  Jomny Sun",304
+796,Zen and the Art of Motorcycle Maintenance,792,Oriental & Indian Philosophy,Popular Philosophy,3.76,10.94,NA,01-May-06,9780060589462,"157,700",Paperback,"  Robert M. Pirsig",540
+797,On the Other Side,590,Contemporary Fiction,Romance,3.75,7.85,14.38,23-Feb-17,9780751563160,"4,652",Paperback,"  Carrie Hope Fletcher",432
+798,One Up On Wall Street,771,Biography: Business & Industry,Investment & Securities,4.13,15.78,22.57,21-Aug-00,9780743200400,"12,299",Paperback,"  Peter Lynch , With  John Rothchild",304
+799,A Game of Thrones,932,Contemporary Fiction,Adventure Books,4.44,13.86,26.22,01-Mar-09,9780006479888,"1,473,227",Paperback,"  George R. R. Martin",864
+800,Super Food Family Classics,880,Diets & Dieting,Celebrity Chefs,4.22,38.47,46.79,14-Jul-16,9780718178444,231,Hardback,"  Jamie Oliver",288
+801,Capital in the Twenty-First Century,911,Central Government Policies,Economics,4.02,24.49,26.49,14-Aug-17,9780674979857,"15,736",Paperback,"  Thomas Piketty , Translated by  Arthur Goldhammer",816
+802,Leaders Eat Last,775,Political Leaders & Leadership,Business Strategy,4.12,20.17,26.98,13-Mar-15,9780670923168,"10,581",Paperback,"  Simon Sinek",256
+803,Lullaby,776,Contemporary Fiction,Fiction In Translation,3.75,17.71,23.38,11-Jan-18,9780571337538,"2,912",Paperback,"  Leila Slimani",224
+804,The Adweek Copywriting Handbook,764,Sales & Marketing,Advertising,3.96,21.38,36.33,01-Jan-07,9780470051245,406,Paperback,"  Joseph Sugarman",360
+805,The Goldfinch,847,Contemporary Fiction,NA,3.88,16.79,17.98,19-Oct-15,9780349139630,"490,652",Paperback,"  Donna Tartt",880
+806,Cosmos,780,Science: General Issues,"Astronomy, Space & Time",4.35,20.3,23.9,10-Dec-13,9780345539434,"83,025",Paperback,"  Carl Sagan",396
+807,The Shining,"1,193",Thriller Books,Thrillers,4.18,12.4,NA,26-Jun-12,9780307743657,"853,555",Paperback,"  Stephen King",659
+808,All the Bright Places,509,Children's Fiction,Children's General Story Books,4.19,12.51,14.38,01-Aug-15,9780141357034,"153,578",Paperback,"  Jennifer Niven",432
+809,Celestial One Line a Day,537,Hobby and Gaming Books,Miscellaneous Items,4,18.45,22.51,29-Aug-17,9781452164601,3,NA,"By (artist)  Yao Cheng",372
+810,Into the Water,768,Contemporary Fiction,Crime,3.52,20.32,26.98,17-May-17,9780857524430,"70,730",Paperback,"  Paula Hawkins",368
+811,Feasts,573,General Cookery,Quick & Easy Cooking,4.58,31.2,35.99,08-Sep-17,9781784722135,24,Hardback,"  Sabrina Ghayour",240
+812,Star Wars: The Force Awakens,799,Science Fiction,Science Fiction,3.72,13.42,16.18,30-Jun-16,9781784752910,"11,784",Paperback,"  Alan Dean Foster",320
+813,Keepers of the Light Oracle Cards,628,Fortune-telling By Cards (cartomancy),Tarot,4.76,15.75,25.21,04-Oct-16,9781781806968,26,NA,"  Kyle Gray , Illustrated by  Lily Moses",
+814,I Love Dick,801,Contemporary Fiction,Feminism & Feminist Theory,3.65,12.87,16.18,05-May-16,9781781256480,"6,497",Paperback,"  Chris Kraus",288
+815,The Grisha: Shadow and Bone,918,Children's General Story Books,Adventure Books for Kids,4.05,11.63,14.38,17-Sep-14,9781780622262,"154,896",Paperback,"  Leigh Bardugo",352
+816,Breaking Free,584,True Story Books,Christian Churches & Denominations,NA,27.21,31.31,02-Jan-18,9781760632892,0,Paperback,"  Rachel Jeffs",
+817,Way of the Superior Man,725,"Gender Studies, Gender Groups",Gender Studies: Men,4.12,18.7,25.16,01-Feb-17,9781622038329,"7,971",Paperback,"  David Deida",224
+818,"First Forty Days, The",694,Advice On Parenting,"Pregnancy, Birth & Baby Care",4.29,25.68,33.13,26-Apr-16,9781617691836,172,Hardback,"  Heng Ou",224
+819,Cognitive Behavior Therapy,"2,466",Social Work,Cognition & Cognitive Psychology,4.1,63.04,74.36,17-Aug-11,9781609185046,"1,488",Hardback,"  Judith S. Beck",391
+820,The Kinfolk Home,809,Professional Interior Design,"Interior Design, Decor & Style Guides",3.7,39.05,46.95,08-Jan-16,9781579656652,288,Hardback,"  Nathan Williams",368
+821,The Power of Now,"1,163","Mind, Body & Spirit","Mind, Body, Spirit: Thought & Practice",4.11,19.24,21.25,01-Nov-04,9781577314806,"121,548",Paperback,"  Eckhart Tolle",251
+822,East West Street,888,Biography: General,Memoirs,4.46,14.5,17.98,31-Mar-17,9781474601917,"1,343",Paperback,"  Philippe Sands",496
+823,Disney Villains The Beast Within,743,Fantasy Books for Kids,Traditional,3.58,8.4,12.58,17-Jun-16,9781474840811,"5,243",Paperback,"  Serena Valentino",224
+824,Into the Wild,812,Biography: General,True Story Books,3.95,12.08,18.88,01-Jul-11,9780330351690,"694,696",Paperback,"  Jon Krakauer",224
+825,Way of the Wolf,813,Management: Leadership & Motivation,Business Negotiation,4.29,21.41,26.98,26-Sep-17,9781473674813,229,Paperback,"  Jordan Belfort",256
+826,It's Okay To Be Different,"1,347",Storybooks,Children's Fiction,4.35,9.52,10.62,06-Aug-09,9780316043472,"2,587",Paperback,"  Todd Parr",32
+827,Basics to Brilliance,636,Food & Drink,General Cookery,4.36,66.15,NA,01-Oct-17,9781460751428,19,Hardback,"  Donna Hay",400
+828,Whiskey Words & a Shovel I,815,Poetry Books,Poetry By Individual Poets,4.09,16.57,23.88,01-Jun-17,9781449488062,"3,091",Paperback,"  R. H. Sin",304
+829,Into Thin Air,816,Biography: General,"True Stories Of Heroism, Endurance & Survival",4.11,12.35,16.18,01-Jul-11,9781447200185,"303,760",Paperback,"  Jon Krakauer",352
+830,What the Ladybird Heard,718,Picture Books,Poetry Books for Kids,4.26,11.27,12.6,05-Mar-10,9780230706507,"1,276",Paperback,"  Julia Donaldson , Illustrated by  Lydia Monks",32
+831,Better Than Before,817,Popular Psychology,NA,3.81,13.64,17.98,01-Jan-16,9781444769012,"19,415",Paperback,"  Gretchen Rubin",336
+832,My First Gruffalo Little Library,457,Baby Books,Characters,4.02,8.39,14.61,01-May-12,9780230756052,36,NA,"  Julia Donaldson , Illustrated by  Axel Scheffler",4
+833,JoJo's Guide to the Sweet Life,897,Children's Music Books,Drama,4.54,24.04,25.21,03-Oct-17,9781419728174,107,Paperback,"  JoJo Siwa",224
+834,Out of My Mind,968,Children's Fiction,Children's General Story Books,4.37,11.7,13.26,28-Jan-16,9781416971719,"72,304",Paperback,"  Sharon M. Draper",320
+835,Blueback,"2,688",Children's General Story Books,NA,3.81,15.8,18.79,22-Dec-08,9780143304333,"1,376",Paperback,"  Tim Winton",176
+836,Look Inside Our World,820,Activity Books,Pop-Up Books,4.35,14.52,17.98,18-Nov-14,9781409563945,14,Hardback,"  Emily Bone , Illustrated by  Marianna Oklejak",14
+837,Look Inside an Airport,"1,129",Activity Books,Pop-Up Books,4.75,15.71,20.96,11-Apr-14,9781409551768,12,Hardback,"  Rob Lloyd Jones , Illustrated by  Stefano Tognetti",12
+838,Red Queen,822,Contemporary Fiction,Fantasy Books for Kids,4.07,10.1,14.38,27-Aug-15,9781409150725,"304,329",Paperback,"  Victoria Aveyard",416
+839,Wonder,822,Children's Fiction,School Stories,4.44,12.29,14.38,26-Sep-17,9780141378244,"440,984",Paperback,"  R. J. Palacio",352
+841,Tracks,"2,109",Memoirs,Travel Writing,NA,14.45,17.98,01-Nov-17,9781408896204,0,Paperback,"  Robyn Davidson",272
+842,Peepo! (Board Book),647,Picture Books,Baby Books,4.21,10.87,18.27,17-Jun-11,9780141337425,"3,950",Boardbook,"  Allan Ahlberg ,   Janet Ahlberg",34
+843,The Diary of a Young Girl,"1,642",Biography: General,"Biography: Historical, Political & Military",4.1,12.11,14.68,17-Jun-11,9780141315188,"2,061,965",Paperback,"  Anne Frank",352
+844,One Hundred Years of Solitude,"1,106",Contemporary Fiction,Classic Books & Novels,4.04,13.77,21,31-Aug-00,9780141184999,"581,304",Paperback,"  Gabriel Garcia Marquez , Translated by  Gregory Rabassa",432
+845,Every Day,976,Children's Fiction,Children's General Story Books,3.98,11.68,18.59,01-Sep-13,9781405264426,"136,067",Paperback,"  David Levithan",384
+846,Of Mice and Men,852,Contemporary Fiction,NA,3.84,11.18,18.88,07-Sep-00,9780141185101,"1,535,266",Paperback,"  John Steinbeck , Introduction by  Susan Shillinglaw",144
+847,The Very Hungry Caterpillar,671,Children's Literature Studies: General,Picture Books,4.28,10.62,20.59,28-Nov-02,9780140569322,"309,805",Paperback,"  Eric Carle",28
+848,The Kiss of Deception,794,Sci Fi Books for Kids,Fantasy Books for Kids,4.05,14.7,NA,01-Aug-15,9781250063151,"52,872",Paperback,"  Mary E. Pearson",512
+849,The Reluctant Fundamentalist,851,Contemporary Fiction,NA,3.67,11.48,23.57,01-Dec-09,9780141029542,"41,791",Paperback,"  Mohsin Hamid",224
+850,Super Minds Level 1 Workbook with Online Resources,706,Language Teaching & Learning Material & Coursework,ELT: Learning Material & Coursework,NA,25.73,43.15,05-Jun-15,9781107482951,0,NA,"  Herbert Puchta ,   Günter Gerngross ,   Peter Lewis-Jones",128
+851,The Anatomy of Story,829,Creative Writing & Creative Writing Guides,Screenwriting Techniques,4.25,17.08,22.57,28-Oct-08,9780865479937,"1,992",Paperback,"  John Truby",443
+852,Thus Spoke Zarathustra,853,Contemporary Fiction,Classic Books & Novels,4.04,14.11,21.25,01-Mar-78,9780140441185,"80,325",Paperback,"  Friedrich Wilhelm Nietzsche , Translated by  R. J. Hollingdale , Introduction by  R. Hollingdale",352
+853,Atlas Obscura,830,Popular Beliefs & Controversial Knowledge,Tips & Advice,4.24,38.1,46.95,28-Sep-16,9780761169086,"2,162",Hardback,"  Joshua Foer ,   Ella Morton ,   Dylan Thuras",480
+854,Catch-22: 50th Anniversary Edition,923,Contemporary Fiction,Classic Books & Novels,3.97,15.35,20.91,08-Aug-14,9780099529125,"588,650",Paperback,"  Joseph Heller",544
+855,Harry Potter Golden Snitch Sticker Kit,"1,293",Activity Books,Children's Fiction,NA,9.05,13.21,20-Sep-16,9780762428212,0,NA,"  Running Press",16
+856,Kafka On The Shore,831,Contemporary Fiction,Classic Books & Novels,4.13,12.58,NA,06-Oct-05,9780099494096,"206,045",Paperback,"  Haruki Murakami",624
+857,Munich,790,Espionage,Espionage,3.94,17.69,25.18,21-Sep-17,9780091959203,"2,128",Paperback,"  Robert Harris",352
+858,Career of Evil,"1,062",Contemporary Fiction,Crime,4.21,14.23,16.18,16-Jun-16,9780751563597,"99,293",Paperback,"  Robert Galbraith",592
+859,Paper Hearts and Summer Kisses,988,Contemporary Fiction,Adult & Contemporary Romance,4.28,7.63,16.18,06-Apr-17,9780751560268,"1,999",Paperback,"  Carole Matthews",448
+860,I'm a Big Brother,834,Picture Books,Children's Fiction,3.98,9.5,NA,01-Apr-10,9780061900655,583,Hardback,"  Joanna Cole , Illustrated by  Rosalinda Kightley",32
+861,She Comes First,"1,076","Sex & Sexuality, Sex Manuals",NA,4.12,19.62,22.57,05-Jan-10,9780060538262,"2,882",Paperback,"  Ian Kerner",219
+862,One Handed Cooks,"1,009",General Cookery,Cooking For/with Children,4.57,40.45,50.39,01-Aug-16,9780670079018,7,Paperback,"  Allie Gaunt ,   Jessica Beaton ,   Sarah Buckle",256
+863,Radical Acceptance,836,Buddhist Books,Psychotherapy,4.24,16.79,22.57,23-Nov-04,9780553380996,"9,252",Paperback,"  Tara Brach",333
+864,Beyond Good and Evil,838,Anthologies (non-poetry),History Of Western Philosophy,4,6.12,6.64,07-Jul-97,9780486298689,"43,685",Paperback,"  Friedrich Nietzsche",176
+865,"Moleskine 12 Month Daily Planner, Pocket, Black, Hard Cover (3.5 X 5.5)","1,985",Miscellaneous Items,NA,NA,17.24,26.49,08-Jun-17,8055002853897,0,NA,"  Moleskine",400
+866,Batman: Nightwalker,773,Children's Fiction,Children's General Story Books,3.82,22.62,25.21,02-Jan-18,9780399549786,507,Hardback,"  Marie Lu",304
+867,Annihilation,842,Contemporary Fiction,Fantasy,3.64,15.26,18.59,05-Feb-14,9780374104092,"66,585",Paperback,"  Jeff Vandermeer",195
+868,Cibola Burn,"1,602",Science Fiction,Science Fiction,4.12,15.51,17.98,30-Oct-15,9780356504193,"31,685",Paperback,"  James S. A. Corey",624
+869,Lonely Planet Japanese Phrasebook & Dictionary,"1,092",Translation & Interpretation,Language Teaching & Learning Material & Coursework,4.13,8.66,13.26,06-Jul-17,9781786574497,94,Paperback,"  Lonely Planet",272
+870,Tower of Dawn,852,Adventure Books for Kids,NA,4.48,8.8,25.21,05-Sep-17,9781681195773,"28,860",Hardback,"  Sarah J. Maas",672
+871,Armada,855,Science Fiction,Science Fiction,3.49,12.58,16.18,11-Feb-16,9780099586746,"63,350",Paperback,"  Ernest Cline",368
+872,Behind Her Eyes,789,Crime,Crime Fiction,3.75,11.36,14.38,13-Dec-17,9780008131999,"25,420",Paperback,"  Sarah Pinborough",384
+873,Looking For Alaska,861,Contemporary Fiction,Adult & Contemporary Romance,4.08,12.06,16.47,03-Mar-15,9780007523160,"843,553",Paperback,"  John Green",272
+874,Why Buddhism is True,751,Philosophy,Oriental & Indian Philosophy,4.06,24.64,35.85,30-Nov-17,9781439195451,"1,615",Hardback,"  Robert Wright",336
+875,The China Study: Revised and Expanded Edition,"1,101",Television,Television,4.21,19.76,23.84,12-Jan-17,9781941631560,"18,775",Paperback,"  T. Colin Campbell ,   Thomas M. Campbell II",496
+876,Jenson Button: Life to the Limit,657,Biography: Sport,Autobiography: Sport,4.18,23.61,38.44,05-Jan-18,9781911600343,50,Hardback,"  Jenson Button",352
+877,Drive,868,Occupational & Industrial Psychology,Management: Leadership & Motivation,3.94,14.41,18.54,01-Jan-11,9781847677693,"61,251",Paperback,"  Daniel H. Pink",256
+878,Harry Potter and the Philosopher's Stone - Ravenclaw Edition,"1,584",Fantasy Books for Kids,NA,4.44,13.24,14.38,01-Jun-17,9781408883778,"4,907,802",Paperback,"  J. K. Rowling",368
+879,Ish,868,Storybooks,Children's Fiction,4.33,10.35,16.93,05-Sep-05,9781844282968,"7,629",Paperback,"  Peter H. Reynolds",32
+880,Star Wars: Thrawn,869,Space Opera,Space Opera,4.29,12.88,16.18,01-Feb-18,9781784752958,"8,787",Paperback,"  Timothy Zahn",496
+881,Wild,"1,431",Biography: General,Memoirs,3.96,12.56,20.91,25-Feb-15,9781782390626,"428,659",Paperback,"  Cheryl Strayed",336
+882,Moonology,871,Astrology,"Spirit Guides, Angels & Channelling",3.97,14.7,19.9,05-Jul-16,9781781807422,239,Paperback,"  Yasmin Boland",256
+883,GMAT Official Guide 2018 Bundle: Books + Online,544,Business Studies: General,Business & Management: Study & Revision Guides,5,101.66,119.8,12-Jul-17,9781119396178,2,Paperback,"  Graduate Management Admission Council (GMAC)",1464
+884,The Grisha: Ruin and Rising,872,Children's General Story Books,Adventure Books for Kids,4.17,11.73,14.38,04-Jun-15,9781780621845,"67,430",Paperback,"  Leigh Bardugo",384
+885,The Travelling Cat Chronicles,985,Contemporary Fiction,Fiction In Translation,4.36,22.46,NA,02-Nov-17,9780857524188,268,Hardback,"  Hiro Arikawa , Translated by  Philip Gabriel",256
+886,Do Androids Dream Of Electric Sheep?,690,Science Fiction,Science Fiction,4.07,12.04,22.57,16-Feb-12,9781780220383,"248,971",Paperback,"  Philip K. Dick",208
+887,Do No Harm,"1,373",Memoirs,Neurosurgery,4.22,12.04,16.18,11-Dec-14,9781780225920,"12,493",Paperback,"  Henry Marsh",304
+888,The First Six Weeks,"1,434",Advice On Parenting,"Pregnancy, Birth & Baby Care",4.4,27.61,30.47,01-Oct-16,9781743439968,5,Paperback,"  Midwife Cath ,   Cathryn Curtin",288
+889,StrengthsFinder 2.0,811,Development Economics,Development Economics,3.92,29.12,39.82,13-Jul-15,9781595620156,"35,186",Hardback,"  Tom Rath",192
+890,Llewellyn's Witches' Datebook 2018,713,Astrology,Witchcraft & Wicca,4.5,14.36,17.26,08-Jul-17,9780738737744,10,NA,"  Llewellyn",168
+891,"The Complete Book of Essential Oils and Aromatherapy, Revised and Expanded",878,Encyclopaedias & Reference Works,Reference Works,4.28,31.35,35.79,15-Nov-16,9781577311393,"2,535",Paperback,"  Valerie Ann Worwood",683
+892,Meditations of Marcus Aurelius,740,Classical History / Classical Civilisation,"Western Philosophy: Ancient, To C 500",4.2,4.79,NA,25-Apr-17,9781545565674,10,Paperback,"  Aurelius Marcus",48
+893,The Surrender Experiment,881,Memoirs,"Assertiveness, Motivation & Self-esteem",4.07,13.35,17.98,22-Sep-16,9781473621503,"2,114",Paperback,"  Michael A. Singer",272
+894,The Strange Death of Europe,"1,799",Regional Studies,Regional Studies,4.33,24.2,34.53,04-May-17,9781472942241,"1,553",Hardback,"  Douglas Murray",352
+895,Sword of Destiny,818,Fantasy,Fantasy Books,4.39,12.76,16.18,10-Mar-16,9781473211544,"27,706",Paperback,"  Andrzej Sapkowski , Translated by  David French",400
+896,The Perks of Being a Wallflower,935,Contemporary Fiction,Children's General Story Books,4.2,11.41,20.25,11-Jan-13,9781471116148,"963,947",Paperback,"  Stephen Chbosky",240
+897,Slaughter House Five,907,Contemporary Fiction,Classic Books & Novels,4.05,9.9,10.62,06-Oct-98,9780440180296,"901,081",Paperback,"  Kurt Vonnegut",215
+898,Killers of the Flower Moon,885,True Crime Biographies,True Crime Books,4.14,20.3,26.56,20-Apr-17,9781471140266,"19,142",Paperback,"  David Grann",352
+899,The Life-Changing Manga of Tidying Up,772,Graphic Novels: Manga,Graphic Novels: Manga,3.96,16.92,19.9,27-Jun-17,9780399580536,"3,350",Paperback,"  Marie Kondo",187
+900,The Stone Sky,969,Contemporary Fiction,Fantasy,4.42,11.25,16.18,15-Aug-17,9780356508689,"9,279",Paperback,"  N. K. Jemisin",464
+901,The Meaning of Marriage,940,"Christian Aspects Of Sexuality, Gender & Relationships","Dating, Relationships, Living Together & Marriage",4.44,13.46,17.98,29-Aug-13,9781444702163,"13,697",Paperback,"  Timothy Keller",288
+902,The Dark Tower II: The Drawing Of The Three,889,Adventure Books,Horror,4.22,12.87,25.55,11-Feb-13,9781444723458,"162,135",Paperback,"  Stephen King",496
+903,"Blue Exorcist, Vol. 18",890,Graphic Novels: Manga,Graphic Novels: Manga,4.21,11.21,13.26,02-Jan-18,9781421596549,162,Paperback,"  Kazue KATO",202
+904,Attachments,994,Contemporary Fiction,Adult & Contemporary Romance,3.94,12.67,20.25,02-Feb-12,9781409120537,"122,217",Paperback,"  Rainbow Rowell",368
+905,Talking As Fast As I Can,999,Individual Actors & Performers,Individual Actors & Performers,4.01,10.69,16.18,05-Oct-17,9780349009728,"44,963",Paperback,"  Lauren Graham",240
+906,Breaking the Habit of Being Yourself: How to Lose Your Mind and Create Anew One,892,Popular Psychology,"Assertiveness, Motivation & Self-esteem",4.18,19.58,22.57,15-Feb-13,9781401938093,"2,212",Paperback,"  Joe Dispenza",342
+907,Don't Sweat the Small Stuff,"1,000",Coping With Stress,Advice On Careers & Achieving Success,3.95,9.48,21,02-May-98,9780340708019,"67,381",Paperback,"  Richard Carlson",272
+908,Conversations With God,845,Nature & Existence Of God,Christian Life & Practice,4.15,13.26,26.22,06-Feb-97,9780340693254,"23,722",Paperback,"  Neale Donald Walsch",240
+909,Brain Rules for Baby (Updated and Expanded),893,Advice On Parenting,"Pregnancy, Birth & Baby Care",4.25,18.36,21.18,22-May-14,9780983263388,"6,363",Paperback,"  John Medina",336
+910,The Diary of Frida Kahlo,894,Art Books,Art History: c 1900 -,3.88,26.83,33.13,14-Jan-06,9780810959545,"27,950",Hardback,"Introduction by  Carlos Fuentes",296
+911,The Righteous Mind,"1,105",Ethics & Moral Philosophy,Religion & Politics,4.17,16.59,19.78,02-May-13,9780141039169,"16,686",Paperback,"  Jonathan Haidt",528
+912,Volo's Guide To Monsters,895,Reference Works,Hobby and Gaming Books,4.5,51.61,66.33,05-Jan-17,9780786966011,374,Hardback,"Edited by  Kim Mohan , Edited by  Christopher Perkins , Edited by  Michele Carter",224
+913,What to Expect the First Year,896,Family & Relationships,Advice On Parenting,3.86,17.19,22.94,07-Oct-14,9780761181507,"13,343",Paperback,"  Heidi Murkoff",678
+914,Things Fall Apart,"7,292",Literary Studies: General,Contemporary Fiction,3.61,12.56,23.57,01-Jun-07,9780141023380,"216,001",Paperback,"  Chinua Achebe",208
+915,The Meaning of Things,711,Ethics & Moral Philosophy,Popular Philosophy,3.88,13.19,20.25,03-Oct-07,9780753813591,978,Paperback,"  A. C. Grayling",224
+916,Fiesta,897,Contemporary Fiction,NA,3.82,7.32,23.57,18-Aug-94,9780099908500,"306,098",Paperback,"  Ernest Hemingway",224
+917,To Kill A Mockingbird,856,Contemporary Fiction,Classic Books & Novels,4.25,10.74,12.94,30-Jun-08,9780099419785,"3,376,674",Paperback,"  Harper Lee",320
+918,How to Win Friends and Influence People,"1,236",Business & Management,Family & Relationships,4.14,14.29,14.94,28-Jun-11,9780091906818,"324,172",Paperback,"  Dale Carnegie",304
+919,How To Stop Worrying And Start Living,"1,892",Psychology,Health Books,4.08,14.29,NA,03-Jan-98,9780749307233,"52,328",Paperback,"  Dale Carnegie",400
+920,Bad Feminist,925,Memoirs,Literature: History & Criticism,3.91,11.68,13.28,10-Oct-17,9780062695697,"49,282",Paperback,"  Roxane Gay",380
+921,We're Going on a Bear Hunt,900,Picture Books,Activity Books,4.27,10.31,16.93,26-Sep-95,9780744523232,"34,988",Paperback,"  Michael Rosen , Illustrated by  Helen Oxenbury",40
+922,Awaken The Giant Within,765,Coping With Personal Problems,Popular Psychology,4.11,14.67,24.24,02-Jan-01,9780743409384,"36,528",Paperback,"  Tony Robbins",544
+923,The Essential Rumi - Reissue,858,Poetry & Drama,Poetry Books,4.43,21.02,22.57,08-Jul-11,9780062509598,"28,528",Paperback,"  Coleman Barks",302
+924,Make Your Bed,902,Personal Development,Popular Psychology,4.05,14,17.98,12-Jul-17,9780718188863,"8,538",Hardback,"  Admiral William H. McRaven",144
+925,The Effective Executive,902,Business & Management,Management & Management Techniques,4.08,19.09,23.88,08-Jul-11,9780060833459,"19,271",Paperback,"  Peter F Drucker",178
+926,The Giving Tree,859,Contemporary Fiction,Children's Fiction,4.37,20.61,23.88,18-Feb-14,9780060256654,"719,151",Hardback,"  Shel Silverstein",64
+927,Teach Your Child to Read in 100 Easy Lessons,881,Teaching Of A Specific Subject,Teaching Of A Specific Subject,4.13,30.38,31.87,25-Feb-99,9780671631987,"1,879",Paperback,"  Siegfried Engelmann",395
+928,Oathbringer,841,Fantasy,Fantasy Books,4.7,32.14,44.99,14-Nov-17,9780575093331,"20,331",Hardback,"  Brandon Sanderson",1248
+929,Fear and Loathing in Las Vegas,958,Biography: General,Journalistic Style Guides,4.08,13.06,23.57,04-Apr-05,9780007204496,"244,406",Paperback,"  Hunter S. Thompson , Illustrated by  Ralph Steadman",240
+931,The Seven Principles for Making Marriage Work,"1,053",Family & Relationships,"Dating, Relationships, Living Together & Marriage",4.18,18.68,21.25,05-May-15,9780553447712,"10,279",Paperback,"  John Gottman",295
+932,The Highly Sensitive Child,"1,490",Child & Developmental Psychology,Advice On Parenting,3.97,17.78,NA,18-Jan-12,9780007163939,"1,574",Paperback,"  Elaine N. Aron",352
+933,Siblings Without Rivalry,909,Family & Relationships,Advice On Parenting,4.12,16.34,22.51,04-Sep-12,9780393342215,"5,797",Paperback,"  Adele Faber ,   Elaine Mazlish",288
+934,Babylon's Ashes,966,Science Fiction,Science Fiction,4.18,14.18,16.18,26-Oct-17,9780356504292,"14,823",Paperback,"  James S. A. Corey",560
+935,The Gentle Sleep Book,"1,058",Advice On Parenting,"Pregnancy, Birth & Baby Care",3.77,12.99,29.87,01-Mar-15,9780349405209,212,Paperback,"  Sarah Ockwell-Smith",320
+936,The Handmaid's Tale,913,Contemporary Fiction,NA,4.07,12.94,16.18,25-May-17,9781784873189,"765,389",Paperback,"  Margaret Atwood",336
+937,Girl Stuff 812,917,Society & Social Issues,NA,3,22.76,26.09,03-Oct-16,9780143573999,1,Paperback,"  Kaz Cooke",176
+939,Nineteen Eighty-Four,918,Contemporary Fiction,Classic Books & Novels,4.14,12.35,23.9,01-Mar-13,9780141393049,"2,095,625",Paperback,"  George Orwell",368
+940,Love Real Food,424,Health & Wholefood Cookery,Vegetarian Cookery,4.5,30.7,36.51,16-May-17,9781623367411,216,Hardback,"  Kathryne Taylor",272
+941,The Making Of Donald Trump,567,Biography: Business & Industry,Biography: Arts & Entertainment,3.98,14.31,22.24,05-Jan-17,9781612196589,"1,731",Paperback,"  David Cay Johnston",288
+942,Plenty More,"1,088",General Cookery,NA,4.34,42.61,48.59,11-Sep-14,9780091957155,"2,357",Hardback,"  Yotam Ottolenghi",288
+943,The New One Minute Manager,956,Management & Management Techniques,Advice On Careers & Achieving Success,3.95,12.38,16.18,25-Aug-15,9780008128043,"2,522",Paperback,"  Kenneth H. Blanchard ,   Spencer Johnson",112
+944,Remodelista: The Art of Order,"1,061",Professional Interior Design,"Interior Design, Decor & Style Guides",3.61,26.87,33.96,14-Nov-17,9781579656935,78,Hardback,"  Julie Carlson ,   Margot Guralnick",224
+945,The Day The Crayons Came Home,"1,185",Picture Books,Storybooks,4.43,12.4,14.38,01-Aug-16,9780008124441,"8,970",Paperback,"  Drew Daywalt , Illustrated by  Oliver Jeffers",48
+946,Algorithms to Live By,930,Popular Philosophy,Computer Science,4.16,15.06,17.98,06-Apr-17,9780007547999,"5,595",Paperback,"  Brian Christian ,   Tom Griffiths",368
+947,The Lord of the Rings Boxed Set,931,Fantasy,Fantasy Books,4.71,134.09,161.96,19-Jun-14,9780007581146,252,NA,"  J. R. R. Tolkien",1472
+948,"Asana, Pranayama, Mudra and Bandha","1,400",Hindu Books,Exercise & Workout Books,4.46,35.65,55.44,06-Aug-03,9788186336144,626,Paperback,"  Swami Satyananda Saraswati",560
+949,The Whole-Brain Child Workbook,908,Child & Developmental Psychology,Family & Relationships,4.32,28.04,33.18,01-Jun-15,9781936128747,81,Paperback,"  Daniel J. Siegel ,   Tina Payne ,   Dr Bryson",136
+950,Inglorious Empire: what the British did to India,935,British & Irish History,NA,4.22,28.99,34.46,31-Jul-17,9781925322576,"1,779",Paperback,"  Shashi Tharoor",320
+951,How Big Are Your Worries Little Bear?,"11,986",Children's Fiction,Children's General Story Books,NA,15.08,NA,28-Nov-17,9781925089202,0,Paperback,"  Jayneen Sanders",42
+952,Think and Grow Rich - the Original Classic,938,Management: Leadership & Motivation,Personal Finance,4.17,16.16,29.91,07-Jul-11,9781906465599,"120,522",Hardback,"  Napoleon Hill",388
+953,The Mastery of Love,939,"Gender Studies, Gender Groups",Family & Relationships,4.25,14.36,18.59,01-May-99,9781878424426,"26,708",Paperback,"  Don Miguel Ruiz",210
+954,Alias Grace,940,Crime,Crime Fiction,3.99,15.51,16.18,01-Sep-97,9781860492594,"68,061",Paperback,"  Margaret Atwood",560
+955,Anna Karenina,"1,253",Contemporary Fiction,Classic Books & Novels,4.02,8.55,10.62,01-Aug-97,9781853262715,"479,678",Paperback,"  Leo Tolstoy , Translated by  Aylmer Maude , Translated by  Louise Maude , Introduction and notes by  E. B. Greenwood , Series edited by  Dr. Keith Carabine",848
+956,ART: 365 Days of Masterpieces 2018 Desk Calendar,365,Exhibition Catalogues & Specific Collections,Miscellaneous Items,NA,22.55,22.57,08-Aug-17,9781419725203,0,NA,"  The Metropolitan Museum of Art",318
+957,SPQR,845,European History,Ancient History: To C 500 CE,4.09,15.71,17.98,07-Apr-16,9781846683817,"12,164",Paperback,"  Mary Beard",608
+958,The Crystal Bible Volume 1,"1,150","Mind, Body & Spirit",Fortune-telling & Divination,4.37,17.91,31.55,02-Jul-09,9781841813615,"5,610",Paperback,"  Judy Hall",400
+959,Annabel Karmel's Baby-Led Weaning Recipe Book,945,Health Books,Advice On Parenting,3.5,20.37,26.98,25-May-17,9781786750846,2,Hardback,"  Annabel Karmel",224
+961,Men Explain Things to Me,947,Literary Essays,Feminism & Feminist Theory,3.92,15.69,23.38,06-Nov-14,9781783780792,"22,613",Hardback,"  Rebecca Solnit",144
+962,Zog and the Flying Doctors,975,Storybooks,NA,4.09,10.44,12.58,07-Sep-17,9781407173504,164,Paperback,"  Julia Donaldson , Illustrated by  Axel Scheffler",32
+963,Lonely Planet's Ultimate Travelist,949,World Atlases / World Maps,World Atlases / World Maps,4.45,33.78,NA,31-Aug-15,9781743607473,154,Hardback,"  Lonely Planet",328
+964,Attack On Titan 23,853,Science Fiction,Science Fiction,4.2,12.11,14.59,21-Dec-17,9781632364630,603,Paperback,"  Hajime Isayama",200
+965,Made in Abyss Voi. 1,951,Graphic Novels: Manga,Graphic Novels: Manga,4.29,15.42,17.26,23-Jan-18,9781626927735,54,Paperback,"  Akihito Tukushi",180
+966,Five Nights at Freddy's: The Twisted Ones,951,Horror & Ghost,Television & Film,4.34,11,13.26,27-Jun-17,9781338139303,"1,045",Paperback,"  Scott Cawthon ,   Kira Breed-Wrisley",304
+967,Ivy and the Inky Butterfly,832,Decorative Arts,"Animals & Nature In Art (still Life, Landscapes & Seascapes, Etc)",4.47,17.94,23.38,12-Oct-17,9780753545652,42,Paperback,"  Johanna Basford",120
+968,The Art of Fermentation,952,Food & Beverage Technology,Diets & Dieting,4.4,48.1,53.05,20-Jul-15,9781603582865,"2,215",Hardback,"  Sandor Ellix Katz",528
+969,The Compound Effect,953,Management & Management Techniques,Management: Leadership & Motivation,4.39,15.57,21.23,02-Oct-12,9781593157241,"10,352",Paperback,"  Darren Hardy",192
+970,Berserk: Guardians of Desire v. 2,"2,693","Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.38,15.31,19.9,21-Dec-04,9781593070212,"3,405",Paperback,"  Kenturo Miura",240
+971,I Thought it Was Just Me (but it Isn'T),"1,384",Gender Studies: Women,"Self, Ego, Identity, Personality",4.21,17.26,22.57,21-Mar-08,9781592403356,"8,135",Paperback,"  Brene Brown",336
+972,Kodansha'S Furigana Japanese Dictionary,956,Bilingual & Multilingual Dictionaries,Language Teaching & Learning Material & Coursework,4.88,54.65,79.67,17-Dec-12,9781568364575,9,Hardback,"  Masatoshi Yoshida",1318
+973,Twin Peaks: The Final Dossier,628,Contemporary Fiction,Thriller Books,3.92,23.7,30.57,06-Nov-17,9781509802043,"1,980",Hardback,"  Mark Frost",160
+974,"Legend Of Korra, The: Turf Wars Part Two",960,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.44,13.05,14.59,30-Jan-18,9781506700403,29,Paperback,"  Michael Dante DiMartino ,   Irene Koh",80
+975,Hands-On Machine Learning with Scikit-Learn and TensorFlow,"1,068",Computer Science,Natural Language & Machine Translation,4.57,46.86,66.39,09-Apr-17,9781491962299,173,Paperback,"  Aurelien Geron",566
+976,Sleeping Beauties,962,Thriller Books,Thrillers,3.81,24.65,35.99,20-Nov-17,9781473665194,"17,594",Hardback,"  Stephen King ,   Owen King",736
+977,Working Class Boy,963,Rock & Pop Music,Rock & Pop Music,4.02,26.22,38.49,03-Oct-17,9781460752135,"1,234",Hardback,"  Jimmy Barnes",384
+978,Drums of Autumn,"1,206",Science Fiction,Science Fiction,4.34,14.54,NA,01-Dec-97,9780440224259,"148,525",Paperback,"  Diana Gabaldon",1070
+979,Proof of Heaven,"1,172","Biography: Science, Technology & Engineering",Memoirs,3.67,17.85,21.23,27-Mar-13,9781451695199,"43,362",Paperback,"  Dr. Eben Alexander",208
+980,Our Souls at Night,521,Contemporary Fiction,Adult & Contemporary Romance,3.95,10.78,14.38,17-Jun-16,9781447299370,"36,092",Paperback,"  Kent Haruf",192
+981,The Storm Sister,"2,057",Contemporary Fiction,Adult & Contemporary Romance,4.3,13.82,14.38,21-Apr-16,9781447288589,"5,907",Paperback,"  Lucinda Riley",720
+982,Hunting Prince Dracula,"1,092",Mystery Books for Kids,Horror & Ghost,4.43,22.69,25.21,19-Sep-17,9780316551663,"3,735",Hardback,"  Kerri Maniscalco",434
+983,"Konosuba: God's Blessing on This Wonderful World!, Vol. 4","1,625",Fantasy,Fantasy Books,3.85,15.08,18.59,19-Dec-17,9780316468763,56,Paperback,"  Natsume Akatsuki , By (artist)  Kurone Mishima",224
+984,Lessons of History,968,General & World History,Classical History / Classical Civilisation,4.17,14.54,19.92,03-May-10,9781439149959,"3,899",Paperback,"  Will Durant",128
+985,"Uzumaki (3-in-1, Deluxe Edition)",969,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.37,29.1,37.16,21-Nov-13,9781421561325,"3,842",Hardback,"  Junji Ito",648
+986,Klopp: Bring the Noise,"2,889",Biography: Sport,Training & Coaching,NA,18.75,23.38,16-Nov-17,9780224100748,0,Paperback,"  Raphael Honigstein",336
+987,"Tokyo Ghoul, Vol. 2",970,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.47,13.06,17.26,27-Aug-15,9781421580371,"11,859",Paperback,"  Sui Ishida",208
+988,"Tokyo Ghoul, Vol. 6",971,Graphic Novels: Manga,Graphic Novels: Manga,4.48,13.06,17.26,21-Apr-16,9781421580418,"5,120",Paperback,"  Sui Ishida",200
+989,Oxford School Shakespeare: Romeo and Juliet,752,Shakespeare Plays,Plays,3.73,11.18,13.21,01-Apr-09,9780198321668,"1,688,804",Paperback,"  William Shakespeare , Series edited by  Roma Gill",176
+990,Harry Potter and the Half-Blood Prince,702,Children's Literature Studies: General,Fantasy,4.54,13.98,16.18,16-Oct-14,9781408855706,"1,811,993",Paperback,"  J. K. Rowling",560
+991,The Upside of Unrequited,"1,012",Children's General Story Books,Romance Books for Teenagers,4.03,12.13,14.38,11-Apr-17,9780141356112,"18,993",Paperback,"  Becky Albertalli",368
+992,Diary Of A Wimpy Kid (Book 1),850,Children's Fiction,Children's General Story Books,3.96,8.82,14.68,06-Nov-15,9780141324906,"272,491",Paperback,"  Jeff Kinney",224
+993,Captain Underpants and the Tyrannical Retaliation of the Turbo Toilet 2000,"1,256",Adventure Books for Kids,Funny Books for Kids,4.32,8.8,10.78,07-May-15,9781407138299,"1,737",Paperback,"  Dav Pilkey",224
+994,Nineteen Eighty-Four,976,Contemporary Fiction,Political & Legal,4.14,13.84,27.89,01-Feb-09,9780141187761,"2,095,625",Paperback,"  George Orwell , Introduction by  Thomas Pynchon",400
+995,Three Wishes,997,Contemporary Fiction,Adult & Contemporary Romance,3.76,13.14,14.38,01-Feb-16,9781405918497,"59,068",Paperback,"  Liane Moriarty",384
+996,The Man in the High Castle,977,Classic Books & Novels,Science Fiction,3.65,13.19,26.22,01-May-10,9780141186672,"111,554",Paperback,"  Philip K. Dick , Introduction by  Eric Brown",256
+997,The Black Swan,"1,517",Information Theory,Management Decision Making,3.88,14.68,29.21,07-Feb-08,9780141034591,"59,544",Paperback,"  Nassim Nicholas Taleb",480
+998,Orientalism,979,Regional Studies,Regional Studies,4.07,15.91,32.19,01-Jun-07,9780141187426,"11,956",Paperback,"  Edward W. Said",432
+999,Fat for Fuel,956,Diets & Dieting,NA,4.23,23.81,24.01,15-May-17,9781401950774,373,Paperback,"  Joseph Mercola",
+1000,Batman The Killing Joke Special Ed HC,907,"Graphic Novels, Anime & Manga","Graphic Novels, Anime & Manga",4.36,20.26,23.88,21-Sep-11,9781401216672,"126,172",Hardback,"By (artist)  Brian Bolland ,   Alan Moore",64
+1001,The Three Theban Plays,946,"Plays, Playscripts",Anthologies (non-poetry),3.95,13.33,19.92,07-Feb-84,9780140444254,"51,169",Paperback,"  Sophocles , Translated by  Robert Fagles , Introduction by  Bernard M. W. Knox",432
+1002,"Web Design with HTML, CSS, JavaScript and jQuery Set","1,041",Graphical & Digital Media Applications,Web Graphics & Design,4.51,46.5,77.02,13-Aug-14,9781118907443,308,Paperback,"  Jon Duckett",1152
+1003,Letters from a Stoic,922,"Diaries, Letters & Journals",Classical History / Classical Civilisation,4.33,12.81,21.25,30-Jul-69,9780140442106,"10,751",Paperback,"  Lucius Annaeus Seneca , Introduction by  Robin Campbell",256
+1004,The Secret History,"1,362",Contemporary Fiction,NA,4.07,14.79,18.88,01-Jul-95,9780140167771,"193,537",Paperback,"  Donna Tartt",640
+1005,Moon Diary 2018,"1,580",Stationery,NA,NA,27.8,35.45,01-Jul-17,9780992537333,0,NA,"  Shekinah Morgan",
+1006,Who Says You Can't? You Do,983,Personnel & Human Resources Management,Advice On Careers & Achieving Success,4.31,26.54,NA,17-Dec-15,9780987166500,622,Paperback,"  Daniel George Chidiac",392
+1007,Toe by Toe,984,Teaching Skills & Techniques,Teaching Skills & Techniques,4.02,44.81,52.51,01-Dec-93,9780952256403,40,Paperback,"  Keda Cowling ,   Harry Cowling",290
+1008,The Code of the Woosters,984,Contemporary Fiction,Classic Books & Novels,4.35,7.29,16.79,02-Sep-08,9780099513759,"17,274",Paperback,"  P. G. Wodehouse",304
+1009,The Sympathizer,"1,089",Contemporary Fiction,Espionage,4,18.1,21.25,23-May-16,9780802124944,"34,815",Paperback,"  Viet Thanh Nguyen",393
+1010,Norwegian Wood,986,Contemporary Fiction,Fiction In Translation,4.02,13.32,36.86,04-Jul-03,9780099448822,"222,386",Paperback,"  Haruki Murakami",400
+1011,American Gods,987,Contemporary Fiction,Fantasy,4.11,14.99,16.79,01-Feb-10,9780755322817,"533,950",Paperback,"  Neil Gaiman",736
+1012,Baby-led Weaning,857,Advice On Parenting,"Pregnancy, Birth & Baby Care",3.94,17.65,26.49,01-Nov-09,9780091923808,"3,285",Paperback,"  Gill Rapley ,   Tracey Murkett",256
+1013,See Inside Your Body,"1,213",Activity Books,Pop-Up Books,4.49,17.42,NA,28-Jan-06,9780746070055,311,Hardback,"  Katie Daynes , Illustrated by  Katie King , Illustrated by  Colin King",16
+1014,"Security Analysis: Sixth Edition, Foreword by Warren Buffett","1,476",Investment & Securities,NA,4.32,64.21,108.89,13-Nov-08,9780071592536,"5,225",Hardback,"  Benjamin Graham ,   David Dodd ,   Seth A. Klarman , Foreword by  Warren Buffett",700
+1015,"It's Not How Good You Are, It's How Good You Want to Be",766,Sales & Marketing,Advertising,3.75,10.71,17.2,16-Jun-03,9780714843377,"9,161",Paperback,"  Paul Arden",128
+1016,And Then There Were None,"1,239",Crime,Crime Fiction,4.23,10.35,10.62,29-Mar-11,9780062073488,"471,432",Paperback,"  Agatha Christie",300
+1017,Rivers of London,"1,638",Fantasy,Fantasy Books,3.92,12.35,24.24,12-Oct-15,9780575097582,"50,168",Paperback,"  Ben Aaronovitch",432
+1018,Warbreaker,"1,051",Fantasy,Fantasy Books,4.22,15.93,25.9,29-Dec-11,9780575097469,"67,516",Paperback,"  Brandon Sanderson",672
+1019,The Alloy of Law,992,Fantasy,Fantasy Books,4.2,12.51,26.89,01-Nov-12,9780575105836,"87,077",Paperback,"  Brandon Sanderson",336
+1020,Paddington Suitcase,992,Picture Books,Characters,4.65,21.74,43.82,02-Apr-07,9780007251940,49,Paperback,"  Michael Bond , Illustrated by  R. W. Alley",192
+1021,Emotional Intelligence,993,Psychology: Emotions,Popular Psychology,3.98,20.1,23.9,27-Sep-05,9780553383713,"54,003",Paperback,"  Daniel Goleman",358
+1022,When Things Fall Apart,791,Buddhist Books,Tibetan Buddhism,4.29,12.56,29.21,21-Sep-09,9780007183517,"23,250",Paperback,"  Pema Chodron",208
+1023,Lego Chain Reactions,843,Activity Books,Handicrafts,4.15,15.26,29.21,15-Feb-15,9780545703307,38,NA,"  Pat Murphy",48
+1024,Super Minds Level 2 Student's Book with DVD-ROM,"1,059",Language Teaching & Learning Material & Coursework,ELT: Learning Material & Coursework,4.66,25.3,40.17,30-Sep-12,9780521148597,3,NA,"  Herbert Puchta ,   Günter Gerngross ,   Peter Lewis-Jones",130
+1025,Fluent Forever,"1,016",Linguistics,Language Teaching & Learning Material & Coursework,4.22,18.14,21.25,18-Aug-14,9780385348119,"2,741",Paperback,"  Gabriel Wyner",400
+1026,The Hating Game: 2017's funniest romcom,889,Contemporary Fiction,Romance,4.23,12.74,16.18,07-Sep-17,9780349414263,"34,305",Paperback,"  Sally Thorne",384
+1027,Stalking Jack the Ripper,"1,002",Horror & Ghost,Fantasy Books for Kids,4,22.3,25.21,20-Sep-16,9780316273497,"13,625",Hardback,"  Kerri Maniscalco , Introduction by  James Patterson",336
+1028,Macrame,942,Needlework & Fabric Crafts,"Ropework, Knots & Macrame",4.66,19,22.57,03-Jul-17,9781849499408,9,Paperback,"  Fanny Zedenius",144
+1029,Talking to My Daughter About the Economy,"1,147",Political Ideologies,Economics,3.86,20.77,23.38,16-Oct-17,9781847924421,649,Paperback,"  Yanis Varoufakis",224
+1030,The World of the Happy Pear,932,General Cookery,Health & Wholefood Cookery,4.45,25.81,39.5,26-Jul-16,9780241975534,70,Hardback,"  David Flynn ,   Stephen Flynn",272
+1031,The Go-Giver,"1,005",Business Studies: General,Management Decision Making,4.43,13.66,17.98,29-Oct-15,9780241976272,46,Paperback,"  Bob Burg ,   John David Mann",176
+1032,The Man in the High Castle,"1,006",Classic Books & Novels,Science Fiction,3.65,11.54,16.18,14-Aug-14,9780241968093,"111,554",Paperback,"  Philip K. Dick , Introduction by  Eric Brown",256
+1033,"Lonely Planet Vietnam, Cambodia, Laos & Northern Thailand","1,265",Guidebooks,NA,4.11,22.57,37.16,15-Aug-17,9781786570307,53,Paperback,"  Lonely Planet",576
+1035,"Salt, Fat, Acid, Heat",529,Food & Drink,General Cookery,4.51,56.65,NA,31-Aug-17,9781782112303,"1,124",Hardback,"  Samin Nosrat , Illustrated by  Wendy Macnaughton , Introduction by  Michael Pollan",480
+1036,Magnus Chase and the Sword of Summer (Book 1),"1,010",Adventure Books for Kids,Fantasy Books for Kids,4.26,12.96,14.38,06-Oct-16,9780141342443,"90,475",Paperback,"  Rick Riordan",528
+1037,Maybe,"1,111",Children's Fiction,Historical,4.35,11.01,12.58,21-Sep-17,9780141388656,171,Paperback,"  Morris Gleitzman",240
+1038,The Beauty Chef,"1,013",Health & Wholefood Cookery,NA,5,42.65,46.48,01-Aug-17,9781743793046,1,Hardback,"  Carla Oates",344
+1039,The Gene,983,Ethical Issues: Scientific & Technological Developments,Medical Ethics & Professional Conduct,4.36,16.81,19.78,23-Mar-17,9780099584575,"13,133",Paperback,"  Siddhartha Mukherjee",608
+1040,Hashimoto's Protocol,"1,018",Endocrinology,Popular Medicine & Health,4.06,24.28,38.49,28-Mar-17,9780062571298,238,Hardback,"  Izabella Wentz",384
+1041,Everless,"1,090",Fantasy Books for Kids,Traditional,4.12,20.77,23.88,02-Jan-18,9780062653659,"1,313",Hardback,"  Sara Holland",336
+1042,Her Body and Other Parties,"1,165",Science Fiction,Science Fiction,3.98,18.25,21.25,03-Oct-17,9781555977887,"4,005",Paperback,"  Carmen Maria Machado",245
+1043,Pax,"1,129",Children's Fiction,Animal Stories,4.04,11.75,12.58,01-Dec-17,9780008158286,"13,912",Paperback,"  Sara Pennypacker , Illustrated by  Jon Klassen",288
+1044,General Relativity for Babies,"2,028",Early Learning,Physics Books for Kids,3.77,13.12,13.26,02-May-17,9781492656265,123,Boardbook,"  Chris Ferrie",24
+1045,Rocket Science for Babies,"1,585",Early Learning,Science,3.93,13.86,NA,09-Oct-17,9781492656258,87,Boardbook,"  Chris Ferrie",24
+1046,Vogue Knitting The Ultimate Knitting Book,"1,026",Crafts & Hobbies,Needlework & Fabric Crafts,4,47.47,53.05,06-Feb-18,9781942021698,2,Hardback,"Edited by  Editors of ""Vogue Knitting"" Magazine",352
+1047,Vegan Richa's Everyday Kitchen,"1,027",Vegetarian Cookery,National & Regional Cuisine,4.62,23.99,33.13,19-Oct-17,9781941252390,29,Paperback,"  Richa Hingle",288
+1048,A Course in Miracles,"1,028",Christian Spirituality & Religious Experience,"Mind, Body & Spirit",4.17,31.02,NA,21-May-08,9781883360269,"22,871",Paperback,"  Foundation for Inner Peace",
+1049,First They Killed My Father,"1,030","Biography: Historical, Political & Military","Autobiography: Historical, Political & Military",4.3,12.35,NA,15-Sep-15,9781840185195,"19,738",Paperback,"  Loung Ung",304
