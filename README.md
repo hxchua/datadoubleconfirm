@@ -8,7 +8,7 @@ Tutorials/ exercises can be found [here](https://projectosyo.wix.com/datadoublec
 List of datasets along with descriptions
 ---
 **Dataset**: akcdogs.csv  
-**Description**: Cleaned data on bestsellers scraped from bookdepository.com (as at 17 Jan 2018)  
+**Description**: Cleaned data on dog breeds scraped from akc.org (as at 17 Jan 2018)  
 **Variables**: `Breed` , `Trait1`, `Trait2`, `Trait3`, `Energy level`, `Size`, `Rank`, `Good with Children`, `Good with other Dogs`, `Shedding`, `Grooming`, `Trainability`, `Height`, `Weight`, `Life expectancy`, `Barking level`, `Group`             
 **Mode of data collection**: Web scraping    
 **Source**: [American Kennel Club](http://www.akc.org/content/news/articles/most-popular-dog-breeds-full-ranking-list/?button)  
