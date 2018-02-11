@@ -71,5 +71,9 @@ List of notebooks along with descriptions
 **Notebook**: bookdepository.ipynb  
 **Description**: Python code for scraping bookdepository.com bestsellers information  
 
+**Notebook**: Hypothesis testing.ipynb  
+**Description**: R code for performing various types of two-sample tests
+
+
 
   
