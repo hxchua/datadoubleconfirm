@@ -72,8 +72,10 @@ List of notebooks along with descriptions
 **Description**: Python code for scraping bookdepository.com bestsellers information  
 
 **Notebook**: Statistical tests.ipynb  
-**Description**: R code for performing various types of two-sample tests and correlation checks
+**Description**: R code for performing various types of two-sample tests and correlation checks  
 
+**Notebook**: WiDS.ipynb  
+**Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon
 
 
   
