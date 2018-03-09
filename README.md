@@ -71,6 +71,9 @@ List of notebooks along with descriptions
 **Notebook**: bookdepository.ipynb  
 **Description**: Python code for scraping bookdepository.com bestsellers information  
 
+**Notebook**: imdb.ipynb  
+**Description**: Python code for scraping imdb.com most popular movies information  
+
 **Notebook**: Statistical tests.ipynb  
 **Description**: R code for performing various types of two-sample tests and correlation checks  
 
