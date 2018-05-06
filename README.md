@@ -27,9 +27,15 @@ List of datasets along with descriptions
 
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
-**Variables**: `Year` (year of tweet) , `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)      
+**Variables**: `Year` (year of tweet), `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)      
 **Mode of data collection**: Twitter web scraping and text mining  
 **Source**: [Barack Obama's Twitter account](https://twitter.com/barackobama)    
+
+**Dataset**: GovSG.csv  
+**Description**: Addresses with GIS location and contact information of Ministries and Statutory Boards in Singapore  
+**Variables**: `Organisation`, `Type` (Ministry/ Statutory Board), `Zipcode`, `Latitude`, `Longitude`, `Website`, `Tel`, `Fax`, `Email`, `Enquiry/ Feedback Form` (url), `Parent Ministry` (Statutory Boards under respective Ministries)       
+**Mode of data collection**: Web scraping, Manual, Tableau-generated latitude/longitude based on Zipcode  
+**Source**: [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards), [The Public Service | Careers@Gov](https://www.careers.gov.sg/build-your-career/career-toolkit/public-agencies)    
 
 **Dataset**: mrtsg.csv  
 **Description**: Latitude and longitude of train (MRT/LRT) stations in Singapore (as at Jun 2017)  
