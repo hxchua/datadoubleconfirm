@@ -77,6 +77,9 @@ List of notebooks along with descriptions
 **Notebook**: Statistical tests.ipynb  
 **Description**: R code for performing various types of two-sample tests and correlation checks  
 
+**Notebook**: StatutoryBoardSG.ipynb  
+**Description**: Python code for scraping addresses/ contact information of statutory boards in Singapore from [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards) and automating download of organisation logo images  
+
 **Notebook**: WiDS.ipynb  
 **Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon
 
