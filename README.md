@@ -25,6 +25,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Web scraping    
 **Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
 
+**Dataset**: Book1.csv  
+**Description**: Hypothetical dataset consisting score results of 50 students for three exams      
+**Variables**: `id`, `gender`, `exam1`, `exam2`, `exam3`          
+**Mode of data collection**: N.A.    
+**Source**: N.A.    
+
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
 **Variables**: `Year` (year of tweet), `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)      
