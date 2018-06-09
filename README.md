@@ -25,9 +25,9 @@ List of datasets along with descriptions
 **Mode of data collection**: Web scraping    
 **Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
 
-**Dataset**: Book1.csv  
-**Description**: Hypothetical dataset consisting score results of 50 students for three exams      
-**Variables**: `id`, `gender`, `exam1`, `exam2`, `exam3`          
+**Dataset**: Class1.csv  
+**Description**: Hypothetical dataset consisting score results of 50 students for three tests      
+**Variables**: `id`, `gender`, `test1`, `test2`, `test3`          
 **Mode of data collection**: N.A.    
 **Source**: N.A.    
 
