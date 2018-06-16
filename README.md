@@ -26,10 +26,16 @@ List of datasets along with descriptions
 **Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
 
 **Dataset**: Class1.csv  
-**Description**: Hypothetical dataset consisting score results of 50 students for three tests      
+**Description**: Hypothetical dataset consisting score results of 100 students for three tests      
 **Variables**: `id`, `gender`, `test1`, `test2`, `test3`          
 **Mode of data collection**: N.A.    
 **Source**: N.A.    
+
+**Dataset**: Class2.csv  
+**Description**: Hypothetical dataset consisting score results of 100 students for four tests      
+**Variables**: `id`, `gender`, `test1`, `test2`, `test3`, `test4`            
+**Mode of data collection**: N.A.    
+**Source**: N.A.  
 
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
@@ -88,6 +94,9 @@ List of notebooks along with descriptions
 
 **Notebook**: Creating Datasets in R.ipynb  
 **Description**: R code for creating hypothetical datasets  
+
+**Notebook**: Data Cleaning in R.ipynb  
+**Description**: R code for performing various data cleaning tasks    
 
 **Notebook**: Statistical tests.ipynb  
 **Description**: R code for performing various types of two-sample tests and correlation checks  
