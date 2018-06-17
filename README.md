@@ -92,6 +92,9 @@ List of notebooks along with descriptions
 **Notebook**: imdb.ipynb  
 **Description**: Python code for scraping imdb.com most popular movies information  
 
+**Notebook**: Creating Datasets in Python.ipynb  
+**Description**: Python code for importing practice datasets from R to Python and creating hypothetical datasets  
+
 **Notebook**: Creating Datasets in R.ipynb  
 **Description**: R code for creating hypothetical datasets  
 
