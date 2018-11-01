@@ -117,7 +117,7 @@ List of notebooks along with descriptions
 **Description**: R code for performing various data cleaning tasks    
 
 **Notebook**: seleniummrt.ipynb  
-**Description**: Python code for scraping time and fare information between train stations in Sinapore from [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)    
+**Description**: Python code for scraping time and fare information between train stations in Singapore from [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)    
 
 **Notebook**: Statistical tests.ipynb  
 **Description**: R code for performing various types of two-sample tests and correlation checks  
