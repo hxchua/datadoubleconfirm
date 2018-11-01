@@ -49,6 +49,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Web scraping, Manual, Tableau-generated latitude/longitude based on Zipcode  
 **Source**: [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards), [The Public Service | Careers@Gov](https://www.careers.gov.sg/build-your-career/career-toolkit/public-agencies)    
 
+**Dataset**: mrtfaretime.csv  
+**Description**: Travel time and fare information between train (MRT/LRT) stations in Singapore (as at Oct 2018)  
+**Variables**: `Station_start` (Boarding station), `Station_end` (Alighting station), `Time` (Travel time in mins), `Adult` (Adult fare), `Senior` (Fare for Seniors and Persons with Disabilities), `Standard` (Fare for Standard Ticket), `Student` (Student fare), `WTCS` (Fare under Workfare Transport Concession Scheme), `REF_STNSTART`, `Latitude_Start`, `Longitude_Start`, `REF_STNEND`,`Latitude_End`, `Longitude_End`      
+**Mode of data collection**: Web scraping  
+**Source**: [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)  
+
 **Dataset**: mrtsg.csv  
 **Description**: Latitude and longitude of train (MRT/LRT) stations in Singapore (as at Jun 2017)  
 **Variables**: `OBJECTID` (id) , `STN_NAME` (station name), `STN_NO` (station number), `X` (X coord in SVY21 format), `Y` (Y coord in SVY21 format), `Latitude`, `Longitude`, `COLOR` (color of train line)    
@@ -109,6 +115,9 @@ List of notebooks along with descriptions
 
 **Notebook**: Data Cleaning in R.ipynb  
 **Description**: R code for performing various data cleaning tasks    
+
+**Notebook**: seleniummrt.ipynb  
+**Description**: Python code for scraping time and fare information between train stations in Sinapore from [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)    
 
 **Notebook**: Statistical tests.ipynb  
 **Description**: R code for performing various types of two-sample tests and correlation checks  
