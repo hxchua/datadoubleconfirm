@@ -51,7 +51,7 @@ List of datasets along with descriptions
 
 **Dataset**: mrtfaretime.csv  
 **Description**: Travel time and fare information between train (MRT/LRT) stations in Singapore (as at Oct 2018)  
-**Variables**: `Station_start` (Boarding station), `Station_end` (Alighting station), `Time` (Travel time in mins), `Adult` (Adult fare), `Senior` (Fare for Seniors and Persons with Disabilities), `Standard` (Fare for Standard Ticket), `Student` (Student fare), `WTCS` (Fare under Workfare Transport Concession Scheme), `REF_STNSTART`, `Latitude_Start`, `Longitude_Start`, `REF_STNEND`,`Latitude_End`, `Longitude_End`      
+**Variables**: `Station_start` (Boarding station), `Station_end` (Alighting station), `Time` (Travel time in mins), `Adult` (Adult fare), `Senior` (Fare for Seniors and Persons with Disabilities), `Standard` (Fare for Standard Ticket), `Student` (Student fare), `WTCS` (Fare under Workfare Transport Concession Scheme), `REF_STNSTART`, `Latitude_Start`, `Longitude_Start`, `REF_STNEND`, `Latitude_End`, `Longitude_End`      
 **Mode of data collection**: Web scraping  
 **Source**: [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)  
 
