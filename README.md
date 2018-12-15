@@ -37,6 +37,12 @@ List of datasets along with descriptions
 **Mode of data collection**: N.A.    
 **Source**: N.A.  
 
+**Dataset**: DisneySongs25.csv  
+**Description**: Top 25 Disney Songs (as at 4 Apr 2016)  
+**Variables**: `Rank` , `Song Title`, `Movie`, `Year`, `Lyrics`        
+**Mode of data collection**: Manual    
+**Source**: [Top 25 Disney Songs - IGN](https://www.ign.com/articles/2013/08/09/top-25-disney-songs-2), [Metrolyrics](www.metrolyrics.com), [Disneyclips.com](https://www.disneyclips.com/)  
+
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
 **Variables**: `Year` (year of tweet), `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)      
@@ -124,6 +130,9 @@ List of notebooks along with descriptions
 
 **Notebook**: StatutoryBoardSG.ipynb  
 **Description**: Python code for scraping addresses/ contact information of statutory boards in Singapore from [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards) and automating download of organisation logo images  
+
+**Notebook**: Text Frequency Analysis.ipynb  
+**Description**: R code for getting frequency distribution of words in a chunk of text  
 
 **Notebook**: WiDS.ipynb  
 **Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon
