@@ -103,6 +103,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual  
 **Source**: [Singapore Athletics LIVE Results](https://tnf.sg/)  
 
+**Dataset**: wastestats.csv  
+**Description**: 15 years of data from 2003 to 2017 on waste management and recycling statistics (Waste type is inconsistently named across years. eg. C&D should refer to construction debris, and some categories are capitalized in some years but not others)      
+**Variables**: `waste_type`, `waste_disposed_of_tonne`, `total_waste_recycled_tonne`, `total_waste_general_tonne`, `recycling_rate`, `year`    
+**Mode of data collection**: Manual (Consolidated data in CSV format from PDF and website)     
+**Source**: [National Environment Agency](https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling)   
+
 
 List of notebooks along with descriptions
 ---
