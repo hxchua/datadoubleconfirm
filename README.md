@@ -147,7 +147,9 @@ List of notebooks along with descriptions
 **Description**: R code for getting frequency distribution of words in a chunk of text  
 
 **Notebook**: WiDS.ipynb  
-**Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon
+**Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon  
 
+**Notebook**: youtube_data_analysis-need_key.ipynb  
+**Description**: Python code for getting YouTube data for analysis based on a list of search terms using YouTube Data API v3    
 
   
