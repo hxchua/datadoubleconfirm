@@ -49,10 +49,16 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual    
 **Source**: [Top 25 Disney Songs - IGN](https://www.ign.com/articles/2013/08/09/top-25-disney-songs-2), [Metrolyrics](www.metrolyrics.com), [Disneyclips.com](https://www.disneyclips.com/)  
 
+**Dataset**: emojis.csv  
+**Description**: names and descriptions of emojis   
+**Variables**: `id` (number to identify unique emoji in dataset), `index` (running number in dataset), `name` (name of emoji), `desc` (description/ alternative names)          
+**Mode of data collection**: Web scraping   
+**Source**: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)    
+
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
-**Variables**: `Year` (year of tweet), `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)      
-**Mode of data collection**: Twitter web scraping and text mining  
+**Variables**: `Year` (year of tweet), `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)         
+**Mode of data collection**: Twitter web scraping and text mining      
 **Source**: [Barack Obama's Twitter account](https://twitter.com/barackobama)    
 
 **Dataset**: GovSG.csv  
