@@ -126,7 +126,7 @@ List of notebooks along with descriptions
 **Description**: Python code for scraping bookdepository.com bestsellers information  
 
 **Notebook**: emojis.ipynb  
-**Description**: Python code for scraping emoji cheat sheet information   
+**Description**: Python code for scraping [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) information   
 
 **Notebook**: imdb.ipynb  
 **Description**: Python code for scraping imdb.com most popular movies information  
