@@ -4,6 +4,7 @@ Provides simple datasets for data visualization, statistical analysis and modell
 Suitable for those starting out in data science and of course all who find the datasets useful  
 Data visualizations can be found [here](https://public.tableau.com/profile/hx.chua#!/)  
 Tutorials/ exercises can be found [here](https://projectosyo.wix.com/datadoubleconfirm)  
+If you find my repo useful, [buy me a coffee](https://www.buymeacoffee.com/MnhwNsXTE)!
 
 List of datasets along with descriptions
 ---
