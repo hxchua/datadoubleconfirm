@@ -68,11 +68,11 @@ List of datasets along with descriptions
 **Mode of data collection**: Web scraping, Manual, Tableau-generated latitude/longitude based on Zipcode  
 **Source**: [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards), [The Public Service | Careers@Gov](https://www.careers.gov.sg/build-your-career/career-toolkit/public-agencies)   
 
-**Dataset**: gov-sg-terms-translations.tsv
-**Descriptions**: Official English-Mandarin translations of Singapore Government Terms.
-**Variables**: `english`, `mandarin`
-**Mode of data collection**: Webscraping
-**Source**: [Government Terms Translated](https://www.gov.sg/resources/translation)
+**Dataset**: gov-sg-terms-translations.tsv  
+**Descriptions**: Official English-Mandarin translations of Singapore Government Terms.  
+**Variables**: `english`, `mandarin`  
+**Mode of data collection**: Webscraping  
+**Source**: [Government Terms Translated](https://www.gov.sg/resources/translation) 
 
 
 **Dataset**: mrtfaretime.csv  
