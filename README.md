@@ -66,7 +66,14 @@ List of datasets along with descriptions
 **Description**: Addresses with GIS location and contact information of Ministries and Statutory Boards in Singapore  
 **Variables**: `Organisation`, `Type` (Ministry/ Statutory Board), `Zipcode`, `Latitude`, `Longitude`, `Website`, `Tel`, `Fax`, `Email`, `Enquiry/ Feedback Form` (url), `Parent Ministry` (Statutory Boards under respective Ministries)       
 **Mode of data collection**: Web scraping, Manual, Tableau-generated latitude/longitude based on Zipcode  
-**Source**: [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards), [The Public Service | Careers@Gov](https://www.careers.gov.sg/build-your-career/career-toolkit/public-agencies)    
+**Source**: [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards), [The Public Service | Careers@Gov](https://www.careers.gov.sg/build-your-career/career-toolkit/public-agencies)   
+
+**Dataset**: gov-sg-terms-translations.tsv
+**Descriptions**: Official English-Mandarin translations of Singapore Government Terms.
+**Variables**: `english`, `mandarin`
+**Mode of data collection**: Webscraping
+**Source**: [Government Terms Translated](https://www.gov.sg/resources/translation)
+
 
 **Dataset**: mrtfaretime.csv  
 **Description**: Travel time and fare information between train (MRT/LRT) stations in Singapore (as at Oct 2018)  
@@ -81,7 +88,7 @@ List of datasets along with descriptions
 **Source**: [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html), [OneMap Singapore](https://docs.onemap.sg/#3414-svy21-to-3857)  
 
 **Dataset**: passport.csv  
-**Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries 
+**Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries
 **Variables**: `Top 10 Country` (name of country with passport in Top 10), `Country` (visiting country), `Type of Visa` (visa required)  
 **Mode of data collection**: Manual  
 **Source**: [Passport Index 2017](https://www.passportindex.org/comparebyPassport.php)
@@ -167,5 +174,3 @@ List of notebooks along with descriptions
 
 **Notebook**: youtube_data_analysis-need_key.ipynb  
 **Description**: Python code for getting YouTube data for analysis based on a list of search terms using YouTube Data API v3    
-
-  
