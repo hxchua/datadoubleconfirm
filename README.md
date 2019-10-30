@@ -117,6 +117,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual  
 **Source**: [Singapore Athletics LIVE Results](https://tnf.sg/)  
 
+**Dataset**: unesco_sites.csv  
+**Description**: UNESCO World Heritage List        
+**Variables**: `country`, `site`, `type` (category of site)    
+**Mode of data collection**: Webscraping  
+**Source**: [UNESCO World Heritage Centre - World Heritage List](https://whc.unesco.org/en/list/), more data can be downloaded [here](https://whc.unesco.org/en/syndication).    
+
 **Dataset**: usunirankings.csv  
 **Description**: Average U.S. News Rankings for 123 Universities: 2013-2020      
 **Variables**: `school`, `rank_2013`, `rank_2014`, `rank_2015`, `rank_2016`, `rank_2017`, `rank_2018`, `rank_2019`, `rank_2020`,  `avg_rank`, `chg` (change between 2013 and 2020)    
