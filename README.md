@@ -118,7 +118,7 @@ List of datasets along with descriptions
 **Source**: [Singapore Athletics LIVE Results](https://tnf.sg/)  
 
 **Dataset**: unesco_sites.csv  
-**Description**: UNESCO World Heritage List        
+**Description**: UNESCO World Heritage List (as at 30 Oct 2019)       
 **Variables**: `country`, `site`, `type` (category of site)    
 **Mode of data collection**: Webscraping  
 **Source**: [UNESCO World Heritage Centre - World Heritage List](https://whc.unesco.org/en/list/), more data can be downloaded [here](https://whc.unesco.org/en/syndication).    
