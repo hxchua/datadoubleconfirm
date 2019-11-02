@@ -163,6 +163,9 @@ List of notebooks along with descriptions
 **Notebook**: Data Cleaning in R.ipynb  
 **Description**: R code for performing various data cleaning tasks    
 
+**Notebook**: Gov.sg Translations.ipynb  
+**Description**: Python code for scraping Official English-Mandarin translations of Singapore Government Terms from [Government Terms Translated](https://www.gov.sg/resources/translation)      
+
 **Notebook**: seleniummrt.ipynb  
 **Description**: Python code for scraping time and fare information between train stations in Singapore from [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)    
 
