@@ -98,6 +98,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual, Excel function for percentile ranking  
 **Source**: [Pokemon database](https://pokemondb.net/pokedex/all)  
 
+**Dataset**: populationsg.csv  
+**Description**: Count of Residents By Age Group & Type Of Dwelling, Annual from 2000 to 2019    
+**Variables**: `agegroup`, `dwelling`, `value`, `year`    
+**Mode of data collection**: API   
+**Source**: [Singapore Department of Statistics](https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=14910)  
+
 **Dataset**: primaryschoolsg.csv  
 **Description**: Locations of Primary schools in Singapore and their popularity  
 **Variables**: `Name`, `Type`, `GenderMix`, `Area`, `Zone`, `PostalCode`, `Latitude`, `Longitude`, `PlacestakenuptillPhase2B`  
