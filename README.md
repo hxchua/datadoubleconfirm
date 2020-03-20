@@ -43,6 +43,12 @@ List of datasets along with descriptions
 **Mode of data collection**: N.A.    
 **Source**: N.A.  
 
+**Dataset**: Covid-19 SG [Google Sheets](https://docs.google.com/spreadsheets/d/1gFTNs_GtnTIyyVWXmsQxwdZpGbyicZM2HJcXvCf4b3k/edit?usp=sharing)  
+**Description**: Covid-19 case time series data in Singapore      
+**Variables**: `Date`, `Confirmed`, `Cumulative Confirmed`, `Discharges`, `Still Hospitalised`              
+**Mode of data collection**: Manual      
+**Source**: [Ministry of Health](https://www.moh.gov.sg/covid-19)  
+
 **Dataset**: DisneySongs25.csv  
 **Description**: Top 25 Disney Songs (as at 4 Apr 2016)  
 **Variables**: `Rank` , `Song Title`, `Movie`, `Year`, `Lyrics`        
