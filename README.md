@@ -201,6 +201,9 @@ List of notebooks along with descriptions
 **Notebook**: Text Frequency Analysis.ipynb  
 **Description**: R code for getting frequency distribution of words in a chunk of text  
 
+**Notebook**: textgen-covid_resilience.ipynb  
+**Description**: Python code for text-generating neural network trained using text from [Singapore's Budget 2020 - Resilience Budget/ Supplementary Budget Statement](https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement) with textgenrnn  
+
 **Notebook**: unesco.ipynb  
 **Description**: Python code for scraping UNESCO World Heritage countries and sites from [UNESCO World Heritage Centre - World Heritage List](https://whc.unesco.org/en/list/)      
 
