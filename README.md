@@ -162,6 +162,9 @@ List of notebooks along with descriptions
 **Notebook**: imdb.ipynb  
 **Description**: Python code for scraping imdb.com most popular movies information  
 
+**Notebook**: covid_spread.ipynb  
+**Description**: Python code for understanding the pace of increase in number of COVID-19 cases for each country using [data](https://github.com/CSSEGISandData/COVID-19) provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)     
+
 **Notebook**: Creating Datasets in Python.ipynb  
 **Description**: Python code for importing practice datasets from R to Python and creating hypothetical datasets  
 
