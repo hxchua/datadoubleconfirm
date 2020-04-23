@@ -44,8 +44,8 @@ List of datasets along with descriptions
 **Source**: N.A.  
 
 **Dataset**: Covid-19 SG [Google Sheets](https://docs.google.com/spreadsheets/d/1gFTNs_GtnTIyyVWXmsQxwdZpGbyicZM2HJcXvCf4b3k/edit?usp=sharing)  
-**Description**: Covid-19 case time series data in Singapore      
-**Variables**: `Date`, `Confirmed`, `Cumulative Confirmed`, `Discharges`, `Still Hospitalised`              
+**Description**: Covid-19 case time series data in Singapore (more details [here](https://data.world/hxchua/covid-19-singapore))        
+**Variables**: `Date`, `Daily Confirmed`, `Cumulative Confirmed`, `Daily Discharged`, `Passed but not due to COVID`, `Cumulative Discharged`, `Discharged to Isolation`, `Still Hospitalised`, `Daily Deaths`, `Cumulative Deaths`, `Tested positive demise`, `Daily Imported`,	`Daily Local transmission`, `Intensive Care Unit (ICU)`             
 **Mode of data collection**: Manual      
 **Source**: [Ministry of Health](https://www.moh.gov.sg/covid-19)  
 
