@@ -189,6 +189,9 @@ List of notebooks along with descriptions
 **Notebook**: Monte_Carlo_COVID.ipynb    
 **Description**: Python code for Monte Carlo simulations on number of COVID-19 cases in Singapore using 20 days of [historical data](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vThorZCIq2QFue3q-uBwVBGqPbbKe28YSAE49BVuzM7heIE5PuTgqFu-ask75VZZLY-D36DDipbjb7p/pubchart?oid=1385981649&format=interactive&fbclid=IwAR0PELJXSoMGcGKEM3H772i3XRZwVLj7Za1fI4TGm8N86MQje7SlbBW6WwA)         
 
+**Notebook**: QOTD.ipynb  
+**Description**: Python code for scraping quotes off "Inhale, Exhale and Repeat After Me! 150 Best Quotes About Life" by [Parade.com](https://parade.com/937586/parade/life-quotes/)   
+
 **Notebook**: seleniummrt.ipynb  
 **Description**: Python code for scraping time and fare information between train stations in Singapore from [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)    
 
