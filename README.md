@@ -180,6 +180,9 @@ List of notebooks along with descriptions
 **Notebook**: Gov.sg Translations.ipynb  
 **Description**: Python code for scraping Official English-Mandarin translations of Singapore Government Terms from [Government Terms Translated](https://www.gov.sg/resources/translation)      
 
+**Notebook**: Json.ipynb  
+**Description**: Python code for working with Json    
+
 **Notebook**: lta_tweets.ipynb  
 **Description**: Python code for working with text and datetime data from [LTATrafficNews](https://twitter.com/ltatrafficnews?lang=en) tweets (between 12-Dec-2019 and 29-Dec-2019)       
 
