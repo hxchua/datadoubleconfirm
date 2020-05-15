@@ -183,6 +183,9 @@ List of notebooks along with descriptions
 **Notebook**: Json.ipynb  
 **Description**: Python code for working with Json    
 
+**Notebook**: linecharts.ipynb  
+**Description**: Python code for plotting line charts using matplotlib and seaborn involving major/ minor ticks, markers and data labels for the last point  
+
 **Notebook**: lta_tweets.ipynb  
 **Description**: Python code for working with text and datetime data from [LTATrafficNews](https://twitter.com/ltatrafficnews?lang=en) tweets (between 12-Dec-2019 and 29-Dec-2019)       
 
