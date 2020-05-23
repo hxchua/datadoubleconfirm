@@ -1,4 +1,4 @@
-Date,Daily Confirmed ,False Positives Found,Cumulative Confirmed,Daily Discharged,Passed but not due to COVID,Cumulative Discharged,Discharged to Isolation,Still Hospitalised,Daily Deaths,Cumulative Deaths,Tested positive demise,Daily Imported,Daily Local transmission,Local cases residing in dorms MOH report,Local cases not residing in doms MOH report,Intensive Care Unit (ICU),General Wards MOH report,In Isolation MOH report,Total Completed Isolation MOH report,Total Hospital Discharged MOH report
+Date,Daily_Confirmed_,False_Positives_Found,Cumulative_Confirmed,Daily_Discharged,Passed_but_not_due_to_COVID,Cumulative_Discharged,Discharged_to_Isolation,Still_Hospitalised,Daily_Deaths,Cumulative_Deaths,Tested_positive_demise,Daily_Imported,Daily_Local_transmission,Local_cases_residing_in_dorms_MOH_report,Local_cases_not_residing_in_doms_MOH_report,Intensive_Care_Unit_(ICU),General_Wards_MOH_report,In_Isolation_MOH_report,Total_Completed_Isolation_MOH_report,Total_Hospital_Discharged_MOH_report
 2020-01-23,1,,1,0,0,0,0,1,0,0,0,1,0,,,0,,,,
 2020-01-24,2,,3,0,0,0,0,3,0,0,0,2,0,,,0,,,,
 2020-01-25,1,,4,0,0,0,0,4,0,0,0,1,0,,,0,,,,
