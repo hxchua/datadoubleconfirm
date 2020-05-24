@@ -43,9 +43,10 @@ List of datasets along with descriptions
 **Mode of data collection**: N.A.    
 **Source**: N.A.  
 
-**Dataset**: Covid-19 SG [Google Sheets](https://docs.google.com/spreadsheets/d/1gFTNs_GtnTIyyVWXmsQxwdZpGbyicZM2HJcXvCf4b3k/edit?usp=sharing)  
+**Dataset**: covid19_sg.csv  
 **Description**: Covid-19 case time series data in Singapore (more details [here](https://data.world/hxchua/covid-19-singapore))        
-**Variables**: `Date`, `Daily Confirmed`, `Cumulative Confirmed`, `Daily Discharged`, `Passed but not due to COVID`, `Cumulative Discharged`, `Discharged to Isolation`, `Still Hospitalised`, `Daily Deaths`, `Cumulative Deaths`, `Tested positive demise`, `Daily Imported`,	`Daily Local transmission`, `Intensive Care Unit (ICU)`             
+**Variables**: `Date`,	`Daily_Confirmed_`,	`False_Positives_Found`,	`Cumulative_Confirmed`,	`Daily_Discharged`,	`Passed_but_not_due_to_COVID`,	`Cumulative_Discharged`,	`Discharged_to_Isolation`,	`Still_Hospitalised`,	`Daily_Deaths`, `Cumulative_Deaths`,	`Tested_positive_demise`,	`Daily_Imported`,	`Daily_Local_transmission`,	`Local_cases_residing_in_dorms_MOH_report`,	`Local_cases_not_residing_in_doms_MOH_report`,	`Intensive_Care_Unit_(ICU)`, `General_Wards_MOH_report`,	`In_Isolation_MOH_report`,	`Total_Completed_Isolation_MOH_report`,	`Total_Hospital_Discharged_MOH_report`
+            
 **Mode of data collection**: Manual      
 **Source**: [Ministry of Health](https://www.moh.gov.sg/covid-19)  
 
