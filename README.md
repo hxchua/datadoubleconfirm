@@ -93,7 +93,7 @@ List of datasets along with descriptions
 **Source**: [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html), [OneMap Singapore](https://docs.onemap.sg/#3414-svy21-to-3857)  
 
 **Dataset**: passport.csv  
-**Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries
+**Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries   
 **Variables**: `Top 10 Country` (name of country with passport in Top 10), `Country` (visiting country), `Type of Visa` (visa required)  
 **Mode of data collection**: Manual  
 **Source**: [Passport Index 2017](https://www.passportindex.org/comparebyPassport.php)
