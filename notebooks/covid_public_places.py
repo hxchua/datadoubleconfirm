@@ -13,6 +13,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets',
@@ -53,19 +54,23 @@ new_header = df.iloc[0] #grab the first row for the header
 df = df[1:] #take the data less the header row
 df.columns = new_header #set the header row as the df header
 df[['Location','Sub-location']] = df['Location (Address)'].str.split('\n\n',expand=True)
+#df['Sub-location'] = df['Sub-location'].str.replace('• ','')
 df['Sub-location'] = df['Sub-location'].str.replace('\n',', ')
+df['Sub-location'] = df['Sub-location'].str.strip()
+df['Notes']=""
+df['Notes'][df['Date'].str.contains("\*")] = "Added/Updated on " + datetime.today().strftime('%Y-%m-%d')
 df['Date'] = df['Date'].str.replace('*','')
 df['Source'] = site
 df['Time'] = df['Time'].str.replace('to','-')
-df = df[['Date','Time','Location','Sub-location','Source']]
+df = df[['Date','Time','Location','Sub-location','Source','Notes']]
 df['Date'] = (df['Date']+' 2020').astype(str)
 df['Date'] = df['Date'].str.replace(' ','-')
 df['Date'] = pd.to_datetime(df['Date'],format='%d-%b-%Y')
 
 #appending with latest data
-existing['Date'] = (existing['Date']+' 2020').astype(str)
-existing['Date'] = existing['Date'].str.replace(' ','-')
-existing['Date'] = pd.to_datetime(existing['Date'],format='%d-%b-%Y')
+#existing['Date'] = (existing['Date']+' 2020').astype(str)
+#existing['Date'] = existing['Date'].str.replace(' ','-')
+existing['Date'] = pd.to_datetime(existing['Date'],format='%Y-%m-%d')
 existing = existing[existing['Date']<df['Date'].min()]
 updated = existing.append(df)
 updated = updated[['Date','Time','Location','Sub-location','Source','Notes']]
