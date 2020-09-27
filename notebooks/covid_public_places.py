@@ -71,12 +71,14 @@ df['Date'] = pd.to_datetime(df['Date'],format='%d-%b-%Y')
 #existing['Date'] = (existing['Date']+' 2020').astype(str)
 #existing['Date'] = existing['Date'].str.replace(' ','-')
 existing['Date'] = pd.to_datetime(existing['Date'],format='%Y-%m-%d')
-existing = existing[existing['Date']<df['Date'].min()]
+#existing = existing[existing['Date']<df['Date'].min()]
 updated = existing.append(df)
 updated = updated[['Date','Time','Location','Sub-location','Source','Notes']]
+updated = updated.drop_duplicates(['Date','Time','Location'])
 updated = updated.sort_values(by=['Date'], ascending=False)
 updated['Date'] = updated['Date'].astype(str)
 updated.fillna('', inplace=True)
+updated = updated[:-1]
 ws.update([updated.columns.values.tolist()] + updated.values.tolist())
 
 
