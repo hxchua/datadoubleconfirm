@@ -87,7 +87,7 @@ List of datasets along with descriptions
 **Source**: [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)  
 
 **Dataset**: mrtsg.csv  
-**Description**: Latitude and longitude of train (MRT/LRT) stations in Singapore (as at Jun 2017)  
+**Description**: Latitude and longitude of train (MRT/LRT) stations in Singapore (as at Dec 2020)  
 **Variables**: `OBJECTID` (id) , `STN_NAME` (station name), `STN_NO` (station number), `X` (X coord in SVY21 format), `Y` (Y coord in SVY21 format), `Latitude`, `Longitude`, `COLOR` (color of train line)    
 **Mode of data collection**: Public dataset, Coordinate conversion web scraping  
 **Source**: [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html), [OneMap Singapore](https://docs.onemap.sg/#3414-svy21-to-3857)  
