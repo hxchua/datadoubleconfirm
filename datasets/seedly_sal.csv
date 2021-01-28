@@ -1,0 +1,1603 @@
+Industry,Role,Minimum,Median,Maximum
+Chemicals and Engineering,Chief Financial Officer,250,325,400
+Chemicals and Engineering,Chief Operating Officer,300,350,400
+Chemicals and Engineering,Chief Executive Officer,400,500,600
+Chemicals and Engineering,Customer Service Officer,36,54,68
+Chemicals and Engineering,Customer Service Manager,66,78,81
+Chemicals and Engineering,Customer Service Lead,72,82,96
+Chemicals and Engineering,Call Center Supervisor,42,57,66
+Chemicals and Engineering,Aftersales Manager,72,82,84
+Chemicals and Engineering,Automation Engineer,65,70,75
+Chemicals and Engineering,Senior Automation Engineer,70,75,80
+Chemicals and Engineering,Automation Manager,117,120,156
+Chemicals and Engineering,Chemist,52,70,91
+Chemicals and Engineering,R&D Engineer,65,70,75
+Chemicals and Engineering,R&D Manager,104,130,156
+Chemicals and Engineering,R&D Director,195,234,260
+Chemicals and Engineering,Application / Technical Services Engineer,52,70,91
+Chemicals and Engineering,Application / Technical Services Manager,91,110,156
+Chemicals and Engineering,EHS Engineer,60,70,75
+Chemicals and Engineering,EHS Manager,104,117,120
+Chemicals and Engineering,EHS Director,195,220,286
+Chemicals and Engineering,Maintenance Engineer,50,53,65
+Chemicals and Engineering,Facilities Engineer,50,53,65
+Chemicals and Engineering,Facilities Manager,90,100,120
+Chemicals and Engineering,Field Service Engineer,50,53,65
+Chemicals and Engineering,Field Service Manager,104,110,120
+Chemicals and Engineering,Project Engineer,58,70,78
+Chemicals and Engineering,Project Manager,84,104,117
+Chemicals and Engineering,Project Director,120,200,260
+Chemicals and Engineering,Chemical Engineer,58,65,70
+Chemicals and Engineering,Electrical Engineer,58,65,70
+Chemicals and Engineering,Mechanical Engineer,58,65,70
+Chemicals and Engineering,Senior Engineer,71,80,97
+Chemicals and Engineering,Engineering Manager,104,125,156
+Chemicals and Engineering,Process Engineer,50,53,65
+Chemicals and Engineering,Process Manager,104,110,120
+Chemicals and Engineering,Operations Manager,104,130,156
+Chemicals and Engineering,Operations Director,195,220,300
+Chemicals and Engineering,Plant Manager,170,195,260
+Chemicals and Engineering,Manufacturing Engineer,50,53,65
+Chemicals and Engineering,Manufacturing Manager,104,110,120
+Chemicals and Engineering,Regional Product Stewardship Manager,110,120,143
+Chemicals and Engineering,Regional Regulatory Affairs Manager,110,120,143
+Chemicals and Engineering,QA Engineer,50,53,65
+Chemicals and Engineering,QA Manager,104,110,120
+Chemicals and Engineering,QA Director,182,208,260
+Chemicals and Engineering,Test Engineer,58,62,68
+Chemicals and Engineering,Test Manager,104,123,143
+Chemicals and Engineering,Application Engineer,65,71,91
+Chemicals and Engineering,Application Manager,104,123,143
+Chemicals and Engineering,Finance / Business Analyst,48,66,96
+Chemicals and Engineering,Senior Finance / Business Analyst,66,85,100
+Chemicals and Engineering,Financial Planning & Analysis (FP&A) Manager,95,115,130
+Chemicals and Engineering,Financial Planning & Analysis (FP&A) Director,150,200,230
+Chemicals and Engineering,Business Controller,104,156,210
+Chemicals and Engineering,Pricing Manager,90,100,130
+Chemicals and Engineering,Internal Auditor,54,60,75
+Chemicals and Engineering,Senior Internal Auditor,72,85,100
+Chemicals and Engineering,Internal Audit Manager,91,110,130
+Chemicals and Engineering,Internal Audit Director,168,195,234
+Chemicals and Engineering,Risk Governance and Compliance Manager,91,110,156
+Chemicals and Engineering,Head of Risk Governance and Compliance,182,195,260
+Chemicals and Engineering,Internal Control Manager,84,110,120
+Chemicals and Engineering,Enterprise Risk Management Manager,91,110,169
+Chemicals and Engineering,Accounts Administrator,30,33,36
+Chemicals and Engineering,Accounts Executive,36,46,48
+Chemicals and Engineering,"Accountant, Accounts Payable / Receivable",42,56,72
+Chemicals and Engineering,"Manager, Accounts Payable / Receivable",84,91,120
+Chemicals and Engineering,Credit Control Executive,36,46,60
+Chemicals and Engineering,Credit Control Manager,80,110,135
+Chemicals and Engineering,Payroll Executive,36,48,60
+Chemicals and Engineering,Payroll Manager,84,100,140
+Chemicals and Engineering,Cost Accountant,48,64,84
+Chemicals and Engineering,Costing Manager,91,117,130
+Chemicals and Engineering,Cost Controller,78,104,156
+Chemicals and Engineering,Accountant,48,58,74
+Chemicals and Engineering,Senior Accountant,66,74,84
+Chemicals and Engineering,Finance Manager,85,100,120
+Chemicals and Engineering,Senior Finance Manager,110,125,144
+Chemicals and Engineering,Finance Controller,120,156,180
+Chemicals and Engineering,Finance Director,170,200,250
+Chemicals and Engineering,Head of Finance Operations / Head of Shared Services,169,240,260
+Chemicals and Engineering,Chief Financial Officer,250,325,400
+Chemicals and Engineering,Tax Analyst,48,70,85
+Chemicals and Engineering,Senior Tax Analyst / Assistant Tax Manager,70,85,100
+Chemicals and Engineering,Tax Manager,80,120,180
+Chemicals and Engineering,Indirect Tax Manager,80,120,156
+Chemicals and Engineering,Transfer Pricing Manager,90,120,156
+Chemicals and Engineering,Head of Tax / Tax Director,180,210,250
+Chemicals and Engineering,Treasury Analyst,48,60,72
+Chemicals and Engineering,Senior Treasury Analyst,60,76,91
+Chemicals and Engineering,Treasury Manager,91,120,156
+Chemicals and Engineering,Head of Treasury / Treasury Director,182,195,260
+Chemicals and Engineering,Systems Finance Manager,90,120,156
+Chemicals and Engineering,Change Management Leader,90,156,195
+Chemicals and Engineering,Finance Transformation Manager,130,180,230
+Chemicals and Engineering,Mergers & Acquisitions (M&A) Analyst,72,80,110
+Chemicals and Engineering,Mergers & Acquisitions (M&A) Manager,104,130,156
+Chemicals and Engineering,Head of Mergers & Acquisitions (M&A),182,220,260
+Chemicals and Engineering,C&B Specialist,60,72,84
+Chemicals and Engineering,Senior C&B Analyst,85,95,100
+Chemicals and Engineering,Assistant C&B Manager,90,100,110
+Chemicals and Engineering,HRBP,80,100,120
+Chemicals and Engineering,HRBP Lead,120,135,150
+Chemicals and Engineering,HR Executive,48,60,70
+Chemicals and Engineering,Assistant HR Manager,72,80,85
+Chemicals and Engineering,HR Manager,90,100,120
+Chemicals and Engineering,HR Director,160,200,240
+Chemicals and Engineering,Recruiting Coordinator,48,60,70
+Chemicals and Engineering,Talent Acquisition Specialist,48,60,70
+Chemicals and Engineering,Director Talent Development,120,135,150
+Chemicals and Engineering,Senior Training Executive,48,60,70
+Chemicals and Engineering,Compliance Manager,90,100,140
+Chemicals and Engineering,Senior Compliance Manager,130,155,180
+Chemicals and Engineering,Head of Compliance,200,250,300
+Chemicals and Engineering,Legal Advisor,91,98,105
+Chemicals and Engineering,Legal Counsel,110,115,120
+Chemicals and Engineering,Senior Legal Counsel,180,212,250
+Chemicals and Engineering,General Counsel,230,280,330
+Chemicals and Engineering,Marketing Communications Manager,80,105,130
+Chemicals and Engineering,Marketing Communications Director,130,150,164
+Chemicals and Engineering,Corporate Communications Manager,85,97,110
+Chemicals and Engineering,Corporate Communications Director,200,250,295
+Chemicals and Engineering,Digital Engineer,60,70,72
+Chemicals and Engineering,Digital Marketing Manager,72,87,156
+Chemicals and Engineering,Marketing Executive,36,55,75
+Chemicals and Engineering,Marketing Manager,84,100,180
+Chemicals and Engineering,Channel Marketing Manager,100,107,115
+Chemicals and Engineering,Marketing Director,130,190,250
+Chemicals and Engineering,Product Marketing Executive,65,70,75
+Chemicals and Engineering,Product Marketing Manager,78,137,169
+Chemicals and Engineering,Senior Product Marketing Manager,127,167,207
+Chemicals and Engineering,Market Research Analyst,72,96,120
+Chemicals and Engineering,Head of Marketing Insights and Analytics,150,165,180
+Chemicals and Engineering,Assistant Partnerships Manager,60,75,90
+Chemicals and Engineering,Head of Partnerships,150,175,200
+Chemicals and Engineering,Logistics Executive,58,60,71
+Chemicals and Engineering,Logistics Manager,91,120,140
+Chemicals and Engineering,Regional Logistics Manager,130,143,195
+Chemicals and Engineering,Regional Trade Compliance Manager,117,156,200
+Chemicals and Engineering,Procurement Executive,58,60,71
+Chemicals and Engineering,Commodity Manager,91,100,117
+Chemicals and Engineering,Procurement Manager,91,100,117
+Chemicals and Engineering,Indirect Procurement Manager,91,110,120
+Chemicals and Engineering,Regional Commodity / Sourcing Manager,130,156,195
+Chemicals and Engineering,Head of Commodity / Sourcing,182,234,270
+Chemicals and Engineering,Supply / Demand Planner,58,65,71
+Chemicals and Engineering,Regional Supply / Demand Planner,65,71,78
+Chemicals and Engineering,Supply Chain Manager,104,117,130
+Chemicals and Engineering,Regional Supply Chain Manager,117,144,182
+Chemicals and Engineering,Supply Chain Director,195,260,320
+Chemicals and Engineering,Inventory Manager,91,104,110
+Chemicals and Engineering,Account Manager,60,80,100
+Chemicals and Engineering,Senior Account Manager,100,120,140
+Chemicals and Engineering,Key Account Manager,80,100,120
+Chemicals and Engineering,Key Account Director,140,170,200
+Chemicals and Engineering,Business Development Manager,70,95,120
+Chemicals and Engineering,Regional Business Development Manager,80,110,140
+Chemicals and Engineering,Senior Business Development Manager,100,130,160
+Chemicals and Engineering,Business Development Director,130,175,220
+Chemicals and Engineering,Product Manager,96,100,120
+Chemicals and Engineering,Product Lead,150,175,240
+Chemicals and Engineering,Inside Sales Executive,50,70,90
+Chemicals and Engineering,Sales Executive,60,75,90
+Chemicals and Engineering,Sales Manager,60,80,100
+Chemicals and Engineering,Regional Sales Manager,80,100,120
+Chemicals and Engineering,Territory Sales Manager,80,100,120
+Chemicals and Engineering,Channel Sales Manager,90,135,180
+Chemicals and Engineering,Sales Operations Manager,100,150,200
+Chemicals and Engineering,Commercial Director,160,220,280
+Chemicals and Engineering,Head of Sales,140,180,220
+Chemicals and Engineering,Sales Director,150,200,250
+Chemicals and Engineering,General Manager Sales,180,240,300
+Chemicals and Engineering,Sales Engineer,60,80,100
+Chemicals and Engineering,Senior Sales Engineer,70,95,120
+Chemicals and Engineering,Junior Sales Support Executive,30,50,58
+Chemicals and Engineering,Administrator,38,54,66
+Chemicals and Engineering,Office Administrator,38,54,66
+Chemicals and Engineering,Office Administration and Human Resources Support,38,60,66
+Chemicals and Engineering,Resources Support,38,60,66
+Chemicals and Engineering,Receptionist,30,48,58
+Chemicals and Engineering,Administration Assistant,38,54,66
+Chemicals and Engineering,Executive Assistant,72,100,134
+Chemicals and Engineering,Personal Assistant,60,72,114
+Chemicals and Engineering,Team Assistant,60,69,78
+Chemicals and Engineering,Database Administrator,72,94,120
+Chemicals and Engineering,Data Engineer,90,120,150
+Chemicals and Engineering,Data Architect,120,140,180
+Chemicals and Engineering,Data Scientist,90,110,150
+Chemicals and Engineering,Lead Data Scientist,120,155,200
+Chemicals and Engineering,Data Analytics Manager,90,115,150
+Chemicals and Engineering,Business Intelligence (BI) Developer/ Analyst,78,86,96
+Chemicals and Engineering,Digital Transformation Specialist,120,140,250
+Chemicals and Engineering,Head of Digital,180,220,300
+Chemicals and Engineering,Product Manager,120,140,180
+Chemicals and Engineering,IT Project Manager,85,116,150
+Chemicals and Engineering,IT Manager,90,115,150
+Chemicals and Engineering,IT Business Partner,150,175,200
+Chemicals and Engineering,Technology Lead,180,230,300
+Chemicals and Engineering,Solution Delivery Manager,85,110,150
+Chemicals and Engineering,Solution Architect,96,120,150
+Chemicals and Engineering,Solution Architect (Software),96,120,150
+Chemicals and Engineering,Cloud Architect,90,125,150
+Chemicals and Engineering,Enterprise Architect,120,150,200
+Chemicals and Engineering,ERP Specialist,80,112,150
+Chemicals and Engineering,Business Analyst,100,110,120
+Chemicals and Engineering,Head of ERP,120,150,200
+Chemicals and Engineering,Software Engineer,48,84,120
+Chemicals and Engineering,Senior Software Engineer,72,120,180
+Chemicals and Engineering,Web Developer,54,70,90
+Chemicals and Engineering,Back End Developer,72,89,108
+Chemicals and Engineering,Full Stack Developer,72,89,108
+Chemicals and Engineering,System Analyst,72,89,108
+Chemicals and Engineering,Service Delivery Manager,120,135,150
+Chemicals and Engineering,IT Support Engineer,36,48,50
+Chemicals and Engineering,Senior IT Support Engineer,48,60,72
+Chemicals and Engineering,Desktop Support Engineer,30,45,60
+Chemicals and Engineering,Application Support Engineer,36,60,84
+Chemicals and Engineering,Network Engineer,48,66,84
+Chemicals and Engineering,System Administrator,48,60,72
+Chemicals and Engineering,IT Security Analyst,70,90,120
+Chemicals and Engineering,IT Security Manager,144,155,180
+Chemicals and Engineering,IT Auditor,72,94,120
+Chemicals and Engineering,System Test Engineer,40,52,60
+Chemicals and Engineering,Software Tester,50,67,80
+Chemicals and Engineering,Functional Test Engineer,60,77,90
+Fast Moving Consumer Goods (FMCG),Chief Product Officer,250,277,300
+Fast Moving Consumer Goods (FMCG),Chief Financial Officer,250,325,400
+Fast Moving Consumer Goods (FMCG),Customer Service Officer,45,54,68
+Fast Moving Consumer Goods (FMCG),Customer Service Manager,66,78,81
+Fast Moving Consumer Goods (FMCG),Customer Service Lead,72,82,96
+Fast Moving Consumer Goods (FMCG),Call Center Supervisor,42,57,66
+Fast Moving Consumer Goods (FMCG),Aftersales Manager,72,82,84
+Fast Moving Consumer Goods (FMCG),Automation Engineer,65,70,75
+Fast Moving Consumer Goods (FMCG),Food Technologist,52,65,78
+Fast Moving Consumer Goods (FMCG),Application Specialist,117,130,200
+Fast Moving Consumer Goods (FMCG),Engineering Manager,104,125,156
+Fast Moving Consumer Goods (FMCG),Automation Manager,117,120,156
+Fast Moving Consumer Goods (FMCG),"Environment, Health and Safety (EHS) Manager",104,117,120
+Fast Moving Consumer Goods (FMCG),"Regional Environment, Health and Safety (EHS) Manager",160,180,200
+Fast Moving Consumer Goods (FMCG),Facilities Manager,90,100,120
+Fast Moving Consumer Goods (FMCG),Operations Manager,104,130,156
+Fast Moving Consumer Goods (FMCG),Plant Manager,170,195,260
+Fast Moving Consumer Goods (FMCG),Regional Operations Manager,195,220,300
+Fast Moving Consumer Goods (FMCG),Manufacturing Manager,104,110,120
+Fast Moving Consumer Goods (FMCG),Quality Assurance (QA) Manager,104,110,120
+Fast Moving Consumer Goods (FMCG),Quality Assurance (QA) Director,182,208,260
+Fast Moving Consumer Goods (FMCG),Regional Regulatory Affairs (RA) Manager,110,120,143
+Fast Moving Consumer Goods (FMCG),Finance / Business Analyst,48,66,96
+Fast Moving Consumer Goods (FMCG),Senior Finance / Business Analyst,66,85,100
+Fast Moving Consumer Goods (FMCG),Financial Planning & Analysis (FP&A) Manager,95,115,130
+Fast Moving Consumer Goods (FMCG),Financial Planning & Analysis (FP&A) Director,150,200,230
+Fast Moving Consumer Goods (FMCG),Business Controller,104,156,210
+Fast Moving Consumer Goods (FMCG),Pricing Manager,90,100,130
+Fast Moving Consumer Goods (FMCG),Internal Auditor,54,60,75
+Fast Moving Consumer Goods (FMCG),Senior Internal Auditor,72,85,100
+Fast Moving Consumer Goods (FMCG),Internal Audit Manager,91,110,130
+Fast Moving Consumer Goods (FMCG),Internal Audit Director,168,195,234
+Fast Moving Consumer Goods (FMCG),Risk Governance and Compliance Manager,91,110,156
+Fast Moving Consumer Goods (FMCG),Enterprise Risk Management Manager,91,110,169
+Fast Moving Consumer Goods (FMCG),Head of Risk Governance and Compliance,182,195,260
+Fast Moving Consumer Goods (FMCG),Internal Control Manager,84,110,120
+Fast Moving Consumer Goods (FMCG),Accounts Administrator,30,33,36
+Fast Moving Consumer Goods (FMCG),Accounts Executive,36,46,48
+Fast Moving Consumer Goods (FMCG),"Accountant, Accounts Payable / Receivable",42,56,72
+Fast Moving Consumer Goods (FMCG),"Manager, Accounts Payable / Receivable",84,91,120
+Fast Moving Consumer Goods (FMCG),Credit Control Executive,36,46,60
+Fast Moving Consumer Goods (FMCG),Credit Control Manager,80,110,135
+Fast Moving Consumer Goods (FMCG),Payroll Executive,36,48,60
+Fast Moving Consumer Goods (FMCG),Payroll Manager,84,100,140
+Fast Moving Consumer Goods (FMCG),Cost Accountant,48,64,84
+Fast Moving Consumer Goods (FMCG),Costing Manager,91,117,130
+Fast Moving Consumer Goods (FMCG),Cost Controller,78,104,156
+Fast Moving Consumer Goods (FMCG),Revenue Accountant,60,105,108
+Fast Moving Consumer Goods (FMCG),Revenue Manager,91,102,130
+Fast Moving Consumer Goods (FMCG),Accountant,48,58,74
+Fast Moving Consumer Goods (FMCG),Senior Accountant,66,74,84
+Fast Moving Consumer Goods (FMCG),Finance Manager,85,100,120
+Fast Moving Consumer Goods (FMCG),Senior Finance Manager,110,125,144
+Fast Moving Consumer Goods (FMCG),Finance Controller,120,156,180
+Fast Moving Consumer Goods (FMCG),Finance Director,170,200,250
+Fast Moving Consumer Goods (FMCG),Head of Finance Operations / Shared Services,169,240,260
+Fast Moving Consumer Goods (FMCG),Chief Financial Officer,250,325,400
+Fast Moving Consumer Goods (FMCG),Tax Analyst,48,70,85
+Fast Moving Consumer Goods (FMCG),Senior Tax Analyst / Assistant Tax Manager,70,85,100
+Fast Moving Consumer Goods (FMCG),Tax Manager,80,120,180
+Fast Moving Consumer Goods (FMCG),Indirect Tax Manager,80,120,156
+Fast Moving Consumer Goods (FMCG),Transfer Pricing Manager,90,120,156
+Fast Moving Consumer Goods (FMCG),Head of Tax / Tax Director,180,210,250
+Fast Moving Consumer Goods (FMCG),Treasury Analyst,48,60,72
+Fast Moving Consumer Goods (FMCG),Senior Treasury Analyst,60,76,91
+Fast Moving Consumer Goods (FMCG),Treasury Manager,91,120,156
+Fast Moving Consumer Goods (FMCG),Head of Treasury / Treasury Director,182,195,260
+Fast Moving Consumer Goods (FMCG),Systems Finance Manager,90,120,156
+Fast Moving Consumer Goods (FMCG),Change Management Leader,90,156,195
+Fast Moving Consumer Goods (FMCG),Finance Transformation Manager,130,180,230
+Fast Moving Consumer Goods (FMCG),Mergers & Acquisitions (M&A) Analyst,72,80,110
+Fast Moving Consumer Goods (FMCG),Mergers & Acquisitions (M&A) Manager,104,130,156
+Fast Moving Consumer Goods (FMCG),Head of Mergers & Acquisitions (M&A) /,182,220,260
+Fast Moving Consumer Goods (FMCG),C&B Specialist,60,72,84
+Fast Moving Consumer Goods (FMCG),Senior C&B Analyst,85,95,100
+Fast Moving Consumer Goods (FMCG),C&B Manager,100,120,140
+Fast Moving Consumer Goods (FMCG),HRBP,80,100,120
+Fast Moving Consumer Goods (FMCG),HRBP Lead,120,135,150
+Fast Moving Consumer Goods (FMCG),HR Executive,48,60,70
+Fast Moving Consumer Goods (FMCG),Assistant HR Manager,72,80,85
+Fast Moving Consumer Goods (FMCG),HR Manager,90,100,120
+Fast Moving Consumer Goods (FMCG),HR Director,160,200,240
+Fast Moving Consumer Goods (FMCG),Recruiting Coordinator,40,55,65
+Fast Moving Consumer Goods (FMCG),Talent Acquisition Specialist,48,60,70
+Fast Moving Consumer Goods (FMCG),Senior Training Executive,48,60,70
+Fast Moving Consumer Goods (FMCG),Director Talent Development,120,135,150
+Fast Moving Consumer Goods (FMCG),Compliance Manager,100,120,140
+Fast Moving Consumer Goods (FMCG),Senior Compliance Manager,150,165,180
+Fast Moving Consumer Goods (FMCG),Head of Compliance,220,260,300
+Fast Moving Consumer Goods (FMCG),Legal Advisor,91,98,105
+Fast Moving Consumer Goods (FMCG),Legal Counsel,110,115,120
+Fast Moving Consumer Goods (FMCG),Senior Legal Counsel,180,212,250
+Fast Moving Consumer Goods (FMCG),General Counsel,230,280,330
+Fast Moving Consumer Goods (FMCG),Brand Executive,42,48,54
+Fast Moving Consumer Goods (FMCG),Assistant Brand Manager,45,60,75
+Fast Moving Consumer Goods (FMCG),Brand Manager,60,78,96
+Fast Moving Consumer Goods (FMCG),Senior Brand Manager,90,111,132
+Fast Moving Consumer Goods (FMCG),Digital Marketing Executive,50,60,70
+Fast Moving Consumer Goods (FMCG),Digital Marketing Specialist,72,105,140
+Fast Moving Consumer Goods (FMCG),Digital Marketing Manager,108,128,144
+Fast Moving Consumer Goods (FMCG),Digital Content Manager,112,120,132
+Fast Moving Consumer Goods (FMCG),Digital Project Manager,72,82,84
+Fast Moving Consumer Goods (FMCG),E-commerce Data Analyst,50,82,110
+Fast Moving Consumer Goods (FMCG),Senior E-commerce Executive,65,75,80
+Fast Moving Consumer Goods (FMCG),E-commerce Manager,78,109,168
+Fast Moving Consumer Goods (FMCG),Head of E-commerce,150,200,250
+Fast Moving Consumer Goods (FMCG),Assistant Communications Manager,36,46,48
+Fast Moving Consumer Goods (FMCG),Senior Marketing Executive,42,51,60
+Fast Moving Consumer Goods (FMCG),Assistant Marketing Manager,48,60,72
+Fast Moving Consumer Goods (FMCG),Marketing Manager,78,89,108
+Fast Moving Consumer Goods (FMCG),Head of Marketing,120,156,192
+Fast Moving Consumer Goods (FMCG),Assistant Channel Marketing Manager,75,87,100
+Fast Moving Consumer Goods (FMCG),Channel Marketing Manager,80,106,132
+Fast Moving Consumer Goods (FMCG),Trade Marketing Executive,42,47,54
+Fast Moving Consumer Goods (FMCG),Assistant Trade Marketing Manager,66,78,91
+Fast Moving Consumer Goods (FMCG),Product Marketing Executive,45,57,65
+Fast Moving Consumer Goods (FMCG),Product Marketing Manager,60,71,78
+Fast Moving Consumer Goods (FMCG),Logistics Coordinator,48,55,60
+Fast Moving Consumer Goods (FMCG),Logistics Executive,30,35,38
+Fast Moving Consumer Goods (FMCG),Senior Logistics Executive,48,53,54
+Fast Moving Consumer Goods (FMCG),Assistant Logistics Manager,48,60,72
+Fast Moving Consumer Goods (FMCG),Logistics Manager,79,94,102
+Fast Moving Consumer Goods (FMCG),Logistics Director,144,187,220
+Fast Moving Consumer Goods (FMCG),Operations Executive,36,41,48
+Fast Moving Consumer Goods (FMCG),Operations Manager,84,88,150
+Fast Moving Consumer Goods (FMCG),Operations Director,180,198,216
+Fast Moving Consumer Goods (FMCG),Order Management Specialist,36,48,60
+Fast Moving Consumer Goods (FMCG),Supply Chain Project Executive,42,54,60
+Fast Moving Consumer Goods (FMCG),Export Specialist,60,67,72
+Fast Moving Consumer Goods (FMCG),Commodity Specialist,54,61,66
+Fast Moving Consumer Goods (FMCG),Commodity Manager,96,121,144
+Fast Moving Consumer Goods (FMCG),Procurement Executive,72,93,120
+Fast Moving Consumer Goods (FMCG),Senior Procurement Executive,73,96,130
+Fast Moving Consumer Goods (FMCG),Procurement Analyst,48,53,54
+Fast Moving Consumer Goods (FMCG),Assistant Procurement Manager,60,70,78
+Fast Moving Consumer Goods (FMCG),Procurement Manager,78,98,120
+Fast Moving Consumer Goods (FMCG),Head of Procurement,96,112,140
+Fast Moving Consumer Goods (FMCG),Director Procurement and Supply Chain,200,250,300
+Fast Moving Consumer Goods (FMCG),Indirect Procurement Manager,72,80,96
+Fast Moving Consumer Goods (FMCG),Supply Chain Executive,36,41,42
+Fast Moving Consumer Goods (FMCG),Supply Chain Coordinator,39,44,45
+Fast Moving Consumer Goods (FMCG),Supply Chain Manager,60,75,91
+Fast Moving Consumer Goods (FMCG),Vice President Supply Chain and Operations,204,224,240
+Fast Moving Consumer Goods (FMCG),Supply Chain Planner,48,51,54
+Fast Moving Consumer Goods (FMCG),Senior Supply Chain Planner,60,65,70
+Fast Moving Consumer Goods (FMCG),Supply Chain Planning Manager,84,109,132
+Fast Moving Consumer Goods (FMCG),Inventory Controller,36,46,48
+Fast Moving Consumer Goods (FMCG),Assistant Supply Planning Manager,72,90,108
+Fast Moving Consumer Goods (FMCG),Assistant Demand Planning Manager,72,90,108
+Fast Moving Consumer Goods (FMCG),Account Manager,60,75,90
+Fast Moving Consumer Goods (FMCG),Key Account Executive,36,46,55
+Fast Moving Consumer Goods (FMCG),Assistant Key Account Manager,42,45,72
+Fast Moving Consumer Goods (FMCG),Key Account Manager,55,70,85
+Fast Moving Consumer Goods (FMCG),Senior Business Development Executive,45,50,60
+Fast Moving Consumer Goods (FMCG),Assistant Business Development Manager,50,55,70
+Fast Moving Consumer Goods (FMCG),Business Development Manager,75,90,105
+Fast Moving Consumer Goods (FMCG),Sales Executive,42,48,75
+Fast Moving Consumer Goods (FMCG),Sales Assistant Manager,60,75,85
+Fast Moving Consumer Goods (FMCG),Sales Manager,80,94,108
+Fast Moving Consumer Goods (FMCG),Sales and Marketing Executive,30,45,48
+Fast Moving Consumer Goods (FMCG),Sales and Marketing Manager,65,77,85
+Fast Moving Consumer Goods (FMCG),Area Executive,40,44,50
+Fast Moving Consumer Goods (FMCG),Area Manager,55,70,84
+Fast Moving Consumer Goods (FMCG),Assistant Export Manager,48,63,90
+Fast Moving Consumer Goods (FMCG),Export Manager,80,94,108
+Fast Moving Consumer Goods (FMCG),Trade Sales Executive,45,55,60
+Fast Moving Consumer Goods (FMCG),Administration Executive,42,60,66
+Fast Moving Consumer Goods (FMCG),Junior Executive Assistant,58,72,90
+Fast Moving Consumer Goods (FMCG),Executive Assistant,60,84,102
+Fast Moving Consumer Goods (FMCG),Facilities Coordinator,42,58,66
+Fast Moving Consumer Goods (FMCG),Office Administrator,48,60,72
+Fast Moving Consumer Goods (FMCG),Sales Administrator,50,62,70
+Fast Moving Consumer Goods (FMCG),Team Secretary,54,66,79
+Fast Moving Consumer Goods (FMCG),Business Analyst,80,100,120
+Fast Moving Consumer Goods (FMCG),Business Analytics Manager,130,140,150
+Fast Moving Consumer Goods (FMCG),Business Intelligence (BI) Analyst,90,110,120
+Fast Moving Consumer Goods (FMCG),Business Intelligence (BI) and Data Analytics Manager,90,127,150
+Fast Moving Consumer Goods (FMCG),Data Analyst,55,107,120
+Fast Moving Consumer Goods (FMCG),Data Scientist,90,135,180
+Fast Moving Consumer Goods (FMCG),Cloud Developer,100,105,110
+Fast Moving Consumer Goods (FMCG),DevOps Engineer,100,125,150
+Fast Moving Consumer Goods (FMCG),Head of Software Engineering,90,115,144
+Fast Moving Consumer Goods (FMCG),Software Manager,100,125,150
+Fast Moving Consumer Goods (FMCG),Digital Transformation Specialist,100,122,140
+Fast Moving Consumer Goods (FMCG),ERP Analyst,60,76,90
+Fast Moving Consumer Goods (FMCG),ERP Manager,100,120,150
+Fast Moving Consumer Goods (FMCG),ERP Cloud Technical Lead,100,106,120
+Fast Moving Consumer Goods (FMCG),ERP Business Process Lead,120,120,150
+Fast Moving Consumer Goods (FMCG),IT Project Manager,80,95,110
+Fast Moving Consumer Goods (FMCG),IT Manager,100,110,120
+Fast Moving Consumer Goods (FMCG),Head of IT,180,240,300
+Fast Moving Consumer Goods (FMCG),Senior Infrastructure Manager,90,135,180
+Fast Moving Consumer Goods (FMCG),Infrastructure Director,150,195,240
+Fast Moving Consumer Goods (FMCG),Pre-sales Engineer,39,49,52
+Fast Moving Consumer Goods (FMCG),System Analyst,90,95,100
+Fast Moving Consumer Goods (FMCG),Service Delivery Manager,96,108,120
+Fast Moving Consumer Goods (FMCG),IT Security Specialist,80,90,100
+Fast Moving Consumer Goods (FMCG),IT Security Manager,85,102,120
+Fast Moving Consumer Goods (FMCG),Head of IT Security,120,180,240
+Fast Moving Consumer Goods (FMCG),IT Support Analyst,40,50,60
+Fast Moving Consumer Goods (FMCG),Network Engineer,48,60,72
+Fast Moving Consumer Goods (FMCG),System Engineer,48,60,72
+Financial Services and Fintech,Chief Information Officer,190,270,350
+Financial Services and Fintech,Chief Strategy Officer,200,275,350
+Financial Services and Fintech,Chief Risk Officer,250,300,350
+Financial Services and Fintech,Chief Financial Officer,250,325,400
+Financial Services and Fintech,Head of Private Banking,300,375,450
+Financial Services and Fintech,Head of Financial Institutions,300,375,450
+Financial Services and Fintech,Head of Private Equity / Venture Capital,400,510,620
+Financial Services and Fintech,Market Analyst,42,52,54
+Financial Services and Fintech,Investment Analyst,48,100,120
+Financial Services and Fintech,Senior Investment Analyst,80,130,200
+Financial Services and Fintech,Quantitative Analyst,60,100,120
+Financial Services and Fintech,Lead Quantitative Analyst,195,227,300
+Financial Services and Fintech,Capital Markets Associate,100,125,150
+Financial Services and Fintech,Venture Capital Associate,145,150,155
+Financial Services and Fintech,Asset Management Associate,70,90,125
+Financial Services and Fintech,Portfolio Management Associate,75,100,140
+Financial Services and Fintech,Senior Manager Private Fund Management,123,128,130
+Financial Services and Fintech,Vice President Asset Management,180,195,210
+Financial Services and Fintech,Chief Fund Manager,206,248,325
+Financial Services and Fintech,Financial Services Consultant,30,48,60
+Financial Services and Fintech,Senior Financial Services Consultant,60,85,120
+Financial Services and Fintech,Senior Banking Officer,36,48,72
+Financial Services and Fintech,Banking Manager,72,95,120
+Financial Services and Fintech,Banking Associate Director,100,115,130
+Financial Services and Fintech,Banking Director,150,160,170
+Financial Services and Fintech,Personal Banker,42,60,80
+Financial Services and Fintech,Assistant Relationship Manager,48,60,80
+Financial Services and Fintech,Relationship Manager,42,75,110
+Financial Services and Fintech,Relationship Lead,60,90,120
+Financial Services and Fintech,Assistant Vice President Corporate Banking,70,77,120
+Financial Services and Fintech,Vice President Corporate Banking,82,130,220
+Financial Services and Fintech,Premier Client Manager,60,75,90
+Financial Services and Fintech,Premier Offshore Relationship Manager,72,87,120
+Financial Services and Fintech,"Assistant Vice President
+Portfolio Relationship Management",90,110,130
+Financial Services and Fintech,"Assistant Vice President
+Private Banking Relationship Management",96,111,125
+Financial Services and Fintech,"Vice President Private Banking Relationship
+Management",130,155,210
+Financial Services and Fintech,"Director
+Private Banking Relationship Management",200,255,325
+Financial Services and Fintech,Mergers & Acquisitions (M&A) Analyst,60,92,120
+Financial Services and Fintech,Vice President Mergers & Acquisitions (M&A),200,250,300
+Financial Services and Fintech,Partnership Sales and Relationship Manager,48,88,120
+Financial Services and Fintech,Partnerships Manager,80,85,90
+Financial Services and Fintech,Head of Partnerships,144,164,180
+Financial Services and Fintech,Investment Banking Analyst,48,60,70
+Financial Services and Fintech,Investment Banking Associate,80,105,148
+Financial Services and Fintech,Assistant Vice President Investment Banking,108,139,180
+Financial Services and Fintech,Vice President Investment Banking,160,225,250
+Financial Services and Fintech,Investment Banking Director,225,290,375
+Financial Services and Fintech,Head of Investment Banking,300,373,450
+Financial Services and Fintech,"Assistant Vice President
+Equity / Fixed Income (FI) Research",100,147,180
+Financial Services and Fintech,Associate Director Equity / Fixed Income (FI) Research,200,227,300
+Financial Services and Fintech,Director Equity / Fixed Income (FI) Research,250,285,350
+Financial Services and Fintech,Market Research Analayst,60,75,84
+Financial Services and Fintech,Investment Product Specialist,120,150,180
+Financial Services and Fintech,Sales Consultant,42,52,60
+Financial Services and Fintech,Senior Sales Executive,60,75,84
+Financial Services and Fintech,Product Sales Manager,60,86,120
+Financial Services and Fintech,Sales Manager,80,100,120
+Financial Services and Fintech,Sales Director,150,167,180
+Financial Services and Fintech,Head of Sales,275,347,420
+Financial Services and Fintech,Broker,48,58,60
+Financial Services and Fintech,Institutional Dealer,55,66,84
+Financial Services and Fintech,Trader,45,117,215
+Financial Services and Fintech,Business Planning Analyst,60,75,84
+Financial Services and Fintech,Business Analyst,72,84,120
+Financial Services and Fintech,Senior Business Analyst,120,167,250
+Financial Services and Fintech,Business Intelligence (BI) Analyst,54,59,72
+Financial Services and Fintech,Business Intelligence (BI) Analytics Manager,80,90,96
+Financial Services and Fintech,Senior Business Intelligence (BI) Developer,180,205,230
+Financial Services and Fintech,Trade Operations Analyst,36,48,60
+Financial Services and Fintech,Trade Support Analyst,36,41,42
+Financial Services and Fintech,Settlements Analyst,42,54,60
+Financial Services and Fintech,Settlements Forecasting Team Lead,54,64,66
+Financial Services and Fintech,Derivatives Settlements Analyst,42,52,58
+Financial Services and Fintech,Liquidity Management Analyst,48,55,60
+Financial Services and Fintech,Venture Capital Analyst,75,87,100
+Financial Services and Fintech,Compliance Officer,48,66,78
+Financial Services and Fintech,Compliance Analyst,70,75,85
+Financial Services and Fintech,Assistant Compliance Manager,60,72,102
+Financial Services and Fintech,Compliance Manager,70,110,150
+Financial Services and Fintech,Assistant Vice President Compliance,78,95,108
+Financial Services and Fintech,Vice President Compliance,96,111,204
+Financial Services and Fintech,Compliance Director,200,275,340
+Financial Services and Fintech,Head of Compliance,250,300,350
+Financial Services and Fintech,Managing Director Compliance,300,350,400
+Financial Services and Fintech,Corporate Secretary,48,55,72
+Financial Services and Fintech,Change Management Associate,60,70,82
+Financial Services and Fintech,"Assistant Vice President
+Change Management",80,110,130
+Financial Services and Fintech,Corporate Access Analyst,48,63,78
+Financial Services and Fintech,Assistant Manager Corporate Development,60,65,70
+Financial Services and Fintech,Corporate Strategy Executive,60,72,84
+Financial Services and Fintech,Associate Director Corporate Strategy,190,200,210
+Financial Services and Fintech,Vice President Strategy and Operations,200,240,280
+Financial Services and Fintech,Credit Analyst,33,43,49
+Financial Services and Fintech,Senior Credit Analyst,45,55,64
+Financial Services and Fintech,Credit Risk Analyst,50,70,96
+Financial Services and Fintech,Credit Risk Analytics Manager,72,88,120
+Financial Services and Fintech,Assistant Vice President Credit Risk,65,80,100
+Financial Services and Fintech,Vice President Credit Risk,100,117,150
+Financial Services and Fintech,Director Credit Risk,120,145,156
+Financial Services and Fintech,Head of Specialised Credit,180,220,265
+Financial Services and Fintech,Credit Control Executive,36,43,48
+Financial Services and Fintech,Senior Credit Controller,48,60,72
+Financial Services and Fintech,Senior Credit Operations Analyst,75,85,90
+Financial Services and Fintech,Credit Manager,72,82,96
+Financial Services and Fintech,Credit Risk Modelling Manager,80,90,100
+Financial Services and Fintech,Margin Executive,45,52,60
+Financial Services and Fintech,Customer Service Associate,27,37,38
+Financial Services and Fintech,Customer Service Consultant,30,31,33
+Financial Services and Fintech,Customer Service Executive,30,40,42
+Financial Services and Fintech,Customer Service Officer,36,39,45
+Financial Services and Fintech,Client Services Officer,30,42,45
+Financial Services and Fintech,Client Services Specialist,36,46,48
+Financial Services and Fintech,Client Services Manager,120,140,160
+Financial Services and Fintech,Vice President Client Services,130,150,180
+Financial Services and Fintech,Client Experience Specialist,30,32,34
+Financial Services and Fintech,Client Processing Specialist,44,54,60
+Financial Services and Fintech,Transfer Agency Associate,36,42,48
+Financial Services and Fintech,Senior Transfer Agency Associate,48,54,60
+Financial Services and Fintech,KYC Analyst,30,56,72
+Financial Services and Fintech,Senior KYC Analyst,60,72,80
+Financial Services and Fintech,Assistant Vice President AML,60,74,100
+Financial Services and Fintech,Client Onboarding Officer,30,37,42
+Financial Services and Fintech,Client Onboarding Analyst,36,63,96
+Financial Services and Fintech,Client Onboarding Advisor,50,77,120
+Financial Services and Fintech,Vice President Client Onboarding,130,160,180
+Financial Services and Fintech,Paralegal,48,67,85
+Financial Services and Fintech,Company Secretary,80,110,260
+Financial Services and Fintech,Legal Counsel,120,170,220
+Financial Services and Fintech,Senior Legal Counsel,150,195,315
+Financial Services and Fintech,Litigation Counsel,120,160,200
+Financial Services and Fintech,General Counsel,260,310,360
+Financial Services and Fintech,Investment Operations Associate,48,55,60
+Financial Services and Fintech,Loan Operations Associate,48,55,66
+Financial Services and Fintech,Money Market Operations Associate,48,65,80
+Financial Services and Fintech,Capital Markets Operations Team Lead,80,82,85
+Financial Services and Fintech,Futures and Options Operations Associate,48,70,100
+Financial Services and Fintech,Operations Officer,36,48,60
+Financial Services and Fintech,Operations Associate,48,72,84
+Financial Services and Fintech,Operations Manager,85,95,120
+Financial Services and Fintech,Vice President Operations,110,180,200
+Financial Services and Fintech,Head of Operations,120,200,350
+Financial Services and Fintech,Product Data Operations Manager,60,72,110
+Financial Services and Fintech,Trade Operations Executive,39,40,50
+Financial Services and Fintech,Trade Support Associate,42,60,72
+Financial Services and Fintech,Trade Finance Operations Officer,42,60,72
+Financial Services and Fintech,Senior Trade Finance Operations Officer,48,65,84
+Financial Services and Fintech,Trade Operations Manager,90,125,130
+Financial Services and Fintech,Vice President Trade Operations,130,150,180
+Financial Services and Fintech,Product Control Associate,60,78,96
+Financial Services and Fintech,Assistant Vice President Product Control,100,110,130
+Financial Services and Fintech,Vice President Product Control,130,160,200
+Financial Services and Fintech,Valuation Manager,100,115,130
+Financial Services and Fintech,Risk Associate,36,53,72
+Financial Services and Fintech,Senior Risk Analyst,42,49,54
+Financial Services and Fintech,Assistant Risk Manager,48,60,80
+Financial Services and Fintech,Risk Manager,60,85,132
+Financial Services and Fintech,Assistant Vice President Risk,70,105,120
+Financial Services and Fintech,Vice President Operational Risk Control,90,100,130
+Financial Services and Fintech,Head of Risk Management,120,150,180
+Financial Services and Fintech,Director Risk Management,192,210,230
+Financial Services and Fintech,Data Analyst,54,72,96
+Financial Services and Fintech,Data Engineer,54,72,96
+Financial Services and Fintech,Data Engineering Lead,120,144,204
+Financial Services and Fintech,Database Administrator,72,84,108
+Financial Services and Fintech,Data Scientist,84,108,156
+Financial Services and Fintech,Data Architect,108,120,156
+Financial Services and Fintech,Data Integration Manager,108,144,180
+Financial Services and Fintech,Chief Data Scientist,144,156,180
+Financial Services and Fintech,DevOps Engineer,90,108,132
+Financial Services and Fintech,Enterprise Architect,132,156,360
+Financial Services and Fintech,Digital Transformation Manager,114,126,156
+Financial Services and Fintech,Digital Transformation Specialist,144,180,300
+Financial Services and Fintech,Head of Software Engineering,156,200,360
+Financial Services and Fintech,ERP Specialist,80,90,100
+Financial Services and Fintech,ERP Manager,84,104,120
+Financial Services and Fintech,IT Project Manager,72,96,156
+Financial Services and Fintech,IT Manager,108,120,156
+Financial Services and Fintech,IT Program Manager,96,132,180
+Financial Services and Fintech,Network Engineer,100,102,105
+Financial Services and Fintech,Network Operations Manager,108,120,132
+Financial Services and Fintech,Network Architect,108,120,156
+Financial Services and Fintech,Infrastructure and Operations Manager,108,120,180
+Financial Services and Fintech,Network Design Lead,120,156,180
+Financial Services and Fintech,Senior IT Analyst,48,54,78
+Financial Services and Fintech,System Analyst,60,90,96
+Financial Services and Fintech,Senior System Engineer,72,84,120
+Financial Services and Fintech,Technical Architect,84,96,120
+Financial Services and Fintech,Technical Project Manager,84,96,156
+Financial Services and Fintech,IT Security Specialist,78,90,120
+Financial Services and Fintech,IT Security Manager,90,120,150
+Financial Services and Fintech,Head of IT Security,150,175,200
+Financial Services and Fintech,IT Audit Manager,108,132,200
+Financial Services and Fintech,"IT Risk Governance and Compliance
+Manager",108,120,150
+Financial Services and Fintech,Application Support Specialist,78,90,120
+Financial Services and Fintech,Head of Application Support,100,120,200
+Financial Services and Fintech,Product Manager,108,120,150
+Financial Services and Fintech,Product Director,132,150,180
+Financial Services and Fintech,Software Engineer,60,84,120
+Financial Services and Fintech,Head of Software Engineering,144,156,200
+Financial Services and Fintech,Application Manager,96,108,156
+Financial Services and Fintech,Application Architect,120,144,180
+Financial Services and Fintech,Solution Delivery Manager,108,120,144
+Financial Services and Fintech,Solution Architect,108,120,180
+Financial Services and Fintech,Back End / Front End Developer,60,84,120
+Financial Services and Fintech,Full Stack Developer,78,90,120
+Financial Services and Fintech,Full Stack Architect,120,150,180
+Financial Services and Fintech,Designer,60,84,108
+Financial Services and Fintech,Manager,96,108,120
+Financial Services and Fintech,Loan Operations Analyst,36,45,60
+Financial Services and Fintech,Senior Loan Operations Analyst,60,67,72
+Financial Services and Fintech,Lending Operations Analyst,36,51,60
+Financial Services and Fintech,Operations Analyst,36,66,84
+Financial Services and Fintech,Accounts Officer,36,39,42
+Financial Services and Fintech,Accounts Executive,33,41,48
+Financial Services and Fintech,Accountant,42,60,78
+Financial Services and Fintech,Accounting Supervisor,62,75,84
+Financial Services and Fintech,Accounting Manager,90,100,120
+Financial Services and Fintech,Fund Accountant,48,60,75
+Financial Services and Fintech,Senior Fund Accountant,60,70,85
+Financial Services and Fintech,Vice President Fund Accounting,150,165,180
+Financial Services and Fintech,Senior Vice President Fund Accounting,200,210,220
+Financial Services and Fintech,Fraud Accounting Manager,84,100,120
+Financial Services and Fintech,Finance Analyst,36,46,75
+Financial Services and Fintech,Senior Finance Analyst,72,84,90
+Financial Services and Fintech,"Financial Planning & Analysis (FP&A)
+Manager",120,140,160
+Financial Services and Fintech,Trade Finance Analyst,36,44,48
+Financial Services and Fintech,Financial Reporting Associate,42,43,45
+Financial Services and Fintech,Internal Audit Officer,48,60,90
+Financial Services and Fintech,Assistant Vice President Internal Audit,72,92,100
+Financial Services and Fintech,Vice President Internal Audit,100,151,220
+Financial Services and Fintech,Financial Controller,140,165,200
+Financial Services and Fintech,Fund Controller,160,180,200
+Financial Services and Fintech,Cash Operations Analyst,36,48,54
+Financial Services and Fintech,Cash Operations Associate,48,55,60
+Financial Services and Fintech,Cash Operations Team Lead,80,100,120
+Financial Services and Fintech,Junior Claims Executive,36,38,40
+Financial Services and Fintech,Claims Executive,40,42,48
+Financial Services and Fintech,Senior Claims Executive,50,55,60
+Financial Services and Fintech,Assistant Claims Manager,60,64,84
+Financial Services and Fintech,Finance Administrator,36,39,42
+Financial Services and Fintech,Finance Executive,48,48,60
+Financial Services and Fintech,Assistant Finance Manager,72,85,100
+Financial Services and Fintech,Finance Manager,84,112,140
+Financial Services and Fintech,Vice President Finance Operations,144,151,156
+Financial Services and Fintech,Finance Director,150,250,290
+Financial Services and Fintech,Tax Advisory Accountant,60,82,96
+Financial Services and Fintech,Assistant Vice President Tax,120,125,130
+Financial Services and Fintech,Treasury Executive,36,41,43
+Financial Services and Fintech,Senior Treasury Analyst,48,55,60
+Financial Services and Fintech,Treasury Director,180,212,260
+Financial Services and Fintech,C&B Executive,81,105,110
+Financial Services and Fintech,C&B Manager,120,150,180
+Financial Services and Fintech,Human Resources -,,,
+Financial Services and Fintech,Junior HRBP,60,70,80
+Financial Services and Fintech,Senior HBRP,80,100,120
+Financial Services and Fintech,HRBP Manager,120,200,270
+Financial Services and Fintech,Senior HR Operations Officer,42,66,78
+Financial Services and Fintech,Senior HR Executive,64,69,70
+Financial Services and Fintech,Senior HR Consultant,58,74,96
+Financial Services and Fintech,Assistant HR Manager,80,95,100
+Financial Services and Fintech,HR Manager,90,125,144
+Financial Services and Fintech,Senior HR Manager,120,140,160
+Financial Services and Fintech,HR Director,180,245,310
+Financial Services and Fintech,Talent Acquisition Specialist,50,64,78
+Financial Services and Fintech,Talent Acquisition Manager,80,100,120
+Financial Services and Fintech,Senior Talent Acquisition Manager,120,150,180
+Financial Services and Fintech,Learning and Development Executive,54,67,80
+Financial Services and Fintech,Talent Development Manager,90,105,125
+Financial Services and Fintech,Senior Talent Development Manager,125,157,190
+Financial Services and Fintech,CRM Manager,72,106,140
+Financial Services and Fintech,Digital Marketing Executive,42,56,70
+Financial Services and Fintech,"Assistant User Experience / User Interface
+(UX / UI) Manager",60,72,85
+Financial Services and Fintech,"User Experience / User Interface (UX / UI)
+Manager",70,82,95
+Financial Services and Fintech,Digital Marketing Manager,66,93,120
+Financial Services and Fintech,Digital Marketing Director,150,200,250
+Financial Services and Fintech,E-commerce Manager,84,117,150
+Financial Services and Fintech,E-commerce Director,175,200,250
+Financial Services and Fintech,Events Manager,66,82,84
+Financial Services and Fintech,Graphic Web Designer,54,66,70
+Financial Services and Fintech,Marketing and Communications Specialist,54,69,85
+Financial Services and Fintech,Marketing and Communications Manager,72,106,140
+Financial Services and Fintech,Director Marketing and Communications,140,170,200
+Financial Services and Fintech,Corporate Communications Manager,60,63,66
+Financial Services and Fintech,Investor Relations Manager,72,104,120
+Financial Services and Fintech,Copywriter,42,59,69
+Financial Services and Fintech,Assistant Marketing Manager,46,53,60
+Financial Services and Fintech,Marketing Manager,66,88,110
+Financial Services and Fintech,Marketing Director,130,145,180
+Financial Services and Fintech,Senior Marketing Director,150,175,200
+Financial Services and Fintech,Head of Marketing,160,185,220
+Financial Services and Fintech,Product Specialist,75,82,90
+Financial Services and Fintech,Product Manager,85,102,120
+Financial Services and Fintech,Product Director,130,155,180
+Financial Services and Fintech,Solution Sales Manager,80,100,120
+Financial Services and Fintech,Vice President Solution Sales,120,150,180
+Financial Services and Fintech,Senior Vice President Solution Sales,180,215,250
+Financial Services and Fintech,Derivative Operations Manager,90,110,130
+Financial Services and Fintech,Senior Vice President Derivative Operations,150,175,200
+Financial Services and Fintech,Indirect Procurement Manager,80,96,110
+Financial Services and Fintech,Vice President Procurement,150,185,220
+Financial Services and Fintech,Senior Vice President Procurement,200,242,260
+Financial Services and Fintech,Administrator,45,60,66
+Financial Services and Fintech,Front Desk and Administration Executive,45,60,72
+Financial Services and Fintech,Senior Administration Executive,60,69,78
+Financial Services and Fintech,Administration and Facilities Manager,78,90,108
+Financial Services and Fintech,Administration Manager,84,102,114
+Financial Services and Fintech,Executive Assistant,72,90,120
+Financial Services and Fintech,Senior Executive Assistant,84,102,144
+Financial Services and Fintech,Executive Assistant and Office Manager,84,102,144
+Financial Services and Fintech,Junior Office Admininstrator,45,57,62
+Financial Services and Fintech,Office Administrator,45,60,66
+Financial Services and Fintech,Office Manager,110,132,180
+Financial Services and Fintech,Receptionist,54,60,66
+Financial Services and Fintech,"Receptionist and Human Resources
+Assistant",54,60,69
+Financial Services and Fintech,Receptionist and Office Assistant,54,60,66
+Financial Services and Fintech,Receptionist and Junior Secretary,54,60,69
+Financial Services and Fintech,Senior Secretary,72,81,90
+Financial Services and Fintech,Team Assistant,60,72,78
+Healthcare and Life Sciences,Chief Operating Officer,250,300,350
+Healthcare and Life Sciences,Chief Financial Officer,250,325,400
+Healthcare and Life Sciences,Account Manager,50,65,80
+Healthcare and Life Sciences,Key Account Executive,45,55,65
+Healthcare and Life Sciences,Senior Key Account Manager,110,125,140
+Healthcare and Life Sciences,Business Development Manager,90,122,160
+Healthcare and Life Sciences,"Business Development and Marketing
+Manager",100,125,150
+Healthcare and Life Sciences,Business Manager,120,150,180
+Healthcare and Life Sciences,Senior Business Development Manager,130,175,220
+Healthcare and Life Sciences,Head of Business Development,200,250,300
+Healthcare and Life Sciences,Product Specialist,36,54,75
+Healthcare and Life Sciences,Senior Product Specialist,60,70,90
+Healthcare and Life Sciences,Product Manager,75,145,200
+Healthcare and Life Sciences,Product Director,150,190,250
+Healthcare and Life Sciences,Sales Representative,40,55,70
+Healthcare and Life Sciences,Area Sales Manager,75,90,105
+Healthcare and Life Sciences,Sales Manager,95,125,200
+Healthcare and Life Sciences,General Manager Sales,180,215,250
+Healthcare and Life Sciences,Sales Director,200,250,300
+Healthcare and Life Sciences,Sales & Marketing Manager,80,105,140
+Healthcare and Life Sciences,Director Sales & Marketing,220,260,300
+Healthcare and Life Sciences,Commercial Manager,120,160,200
+Healthcare and Life Sciences,Assistant Digital Marketing Manager,75,85,100
+Healthcare and Life Sciences,Digital Marketing Manager,100,115,130
+Healthcare and Life Sciences,Marketing and Communications Executive,45,60,75
+Healthcare and Life Sciences,Marketing and Communications Manager,110,140,170
+Healthcare and Life Sciences,Marketing Manager,100,125,150
+Healthcare and Life Sciences,Head of Marketing,200,250,300
+Healthcare and Life Sciences,Product Manager,95,115,135
+Healthcare and Life Sciences,Medical Affairs Manager,100,130,160
+Healthcare and Life Sciences,Senior Medical Affairs Manager,180,210,240
+Healthcare and Life Sciences,Medical Affairs Director,240,320,400
+Healthcare and Life Sciences,Senior RA Executive,50,60,70
+Healthcare and Life Sciences,RA Manager,90,152,200
+Healthcare and Life Sciences,Senior RA Manager,180,225,270
+Healthcare and Life Sciences,RA Director,270,360,450
+Healthcare and Life Sciences,Commercial Quality Manager,90,120,150
+Healthcare and Life Sciences,Pharmacovigilance Manager,80,100,120
+Healthcare and Life Sciences,Chemist,50,55,60
+Healthcare and Life Sciences,Head of Product Development,150,167,180
+Healthcare and Life Sciences,Manufacturing Engineer,42,52,65
+Healthcare and Life Sciences,Maintenance Engineer,60,67,72
+Healthcare and Life Sciences,Electrical Engineer,60,70,78
+Healthcare and Life Sciences,Service Engineer,60,75,90
+Healthcare and Life Sciences,Senior Electrical Engineer,60,80,96
+Healthcare and Life Sciences,EHS Manager,140,162,180
+Healthcare and Life Sciences,Facilities Engineer,75,95,110
+Healthcare and Life Sciences,Field Service Engineer,54,63,72
+Healthcare and Life Sciences,Maintenance Engineer,50,55,60
+Healthcare and Life Sciences,Project Manager,80,100,120
+Healthcare and Life Sciences,Principal Project Manager,140,160,180
+Healthcare and Life Sciences,Process Engineer,75,82,90
+Healthcare and Life Sciences,Senior Production Engineer,84,100,120
+Healthcare and Life Sciences,Production Manager,100,112,120
+Healthcare and Life Sciences,Quality Engineer,60,72,84
+Healthcare and Life Sciences,Senior Quality Manager,100,130,160
+Healthcare and Life Sciences,Quality Assurance (QA) Associate,36,42,48
+Healthcare and Life Sciences,Quality Assurance (QA) Manager,70,85,100
+Healthcare and Life Sciences,Senior Quality Assurance (QA) Manager,120,150,180
+Healthcare and Life Sciences,Director Quality Assurance (QA),180,220,260
+Healthcare and Life Sciences,Test Engineer,60,75,85
+Healthcare and Life Sciences,Head of Microbiology Laboratory,100,130,160
+Healthcare and Life Sciences,Finance / Business Analyst,48,66,96
+Healthcare and Life Sciences,Senior Finance / Business Analyst,66,85,100
+Healthcare and Life Sciences,Financial Planning and Analysis (FP&A) Manager,95,115,130
+Healthcare and Life Sciences,Financial Planning and Analysis (FP&A) Director,150,200,230
+Healthcare and Life Sciences,Business Controller,104,156,210
+Healthcare and Life Sciences,Pricing Manager,90,100,130
+Healthcare and Life Sciences,Internal Auditor,54,60,75
+Healthcare and Life Sciences,Senior Internal Auditor,72,85,100
+Healthcare and Life Sciences,Internal Audit Manager,91,110,130
+Healthcare and Life Sciences,Internal Audit Director,168,195,234
+Healthcare and Life Sciences,Risk Governance and Compliance Manager,91,110,156
+Healthcare and Life Sciences,Enterprise Risk Management Manager,91,110,169
+Healthcare and Life Sciences,Head of Risk Governance and Compliance,182,195,260
+Healthcare and Life Sciences,Internal Control Manager,84,110,120
+Healthcare and Life Sciences,Accounts Administrator,30,33,36
+Healthcare and Life Sciences,Accounts Executive,36,46,48
+Healthcare and Life Sciences,"Accountant, Accounts Payable / Receivable",42,56,72
+Healthcare and Life Sciences,"Manager, Accounts Payable / Receivable",84,91,120
+Healthcare and Life Sciences,Credit Control Executive,36,46,60
+Healthcare and Life Sciences,Credit Control Manager,80,110,135
+Healthcare and Life Sciences,Payroll Executive,36,48,60
+Healthcare and Life Sciences,Payroll Manager,84,100,140
+Healthcare and Life Sciences,Cost Accountant,48,64,84
+Healthcare and Life Sciences,Costing Manager,91,117,130
+Healthcare and Life Sciences,Cost Controller,78,104,156
+Healthcare and Life Sciences,Revenue Accountant,60,105,108
+Healthcare and Life Sciences,Revenue Manager,91,102,130
+Healthcare and Life Sciences,Accountant,48,58,74
+Healthcare and Life Sciences,Senior Accountant,66,74,84
+Healthcare and Life Sciences,Finance Manager,85,100,120
+Healthcare and Life Sciences,Senior Finance Manager,110,125,144
+Healthcare and Life Sciences,Finance Controller,120,156,180
+Healthcare and Life Sciences,Finance Director,170,200,250
+Healthcare and Life Sciences,"Head of Finance Operations /
+Head of Shared Services",169,240,260
+Healthcare and Life Sciences,Chief Financial Officer,250,325,400
+Healthcare and Life Sciences,Tax Analyst,48,70,85
+Healthcare and Life Sciences,Senior Tax Analyst / Assistant Tax Manager,70,85,100
+Healthcare and Life Sciences,Tax Manager,80,120,180
+Healthcare and Life Sciences,Indirect Tax Manager,80,120,156
+Healthcare and Life Sciences,Transfer Pricing Manager,90,120,156
+Healthcare and Life Sciences,Head of Tax / Tax Director,180,210,250
+Healthcare and Life Sciences,Treasury Analyst,48,60,72
+Healthcare and Life Sciences,Senior Treasury Analyst,60,76,91
+Healthcare and Life Sciences,Treasury Manager,91,120,156
+Healthcare and Life Sciences,Head of Treasury / Treasury Director,182,195,260
+Healthcare and Life Sciences,Systems Finance Manager,90,120,156
+Healthcare and Life Sciences,Change Management Leader,90,156,195
+Healthcare and Life Sciences,Finance Transformation Manager,130,180,230
+Healthcare and Life Sciences,Mergers & Acquisitions (M&A) Analyst,72,80,110
+Healthcare and Life Sciences,Mergers & Acquisitions (M&A) Manager,104,130,156
+Healthcare and Life Sciences,Head of Mergers & Acquisitions (M&A),182,220,260
+Healthcare and Life Sciences,Compliance Manager,110,130,150
+Healthcare and Life Sciences,Senior Compliance Manager,180,200,220
+Healthcare and Life Sciences,Compliance Director,250,290,330
+Healthcare and Life Sciences,Legal Counsel,100,140,180
+Healthcare and Life Sciences,Senior Legal Counsel,160,185,220
+Healthcare and Life Sciences,General Counsel,250,300,350
+Healthcare and Life Sciences,HRBP,100,150,200
+Healthcare and Life Sciences,Organisational Development Partner,90,120,150
+Healthcare and Life Sciences,Head of HR,180,240,300
+Healthcare and Life Sciences,Payroll Officer,30,33,36
+Healthcare and Life Sciences,Talent Acquisition Specialist,50,60,70
+Healthcare and Life Sciences,Head of Talent Acquisition,120,150,180
+Healthcare and Life Sciences,Talent Development Lead,90,105,120
+Healthcare and Life Sciences,Senior Talent Development Manager,100,122,144
+Healthcare and Life Sciences,Logistics Manager,84,96,108
+Healthcare and Life Sciences,Assistant Procurement Manager,70,85,100
+Healthcare and Life Sciences,Procurement Manager,100,125,150
+Healthcare and Life Sciences,Indirect Procurement Manager,100,151,160
+Healthcare and Life Sciences,Procurement Director,150,175,200
+Healthcare and Life Sciences,Head of Procurement,216,246,276
+Healthcare and Life Sciences,Supply Chain Executive,45,50,55
+Healthcare and Life Sciences,Supply Chain Analyst,45,50,55
+Healthcare and Life Sciences,Supply Chain Manager,100,150,200
+Healthcare and Life Sciences,Supply Planner,60,80,100
+Healthcare and Life Sciences,Supply Planning Manager,75,100,125
+Healthcare and Life Sciences,Contract and Supplier Management Analyst,50,60,70
+Healthcare and Life Sciences,Export Control Assistant Manager,65,75,95
+Healthcare and Life Sciences,Data Engineer,80,90,100
+Healthcare and Life Sciences,Data Scientist,80,95,120
+Healthcare and Life Sciences,Data Analyst,80,100,120
+Healthcare and Life Sciences,Data Analytics Manager,120,132,144
+Healthcare and Life Sciences,Business Intelligence (BI) Analyst,65,80,95
+Healthcare and Life Sciences,Senior Business Intelligence (BI) Specialist,75,80,105
+Healthcare and Life Sciences,"Business Intelligence (BI) and
+Data Analytics Manager",120,160,200
+Healthcare and Life Sciences,Enterprise Architect,100,140,180
+Healthcare and Life Sciences,Digital Transformation Executive,60,70,80
+Healthcare and Life Sciences,Digital Transformation Specialist,150,167,180
+Healthcare and Life Sciences,ERP Business Analyst,84,91,96
+Healthcare and Life Sciences,ERP Analyst,90,100,110
+Healthcare and Life Sciences,ERP Manager,120,135,150
+Healthcare and Life Sciences,IT Project Manager,90,120,150
+Healthcare and Life Sciences,IT Project Director,160,190,220
+Healthcare and Life Sciences,IT Business Partner,120,135,150
+Healthcare and Life Sciences,Technical Specialist,50,55,60
+Healthcare and Life Sciences,Technical Architect,90,105,120
+Healthcare and Life Sciences,Service Delivery Manager,91,106,117
+Healthcare and Life Sciences,Assistant IT Audit Manager,80,85,90
+Healthcare and Life Sciences,IT Security Analyst,60,70,80
+Healthcare and Life Sciences,Senior IT Security Analyst,75,90,105
+Healthcare and Life Sciences,IT Security Manager,120,135,150
+Healthcare and Life Sciences,Software Engineer,60,70,80
+Healthcare and Life Sciences,Software Engineer Lead,72,79,84
+Healthcare and Life Sciences,Solution Architect,90,100,110
+Healthcare and Life Sciences,Solution Partner / Director,180,190,200
+Retail,Customer Relations Officer,36,45,54
+Retail,Finance / Business Analyst,48,66,96
+Retail,Senior Finance / Business Analyst,66,85,100
+Retail,Financial Planning and Analysis (FP&A) Manager,95,115,130
+Retail,Manager,95,115,130
+Retail,Financial Planning & Analysis (FP&A) Director,150,200,230
+Retail,Director,150,200,230
+Retail,Business Controller,104,156,210
+Retail,Pricing Manager,90,100,130
+Retail,Internal Auditor,54,60,75
+Retail,Senior Internal Auditor,72,85,100
+Retail,Internal Audit Manager,91,110,130
+Retail,Internal Audit Director,168,195,234
+Retail,Risk Governance and Compliance Manager,91,110,156
+Retail,Head of Risk Governance and Compliance,182,195,260
+Retail,Internal Control Manager,84,110,120
+Retail,Enterprise Risk Management Manager,91,110,169
+Retail,Accounts Administrator,30,33,36
+Retail,Accounts Executive,36,46,48
+Retail,"Accountant, Accounts Payable / Receivable",42,56,72
+Retail,"Manager, Accounts Payable / Receivable",84,91,120
+Retail,Credit Control Executive,36,46,60
+Retail,Credit Control Manager,80,110,135
+Retail,Payroll Executive,36,48,60
+Retail,Payroll Manager,84,100,140
+Retail,Cost Accountant,48,64,84
+Retail,Costing Manager,91,117,130
+Retail,Cost Controller,78,104,156
+Retail,Revenue Accountant,60,105,108
+Retail,Revenue Manager,91,102,130
+Retail,Accountant,48,58,74
+Retail,Senior Accountant,66,74,84
+Retail,Finance Manager,85,100,120
+Retail,Senior Finance Manager,110,125,144
+Retail,Finance Controller,120,156,180
+Retail,Finance Director,170,200,250
+Retail,"Head of Finance Operations /
+Head of Shared Services",169,240,260
+Retail,Chief Financial Officer,250,325,400
+Retail,Tax Analyst,48,70,85
+Retail,Senior Tax Analyst / Assistant Tax Manager,70,85,100
+Retail,Tax Manager,80,120,180
+Retail,Indirect Tax Manager,80,120,156
+Retail,Transfer Pricing Manager,90,120,156
+Retail,Head of Tax / Tax Director,180,210,250
+Retail,Treasury Analyst,48,60,72
+Retail,Senior Treasury Analyst,60,76,91
+Retail,Treasury Manager,91,120,156
+Retail,Head of Treasury / Treasury Director,182,195,260
+Retail,Systems Finance Manager,90,120,156
+Retail,Change Management Leader,90,156,195
+Retail,Finance Transformation Manager,130,180,230
+Retail,Mergers & Acquisitions (M&A) Analyst,72,80,110
+Retail,Mergers & Acquisitions (M&A) Manager,104,130,156
+Retail,Head of Mergers & Acquisitions (M&A) /,,,
+Retail,Mergers & Acquisitions (M&A) Director,182,220,260
+Retail,Junior HRBP,48,58,60
+Retail,HRBP,72,84,100
+Retail,HR Coordinator,48,58,60
+Retail,Senior HR Executive,54,57,60
+Retail,HR Manager,90,105,120
+Retail,General Manager HR,250,275,300
+Retail,Head of HR,250,275,300
+Retail,Talent Acquisition Manager,90,105,120
+Retail,Senior Talent Development Manager,100,110,120
+Retail,Talent Management Manager,96,116,132
+Retail,Senior Brand Executive,48,58,90
+Retail,Brand Ambassador,68,90,100
+Retail,Assistant Brand Manager,54,85,96
+Retail,Brand Manager,70,90,100
+Retail,Senior Brand Manager,80,103,132
+Retail,Brand Director,120,137,144
+Retail,Marketing and Brand Manager,85,93,96
+Retail,Marketing and Brand Director,100,122,135
+Retail,CRM Manager,90,105,120
+Retail,Head of CRM,120,160,180
+Retail,Graphic Designer,36,39,42
+Retail,Digital Marketing Executive,30,46,65
+Retail,Assistant Digital Marketing Manager,60,62,65
+Retail,Digital Marketing Manager,80,87,95
+Retail,Director Digital Marketing,120,144,168
+Retail,Assistant Vice President Digital Marketing,168,193,216
+Retail,Digital and Social Media Manager,48,60,66
+Retail,E-commerce Manager,72,84,96
+Retail,Assistant Vice President E-commerce,168,193,216
+Retail,Head of E-commerce,150,200,230
+Retail,Media Manager,84,96,108
+Retail,Marketing and Communications Manager,78,100,132
+Retail,Head of Marketing and Communications,114,192,250
+Retail,Marketing and Communications Director,170,210,250
+Retail,Marketing Executive,55,60,65
+Retail,Senior Marketing Executive,58,70,82
+Retail,Assistant Marketing Manager,60,78,85
+Retail,Marketing Manager,72,90,108
+Retail,Senior Marketing Manager,90,105,120
+Retail,Head of Marketing,84,109,130
+Retail,Marketing Director,120,162,264
+Retail,Channel Marketing Manager,120,127,132
+Retail,Product Marketing Manager,86,103,120
+Retail,Marketing Insights and Analytics Manager,78,90,97
+Retail,Head of Marketing Insights and Analytics,130,176,210
+Retail,Marketing Insightsand Analytics Lead,180,195,210
+Retail,Partnerships Manager,60,90,120
+Retail,Logistics Manager,54,66,78
+Retail,Operations Executive,48,58,60
+Retail,Operations Analyst,90,100,110
+Retail,Senior Operations Manager,96,108,120
+Retail,Operations Director,100,120,144
+Retail,Procurement Executive,42,47,48
+Retail,Procurement Specialist,42,49,54
+Retail,Assistant Procurement Manager,54,61,66
+Retail,Procurement Manager,56,71,84
+Retail,Head of Procurement,280,320,360
+Retail,Sourcing Manager,60,72,84
+Retail,Supply / Demand Planner,45,50,54
+Retail,Supply / Demand Planning Manager,72,79,84
+Retail,Supply Chain Manager,48,68,84
+Retail,Supply Chain Analyst,78,85,90
+Retail,Head of Supply Chain,114,129,141
+Retail,Supplier Relationship Manager,80,90,100
+Retail,Inventory Controller,60,70,72
+Retail,Assistant Merchandiser,40,45,50
+Retail,Merchandiser,45,50,55
+Retail,Senior Merchandiser,48,58,85
+Retail,Head of Merchandising,144,151,156
+Retail,Visual Merchandiser,30,48,99
+Retail,Store Supervisor,30,48,60
+Retail,Store Manager,48,66,96
+Retail,Assistant Retail Manager,50,60,85
+Retail,Retail Operations Manager,60,70,72
+Retail,Retail Manager,96,121,144
+Retail,Operations Director,120,150,240
+Retail,Country Retail Planner,72,82,84
+Retail,Account Manager,52,127,150
+Retail,Senior Key Account Executive,72,80,90
+Retail,Key Account Manager,78,88,96
+Retail,Senior Key Account Manager,72,120,165
+Retail,Business Development Executive,36,53,61
+Retail,Business Development Manager,60,105,144
+Retail,Senior Business Development Manager,72,100,165
+Retail,Business Development Director,120,137,270
+Retail,Business Manager,80,132,160
+Retail,Franchise Manager,90,95,96
+Retail,Franchise Director,100,150,200
+Retail,Category Manager,75,103,126
+Retail,Senior Category Manager,120,127,132
+Retail,Assistant Product Manager,72,85,95
+Retail,Product Manager,78,106,120
+Retail,Senior Product Manager,96,120,150
+Retail,Sales Advisor,24,36,42
+Retail,Senior Sales Advisor,30,40,42
+Retail,Sales Associate,30,42,60
+Retail,Assistant Sales Manager,45,63,71
+Retail,Sales Manager,72,130,200
+Retail,Senior Sales Manager,85,95,120
+Retail,Head of Sales,90,150,214
+Retail,Sales Director,96,141,248
+Retail,General Manager Sales,90,130,170
+Retail,Sales Operations Manager,100,105,110
+Retail,Sales and Marketing Manager,108,128,144
+Retail,Senior Sales and Marketing Manager,120,130,140
+Retail,Sales and Operations Executive,65,70,75
+Retail,Commercial Manager,120,135,144
+Retail,Head of Commercial,126,130,200
+Retail,Area Sales Manager,54,97,120
+Retail,Wholesale Manager,66,76,78
+Retail,Export Sales Manager,84,104,120
+Retail,Channel Sales Manager,84,100,130
+Retail,Office Administrator,54,66,72
+Retail,IT Lead,120,135,150
+Retail,IT Director,150,195,240
+Retail,IT Business Partner,100,125,150
+Retail,Project Manager,60,84,108
+Retail,Solution Architect,120,130,150
+Retail,Infrastructure Architect,120,150,180
+Retail,Business Intelligence (BI) Analyst,55,66,78
+Retail,Business Intelligence (BI) Developer,70,80,90
+Retail,Business Intelligence (BI) Lead,100,110,120
+Retail,IT Helpdesk / Support / Executive,36,48,60
+Retail,IT Analyst / Application Support,36,54,72
+Retail,System Engineer,48,60,72
+Retail,Network Engineer,48,60,72
+Retail,Senior IT Support / Executive,54,63,72
+Retail,IT Manager,60,90,108
+Services,Chief Technology Officer,120,160,200
+Services,Chief Operating Officer,200,225,250
+Services,Chief Financial Officer,250,325,380
+Services,Chief Executive Officer,300,340,400
+Services,Guest Service Officer,36,46,54
+Services,Sales Support Executive,42,54,68
+Services,Sales Support and Customer Service Executive,42,55,68
+Services,Customer Service Specialist,52,62,70
+Services,Assistant Customer Service Manager,60,78,90
+Services,Senior Customer Support Manager,100,132,186
+Services,Finance / Business Analyst,48,66,96
+Services,Senior Finance / Business Analyst,66,85,100
+Services,Financial Planning & Analysis (FP&A) Manager,95,115,130
+Services,Financial Planning & Analysis (FP&A) Director,150,200,230
+Services,Business Controller,104,156,210
+Services,Pricing Manager,90,100,130
+Services,Internal Auditor,54,60,75
+Services,Senior Internal Auditor,72,85,100
+Services,Internal Audit Manager,91,110,130
+Services,Internal Audit Director,168,195,234
+Services,Risk Governance and Compliance Manager,91,110,156
+Services,Enterprise Risk Management Manager,91,110,169
+Services,Head of Risk Governance and Compliance,182,195,260
+Services,Internal Control Manager,84,110,120
+Services,Accounts Administrator,30,33,36
+Services,Accounts Executive,36,46,48
+Services,"Accountant, Accounts Payable / Receivable",42,56,72
+Services,"Manager, Accounts Payable / Receivable",84,91,120
+Services,Credit Control Executive,36,46,60
+Services,Credit Control Manager,80,110,135
+Services,Payroll Executive,36,48,60
+Services,Payroll Manager,84,100,140
+Services,Revenue Accountant,60,105,108
+Services,Revenue Manager,91,102,130
+Services,Accountant,48,58,74
+Services,Senior Accountant,66,74,84
+Services,Finance Manager,85,100,120
+Services,Senior Finance Manager,110,125,144
+Services,Finance Controller,120,156,180
+Services,Finance Director,170,200,250
+Services,"Head of Finance Operations /
+Head of Shared Services",169,240,260
+Services,Chief Financial Officer,250,325,400
+Services,Tax Analyst,48,70,85
+Services,Senior Tax Analyst / Assistant Tax Manager,70,85,100
+Services,Tax Manager,80,120,180
+Services,Indirect Tax Manager,80,120,156
+Services,Transfer Pricing Manager,90,120,156
+Services,Head of Tax / Tax Director,180,210,250
+Services,Treasury Analyst,48,60,72
+Services,Senior Treasury Analyst,60,76,91
+Services,Treasury Manager,91,120,156
+Services,Head of Treasury / Treasury Director,182,195,260
+Services,Systems Finance Manager,90,120,156
+Services,Change Management Leader,90,156,195
+Services,Finance Transformation Manager,130,180,230
+Services,Mergers & Acquisitions (M&A) Analyst,72,80,110
+Services,Mergers & Acquisitions (M&A) Manager,104,130,156
+Services,Mergers & Acquisitions (M&A) Director,182,220,260
+Services,Senior HRIS Executive,54,64,66
+Services,HRIS Analyst,60,70,72
+Services,Senior HRIS Analyst,72,81,90
+Services,C&B Executive,72,78,84
+Services,C&B Manager,84,120,150
+Services,Senior C&B Manager,150,165,180
+Services,Head of C&B,200,250,350
+Services,Junior HRBP,48,58,68
+Services,Senior HRBP,70,80,90
+Services,HRBP Manager,94,120,144
+Services,Senior HR Coordinator,30,36,42
+Services,HR Administrator,30,36,42
+Services,HR Executive,36,45,54
+Services,Senior HR Executive,54,60,70
+Services,HR Specialist,55,70,85
+Services,HR Manager,72,75,80
+Services,Senior HR Manager,90,120,150
+Services,HR Director,156,250,325
+Services,Senior Learning and Development Executive,48,54,60
+Services,Learning and Development Manager,72,78,85
+Services,Talent Development Specialist,64,74,84
+Services,Talent Development Trainer,72,84,96
+Services,Talent Development Manager,120,144,168
+Services,Recruitment Coordinator,36,45,54
+Services,Talent Acquisition Specialist,54,65,78
+Services,Talent Acquisition Manager,80,96,120
+Services,Head of Talent Acquisition,120,150,180
+Services,Talent Program Manager,60,72,80
+Services,Compliance Manager,103,130,150
+Services,Senior Compliance Manager,150,175,200
+Services,Contract Manager,60,80,100
+Services,Contract and Supplier Management Manager,84,104,120
+Services,Paralegal,40,69,84
+Services,Legal Executive,72,77,78
+Services,Legal Counsel,90,145,200
+Services,Senior Legal Counsel,150,195,240
+Services,Associate,60,95,130
+Services,Senior Associate,100,175,250
+Services,Partner,190,345,500
+Services,Legal Secretary,42,58,78
+Services,Legal Assistant,52,55,58
+Services,Senior Legal Secretary,60,63,66
+Services,Assistant Corporate Secretary Manager,84,94,104
+Services,Corporate Secretary Manager,120,145,170
+Services,CRM Analyst,36,52,65
+Services,CRM Specialist,54,55,57
+Services,CRM Campaign Data Analyst,60,70,72
+Services,Senior CRM Analyst,65,68,70
+Services,Senior CRM Data Analyst,72,78,84
+Services,CRM Insights Analyst,75,82,90
+Services,CRM Manager,84,104,120
+Services,Graphic Designer,60,75,84
+Services,Senior Digital Executive,42,52,54
+Services,Digital Manager,72,82,90
+Services,Digital Marketing Executive,33,35,38
+Services,Senior Digital Marketing Executive,37,53,60
+Services,Digital Marketing Manager,60,96,132
+Services,Senior Digital Marketing Manager,84,126,156
+Services,Director Digital Marketing,108,144,180
+Services,Seach Engine Marketing (SEM) Specialist,42,45,48
+Services,"Senior Search Engine Optimisation (SEO)
+Executive",48,58,60
+Services,Digital Marketing Website Project Assistant,48,58,60
+Services,Digital Analyst,48,65,78
+Services,Media Planning Lead,80,90,100
+Services,Digital Content Director,100,132,150
+Services,"User Experience / User Interface (UX / UI)
+Manager",96,108,120
+Services,E-commerce Director,196,216,265
+Services,Growth Marketing Manager,84,96,125
+Services,Events Coordinator,55,60,65
+Services,Events Manager,65,77,85
+Services,Events Director,120,137,160
+Services,Senior Events Director,150,165,200
+Services,Conference Manager,65,75,90
+Services,Senior Conference and Events Manager,75,85,95
+Services,Conference Producer,42,59,75
+Services,Senior Conference Producer,70,82,90
+Services,Content Manager,36,63,84
+Services,Copywriting Manager,54,69,78
+Services,Public Relations (PR) Manager,72,88,96
+Services,Corporate Communications Manager,96,114,144
+Services,Marketing and Communications Manager,96,120,144
+Services,Marketing Executive,32,42,48
+Services,Marketing Specialist,48,58,60
+Services,Assistant Marketing Manager,60,70,72
+Services,Marketing Manager,55,80,90
+Services,Senior Marketing Manager,84,104,120
+Services,Marketing Director,132,144,180
+Services,Marketing Operations Analyst,54,57,60
+Services,Marketing and Partnerships Manager,108,128,144
+Services,Senior Product Marketing Executive,48,51,54
+Services,Product Marketing Manager,60,70,72
+Services,Market Research Associate,48,60,65
+Services,User Experience (UX) Researcher,48,63,72
+Services,Research Manager,54,64,75
+Services,Senior Research Coordinator,55,67,75
+Services,Research Associate,72,87,96
+Services,Content and Market Research Analyst,42,64,78
+Services,Marketing Insights and Analytics Manager,84,104,120
+Services,Head of Marketing Insights and Analytics,156,180,225
+Services,Senior Strategy and Analytics Manager,144,176,200
+Services,Vice President Strategy and Analytics,225,250,330
+Services,Partnerships Manager,72,82,84
+Services,Head of Partnerships,84,99,108
+Services,Procurement Executive,50,57,65
+Services,Procurement Manager,72,93,130
+Services,Indirect Procurement Manager,84,101,120
+Services,Head of Procurement,120,152,180
+Services,Procurement Director,150,195,220
+Services,"Account and Business Development
+Executive",60,70,72
+Services,Account Executive,65,70,75
+Services,Account Manager,80,100,132
+Services,Key Account Manager,60,71,132
+Services,Senior Key Account Manager,72,89,144
+Services,Business Acceleration Manager,60,70,72
+Services,"Business Development and Marketing
+Executive",55,72,85
+Services,Business Development Associate,48,65,78
+Services,Business Development Executive,36,50,70
+Services,Business Development Manager,55,75,120
+Services,Senior Business Development Manager,90,120,156
+Services,Business Development Director,96,126,216
+Services,Head of Business Development,120,160,220
+Services,Product Manager,48,66,96
+Services,Head of Product,96,144,200
+Services,Sales Representative,24,39,48
+Services,Sales Consultant,38,52,55
+Services,Sales Coordinator,50,60,75
+Services,Sales Engineer,55,60,65
+Services,Sales Executive,48,60,85
+Services,Sales Operations Manager,72,82,84
+Services,Sales Manager,52,66,144
+Services,Senior Sales Manager,96,104,150
+Services,Area Sales Manager,110,122,140
+Services,Country Sales Manager,96,120,180
+Services,Sales Director,97,125,180
+Services,General Manager Sales,144,166,196
+Services,Head of Sales,96,156,225
+Services,Telesales Officer,42,45,48
+Services,Customer Experience Manager,48,52,66
+Services,Customer Success Manager,65,80,108
+Services,Junior Administration Assistant,30,36,57
+Services,Administration Assistant,45,54,60
+Services,Administration and Marketing Assistant,45,54,66
+Services,Administrator,45,60,72
+Services,Executive Assistant,58,90,144
+Services,Office Administrator,42,54,66
+Services,Assistant Office Manager,60,96,100
+Services,Office Manager,66,84,160
+Services,Senior Office Manager,78,120,160
+Services,Personal Assistant,60,90,114
+Services,Program Coordinator,57,66,74
+Services,Project Coordinator,60,66,74
+Services,Receptionist,45,57,60
+Services,Sales Support,54,57,60
+Services,Junior Secretary,57,66,78
+Services,Secretary,57,78,114
+Services,Service Administration Executive,57,62,72
+Services,Business Intelligence (BI) Analyst,84,97,120
+Services,Head of Business Intelligence (BI) Analytics,120,150,180
+Services,Data Analyst,55,107,120
+Services,Data Scientist,90,135,180
+Services,Head of Enterprise Architecture,180,200,216
+Services,Vice President IT Strategy and Architecture,150,195,240
+Services,IT Manager,70,110,150
+Services,IT Business Partner,180,190,200
+Services,Head of IT,180,240,300
+Services,IT Project Manager,78,114,150
+Services,Infrastructure Engineer,60,78,96
+Services,Infrastructure Manager,72,111,150
+Services,Cloud Engineer,50,62,75
+Services,Network Analyst / Engineer,60,90,120
+Services,IT Security Specialist,80,90,100
+Services,IT Security Manager,85,102,120
+Services,Head of IT Security,120,180,240
+Services,IT Officer,36,50,65
+Services,IT Specialist,65,75,84
+Services,System Administrator,50,62,80
+Services,Senior System Administrator,60,72,80
+Services,System Engineer,60,90,120
+Services,Service Desk Analyst,36,48,60
+Services,Vice President Service Delivery,120,150,180
+Services,Technical Implementation Specialist,84,104,120
+Services,Application Support Specialist,40,56,72
+Services,IT Support Analyst,50,61,72
+Services,Desktop Support Analyst,54,63,72
+Services,Senior Software Engineer,60,75,84
+Services,Software Developer Lead,90,120,150
+Services,Application Manager,90,116,144
+Services,Solution Architect,90,120,150
+Services,Pre-Sales Consultant,100,145,200
+"Technology, Media and Telecommunications",Chief Information Security Officer,180,240,300
+"Technology, Media and Telecommunications",Chief Technology Officer,260,280,300
+"Technology, Media and Telecommunications",Chief Product Officer,200,275,350
+"Technology, Media and Telecommunications",Chief Information Officer,240,300,360
+"Technology, Media and Telecommunications",Chief Financial Officer,250,325,400
+"Technology, Media and Telecommunications",Chief Executive Officer,200,500,800
+"Technology, Media and Telecommunications",Finance / Business Analyst,48,66,96
+"Technology, Media and Telecommunications",Senior Finance / Business Analyst,66,85,100
+"Technology, Media and Telecommunications",Financial Planning & Analysis (FP&A) Manager,95,115,130
+"Technology, Media and Telecommunications",Financial Planning & Analysis (FP&A) Director,150,200,230
+"Technology, Media and Telecommunications",Business Controller,104,156,210
+"Technology, Media and Telecommunications",Pricing Manager,90,100,130
+"Technology, Media and Telecommunications",Internal Auditor,54,60,75
+"Technology, Media and Telecommunications",Senior Internal Auditor,72,85,100
+"Technology, Media and Telecommunications",Internal Audit Manager,91,110,130
+"Technology, Media and Telecommunications",Internal Audit Director,168,195,234
+"Technology, Media and Telecommunications",Risk Governance and Compliance Manager,91,110,156
+"Technology, Media and Telecommunications",Enterprise Risk Management Manager,91,110,169
+"Technology, Media and Telecommunications",Head of Risk Governance and Compliance,182,195,260
+"Technology, Media and Telecommunications",Internal Control Manager,84,110,120
+"Technology, Media and Telecommunications",Accounts Administrator,30,33,36
+"Technology, Media and Telecommunications",Accounts Executive,36,46,48
+"Technology, Media and Telecommunications","Accountant, Accounts Payable / Receivable",42,56,72
+"Technology, Media and Telecommunications","Manager, Accounts Payable / Receivable",84,91,120
+"Technology, Media and Telecommunications",Credit Control Executive,36,46,60
+"Technology, Media and Telecommunications",Credit Control Manager,80,110,135
+"Technology, Media and Telecommunications",Payroll Executive,36,48,60
+"Technology, Media and Telecommunications",Payroll Manager,84,100,140
+"Technology, Media and Telecommunications",Cost Accountant,48,64,84
+"Technology, Media and Telecommunications",Costing Manager,91,117,130
+"Technology, Media and Telecommunications",Cost Controller,78,104,156
+"Technology, Media and Telecommunications",Revenue Accountant,60,105,108
+"Technology, Media and Telecommunications",Revenue Manager,91,102,130
+"Technology, Media and Telecommunications",Accountant,48,58,74
+"Technology, Media and Telecommunications",Senior Accountant,66,74,84
+"Technology, Media and Telecommunications",Finance Manager,85,100,120
+"Technology, Media and Telecommunications",Senior Finance Manager,110,125,144
+"Technology, Media and Telecommunications",Finance Controller,120,156,180
+"Technology, Media and Telecommunications",Finance Director,170,200,250
+"Technology, Media and Telecommunications","Head of Finance Operations /
+Head of Shared Services",169,240,260
+"Technology, Media and Telecommunications",Chief Financial Officer,250,325,400
+"Technology, Media and Telecommunications",Tax Analyst,48,70,85
+"Technology, Media and Telecommunications",Senior Tax Analyst / Assistant Tax Manager,70,85,100
+"Technology, Media and Telecommunications",Tax Manager,90,120,180
+"Technology, Media and Telecommunications",Indirect Tax Manager,80,120,156
+"Technology, Media and Telecommunications",Transfer Pricing Manager,90,120,156
+"Technology, Media and Telecommunications",Head of Tax / Tax Director,180,210,250
+"Technology, Media and Telecommunications",Treasury Analyst,48,60,72
+"Technology, Media and Telecommunications",Senior Treasury Analyst,60,76,91
+"Technology, Media and Telecommunications",Treasury Manager,91,120,156
+"Technology, Media and Telecommunications",Head of Treasury / Treasury Director,182,195,260
+"Technology, Media and Telecommunications",Systems Finance Manager,90,120,156
+"Technology, Media and Telecommunications",Change Management Leader,90,156,195
+"Technology, Media and Telecommunications",Finance Transformation Manager,130,180,230
+"Technology, Media and Telecommunications",Mergers & Acquisitions (M&A) Analyst,72,80,110
+"Technology, Media and Telecommunications",Mergers & Acquisitions (M&A) Manager,104,130,156
+"Technology, Media and Telecommunications",Mergers & Acquisitions (M&A) Director,182,220,260
+"Technology, Media and Telecommunications",C&B Manager,100,125,150
+"Technology, Media and Telecommunications",HRBP,60,77,99
+"Technology, Media and Telecommunications",HRBP Manager,72,79,144
+"Technology, Media and Telecommunications",Associate Director HRBP,120,132,144
+"Technology, Media and Telecommunications",Director HRBP,180,210,240
+"Technology, Media and Telecommunications",Senior HR Executive,42,52,54
+"Technology, Media and Telecommunications",HR Manager,84,99,105
+"Technology, Media and Telecommunications",Senior HR Manager,110,140,180
+"Technology, Media and Telecommunications",Head of HR,130,132,135
+"Technology, Media and Telecommunications",Talent Acquisition Lead,50,67,96
+"Technology, Media and Telecommunications",Talent Acquisition Specialist,80,127,155
+"Technology, Media and Telecommunications",Talent Acquisition Manager,150,160,170
+"Technology, Media and Telecommunications",Head of Talent Acquisition,200,210,220
+"Technology, Media and Telecommunications",Talent Development Specialist,120,140,150
+"Technology, Media and Telecommunications",Talent Capabilities Director,120,150,160
+"Technology, Media and Telecommunications",Contracts Specialist,72,84,96
+"Technology, Media and Telecommunications",Contracts Manager,89,100,120
+"Technology, Media and Telecommunications",Legal Executive,36,39,42
+"Technology, Media and Telecommunications",Legal Counsel,85,108,130
+"Technology, Media and Telecommunications",Senior Legal Counsel,160,180,200
+"Technology, Media and Telecommunications",Associate General Counsel,200,230,260
+"Technology, Media and Telecommunications",Data Privacy Counsel,180,215,250
+"Technology, Media and Telecommunications",General Counsel,240,285,330
+"Technology, Media and Telecommunications",Brand Strategist,60,77,120
+"Technology, Media and Telecommunications",Brand Manager,96,138,180
+"Technology, Media and Telecommunications",Brand Director,150,175,200
+"Technology, Media and Telecommunications",CRM Director,160,180,200
+"Technology, Media and Telecommunications",Digital Marketing Manager,72,127,144
+"Technology, Media and Telecommunications",Associate Director Digital Marketing,108,108,113
+"Technology, Media and Telecommunications",Digital Creative Designer,36,51,84
+"Technology, Media and Telecommunications","Digital Experience and Operations
+Specialist",72,82,84
+"Technology, Media and Telecommunications",Social Media Manager,60,70,72
+"Technology, Media and Telecommunications",Marketing and Communications Manager,90,105,115
+"Technology, Media and Telecommunications",Head of Marketing and Communications,160,195,300
+"Technology, Media and Telecommunications",Content Acquisition Manager,72,82,84
+"Technology, Media and Telecommunications",Marketing Executive,36,50,65
+"Technology, Media and Telecommunications",Marketing Specialist,48,63,72
+"Technology, Media and Telecommunications",Assistant Marketing Manager,55,65,70
+"Technology, Media and Telecommunications",Marketing Manager,75,90,100
+"Technology, Media and Telecommunications",Head of Marketing,100,150,220
+"Technology, Media and Telecommunications",Marketing Director,220,250,270
+"Technology, Media and Telecommunications",Head of Channel Marketing,120,135,150
+"Technology, Media and Telecommunications",Product Marketing Manager,90,105,200
+"Technology, Media and Telecommunications",Partnerships Specialist,48,58,60
+"Technology, Media and Telecommunications",Partnerships Manager,60,77,90
+"Technology, Media and Telecommunications",Partnerships Director,120,150,180
+"Technology, Media and Telecommunications",Strategic Partnership Director,150,177,204
+"Technology, Media and Telecommunications",Innovation and Partnerships Manager,60,77,86
+"Technology, Media and Telecommunications",Growth Marketing Manager,84,104,120
+"Technology, Media and Telecommunications",Vice President Engagement Intelligence,108,128,144
+"Technology, Media and Telecommunications",Director Strategy and Analytics,144,167,200
+"Technology, Media and Telecommunications",Head of Marketing Insights and Analytics,140,200,300
+"Technology, Media and Telecommunications",Operations Analyst,50,55,0
+"Technology, Media and Telecommunications",Operations Manager,100,110,120
+"Technology, Media and Telecommunications",Operations Director,240,270,300
+"Technology, Media and Telecommunications",Account Executive,48,50,54
+"Technology, Media and Telecommunications",Account Manager,57,60,75
+"Technology, Media and Telecommunications",Senior Account Manager,60,81,144
+"Technology, Media and Telecommunications",Business Development Associate,36,39,42
+"Technology, Media and Telecommunications",Business Development Manager,60,120,180
+"Technology, Media and Telecommunications",Business Development Director,160,186,220
+"Technology, Media and Telecommunications",Product Manager,75,80,90
+"Technology, Media and Telecommunications",Senior Product Manager,114,129,156
+"Technology, Media and Telecommunications",Head of Product,130,151,195
+"Technology, Media and Telecommunications",Sales Order Processing Administrator,37,40,43
+"Technology, Media and Telecommunications",Sales Order Processing Executive,45,50,55
+"Technology, Media and Telecommunications",Sales Support Specialist,55,65,70
+"Technology, Media and Telecommunications",Sales Executive,34,38,42
+"Technology, Media and Telecommunications",Sales Representative,38,50,65
+"Technology, Media and Telecommunications",Sales Manager,72,93,120
+"Technology, Media and Telecommunications",Senior Sales Manager,100,140,156
+"Technology, Media and Telecommunications",Associate Sales Director,120,180,230
+"Technology, Media and Telecommunications",Head of Sales,150,200,250
+"Technology, Media and Telecommunications",Administrative Assistant,38,58,66
+"Technology, Media and Telecommunications",Executive Assistant,57,90,156
+"Technology, Media and Telecommunications",Office Manager,90,132,156
+"Technology, Media and Telecommunications",Digital Transformation Manager,96,108,120
+"Technology, Media and Telecommunications",Head of Digital Transformation,144,162,180
+"Technology, Media and Telecommunications",Director Digital Transformation,180,192,204
+"Technology, Media and Telecommunications",Product Engineer,60,72,84
+"Technology, Media and Telecommunications",Product Manager,84,102,120
+"Technology, Media and Telecommunications",Product Architect,96,114,132
+"Technology, Media and Telecommunications",Product Director,144,162,180
+"Technology, Media and Telecommunications",Solution Consultant,96,108,120
+"Technology, Media and Telecommunications",Solution Architect,108,144,180
+"Technology, Media and Telecommunications",Pre-Sales Engineer,84,90,96
+"Technology, Media and Telecommunications",Pre-Sales Manager,132,156,180
+"Technology, Media and Telecommunications",Project Manager,78,114,150
+"Technology, Media and Telecommunications",Senior Project Manager,120,150,180
+"Technology, Media and Telecommunications",Business Analyst,54,66,78
+"Technology, Media and Telecommunications",Senior Business Analyst,120,150,180
+"Technology, Media and Telecommunications",Data Engineer,54,87,120
+"Technology, Media and Telecommunications",Data Analyst,54,66,78
+"Technology, Media and Telecommunications",Business Intelligence (BI) Analyst,66,93,120
+"Technology, Media and Telecommunications",Lead Business Intelligence (BI) Analyst,108,129,150
+"Technology, Media and Telecommunications",Data Analyst Manager,150,165,180
+"Technology, Media and Telecommunications",Database Administrator,60,90,120
+"Technology, Media and Telecommunications",Database Manager,100,125,150
+"Technology, Media and Telecommunications",Data Architect,96,148,200
+"Technology, Media and Telecommunications",Data Scientist,96,138,180
+"Technology, Media and Telecommunications",Web Developer,36,54,72
+"Technology, Media and Telecommunications",Software Engineer / Developer,54,69,84
+"Technology, Media and Telecommunications",Senior Software Engineer / Developer,72,96,120
+"Technology, Media and Telecommunications",Back End Engineer / Developer,60,72,84
+"Technology, Media and Telecommunications",Senior Back End Engineer / Developer,72,96,120
+"Technology, Media and Telecommunications",Front End Engineer / Developer,60,78,96
+"Technology, Media and Telecommunications",Senior Front End Engineer / Developer,72,96,120
+"Technology, Media and Telecommunications",Full Stack Developer,60,90,120
+"Technology, Media and Telecommunications",Senior Full Stack Developer,120,144,169
+"Technology, Media and Telecommunications","User Experience / User Interface (UX / UI)
+Designer",48,66,84
+"Technology, Media and Telecommunications","User Experience / User Interface (UX / UI)
+Lead Designer",84,102,120
+"Technology, Media and Telecommunications","Head of User Experience / User Interface
+(UX / UI)",96,123,150
+"Technology, Media and Telecommunications",IT Analyst / Application Analyst,36,48,60
+"Technology, Media and Telecommunications",System Analyst,48,66,84
+"Technology, Media and Telecommunications",Senior / Lead System Analyst,66,87,108
+"Technology, Media and Telecommunications","Head of Applications / Software
+Development",84,162,240
+"Technology, Media and Telecommunications",DevOps Engineer,60,75,90
+"Technology, Media and Telecommunications",Senior DevOps Engineer,90,105,120
+"Technology, Media and Telecommunications",DevOps Manager,120,160,180
+"Technology, Media and Telecommunications","Robotic Process Automation (RPA)
+Developer",48,78,108
+"Technology, Media and Telecommunications",Cloud Engineer,60,75,90
+"Technology, Media and Telecommunications",Senior Cloud Engineer,90,105,120
+"Technology, Media and Telecommunications",Cloud Architect,108,154,200
+"Technology, Media and Telecommunications","Security Operations Center (SOC)
+Analyst / Engineer",54,69,84
+"Technology, Media and Telecommunications",IT Security Engineer,66,81,96
+"Technology, Media and Telecommunications",IT Security Manager,90,105,120
+"Technology, Media and Telecommunications",IT Security Architect,120,150,180
+"Technology, Media and Telecommunications",IT Audit Executive,54,63,72
+"Technology, Media and Telecommunications",IT Audit Manager,90,105,120
+"Technology, Media and Telecommunications",Head of IT Audit,150,175,200
+"Technology, Media and Telecommunications",IT Risk and Compliance Analyst,54,63,72
+"Technology, Media and Telecommunications",Head of IT Risk and Compliance,144,162,180
+"Technology, Media and Telecommunications",System Administrator,48,54,60
+"Technology, Media and Telecommunications",System Engineer,60,72,84
+"Technology, Media and Telecommunications",Senior System Engineer,72,81,90
+"Technology, Media and Telecommunications",Network Operations Centre (NOC) Engineer,36,45,54
+"Technology, Media and Telecommunications",Network Engineer,48,54,60
+"Technology, Media and Telecommunications",Senior Network Engineer,60,78,96
+"Technology, Media and Telecommunications",Network Security Engineer,60,90,120
+"Technology, Media and Telecommunications",Network Consultant,72,96,120
+"Technology, Media and Telecommunications",Storage Engineer,60,66,72
+"Technology, Media and Telecommunications",Senior Storage Engineer,72,84,96
+"Technology, Media and Telecommunications",Infrastructure / IT Manager,72,96,120
+"Technology, Media and Telecommunications",Infrastructure Architect,120,150,180
+"Technology, Media and Telecommunications",Head of Infrastructure,144,162,180
+"Technology, Media and Telecommunications",Service Desk Engineer,36,48,60
+"Technology, Media and Telecommunications",Senior Service Desk Engineer,60,72,84
+"Technology, Media and Telecommunications",Service Delivery Manager,72,96,120
+"Technology, Media and Telecommunications",Service Delivery Lead,120,144,169
+"Technology, Media and Telecommunications",Head of Service Delivery,175,189,204
+"Technology, Media and Telecommunications",Field Engineer,36,48,60
+"Technology, Media and Telecommunications",IT Support Engineer / IT Executive,36,48,60
+"Technology, Media and Telecommunications","Senior IT Support Engineer /
+IT Executive",54,63,72
+"Technology, Media and Telecommunications",Desktop Support Engineer,36,48,60
+"Technology, Media and Telecommunications",Senior Desktop Support Engineer,54,57,60
+"Technology, Media and Telecommunications",Desktop Support Team Lead,60,66,72
+"Technology, Media and Telecommunications",Application Support Engineer,36,48,60
+"Technology, Media and Telecommunications",Senior Application Support Engineer,36,48,60
+"Technology, Media and Telecommunications",Application Support Manager,60,78,96
+"Technology, Media and Telecommunications",Data Centre Operator / Technician,30,36,42
+"Technology, Media and Telecommunications",Data Centre Engineer,42,51,60
+"Technology, Media and Telecommunications",Senior Data Centre Engineer,54,69,84
+"Technology, Media and Telecommunications",Data Centre Operation / Facilities Manager,60,78,96
+"Technology, Media and Telecommunications",Head of Data Centre,108,126,144
+"Technology, Media and Telecommunications",Cloud Data Centre Specialist,72,96,120
+"Technology, Media and Telecommunications",Software Validation Engineer,54,66,78
+"Technology, Media and Telecommunications",QA Engineer / Software Tester,42,51,60
+"Technology, Media and Telecommunications",Senior QA Engineer / Software Tester,60,78,96
+"Technology, Media and Telecommunications",Software Testing Lead,84,102,120
+"Technology, Media and Telecommunications",Head of Software Testing,108,126,144
+"Technology, Media and Telecommunications",ERP Administrator,42,63,84
+"Technology, Media and Telecommunications",ERP Consultant,84,132,180
+"Technology, Media and Telecommunications",ERP Manager,144,156,168
+"Technology, Media and Telecommunications",Head of ERP,180,198,216
