@@ -122,6 +122,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Web scraping, Tableau-generated latitude/longitude based on zipcode, Manual    
 **Source**: [School Information Service - MOE](http://sis.moe.gov.sg/SchoolDirectory.aspx), [Salary.sg](https://www.salary.sg/2017/secondary-school-ranking-based-on-cut-off-for-2017-intake/)  
 
+**Dataset**: seedly_sal.csv  
+**Description**: Annual base salaries ($'000) for different roles in various industries in Singapore (as at Jan 2020)    
+**Variables**: `Industry`, `Role`, `Minimum`, `Median`, `Maximum`  
+**Mode of data collection**: Web scraping     
+**Source**: ["The Ultimate Salary Guide For Singaporeans" on Seedly](https://blog.seedly.sg/salary-guide-singapore/)  
+
 **Dataset**: tfresults02.csv  
 **Description**: Results of 100m and 200m national track-and-field finals for "A" division boys and girls between 2002 and 2016    
 **Variables**: `Year`, `Event`, `Division`, `Gender`, `School`, `Name`, `Position`, `Timing (in s)`  
