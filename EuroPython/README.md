@@ -5,7 +5,7 @@ This folder contains materials I have used for my talk on ["Top 15 Python Tips f
 
 The recording of the 25-min talk is available on YouTube: 
 
-[![Watch the video](youtube_preview.png)](https://youtu.be/-Vlqwtbg1wg)
+[![Watch the video](europy_youtube.png)](https://youtu.be/-Vlqwtbg1wg)
 
 
 https://youtu.be/-Vlqwtbg1wg
