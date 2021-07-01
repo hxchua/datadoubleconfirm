@@ -162,11 +162,11 @@ List of notebooks along with descriptions
 **Notebook**: bookdepository.ipynb  
 **Description**: Python code for scraping bookdepository.com bestsellers information  
 
-**Notebook**: emojis.ipynb  
-**Description**: Python code for scraping [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) information   
+**Notebook**: covid_public_places_2021.ipynb  
+**Description**: Python code for webscraping, cleaning, processing and updating of the [Public Places Visited by Singapore Covid-19 Cases dataset](https://data.world/hxchua/public-places-visited-in-singapore-by-covid-19-cases) using BeautifulSoup, pdfplumber and Google Sheets API. It updates the dataset by comparing the previous day's PDF with the current day's published by [Ministry of Health Singapore](https://www.moh.gov.sg/covid-19), and adding the newly added places to the existing dataset.  
 
-**Notebook**: imdb.ipynb  
-**Description**: Python code for scraping imdb.com most popular movies information  
+**Notebook**: covid_sg_stats.ipynb  
+**Description**: Python code for webscraping, cleaning, processing and updating of the [COVID-19 Singapore dataset](https://data.world/hxchua/covid-19-singapore) using BeautifulSoup, pdfplumber and Google Sheets API based on data published by [Ministry of Health Singapore](https://www.moh.gov.sg/covid-19).    
 
 **Notebook**: covid_spread.ipynb  
 **Description**: Python code for understanding the pace of increase in number of COVID-19 cases for each country using [data](https://github.com/CSSEGISandData/COVID-19) provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)     
@@ -186,8 +186,14 @@ List of notebooks along with descriptions
 **Notebook**: engineeringjobs.ipynb  
 **Description**: Python code for scraping information relating to engineering job openings in Singapore on a government portal as at 31 Jul 2020 using selenium and BeautifulSoup 
 
+**Notebook**: emojis.ipynb  
+**Description**: Python code for scraping [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) information   
+
 **Notebook**: Gov.sg Translations.ipynb  
 **Description**: Python code for scraping Official English-Mandarin translations of Singapore Government Terms from [Government Terms Translated](https://www.gov.sg/resources/translation)      
+
+**Notebook**: imdb.ipynb  
+**Description**: Python code for scraping imdb.com most popular movies information  
 
 **Notebook**: Json.ipynb  
 **Description**: Python code for working with Json    
