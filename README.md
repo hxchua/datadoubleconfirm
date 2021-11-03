@@ -210,6 +210,9 @@ List of notebooks along with descriptions
 **Notebook**: Monte_Carlo_COVID.ipynb    
 **Description**: Python code for Monte Carlo simulations on number of COVID-19 cases in Singapore using 20 days of [historical data](https://github.com/hxchua/datadoubleconfirm/blob/master/datasets/covid19_sg.csv)         
 
+**Notebook**: OneMapSG_XY_LatLon.ipynb    
+**Description**: Python code for converting from OneMap Singapore's [X Y coordinates](https://www.onemap.gov.sg/docs/#3414-svy21-to-3857) in 3414(SVY21) format to latitude and longitude in 4326(WGS84) format      
+
 **Notebook**: pytesseract_onlineimage.ipynb      
 **Description**: Python code for extracting text data from an image hosted online          
 
