@@ -77,8 +77,13 @@ List of datasets along with descriptions
 **Descriptions**: Official English-Mandarin translations of Singapore Government Terms.  
 **Variables**: `english`, `mandarin`  
 **Mode of data collection**: Webscraping  
-**Source**: [Government Terms Translated](https://www.gov.sg/resources/translation) 
+**Source**: [Government Terms Translated](https://www.gov.sg/resources/translation)  
 
+**Dataset**: hawker_stacked.csv  
+**Descriptions**: Nutritional contents of Singapore hawker foods  
+**Variables**: `kcal`,	`protein(g)`, `fat(g)`,	`saturatedfat(g)`,	`dietaryfibre(g)`,	`carbs(g)`,	`cholesterol(mg)`,	`sodium(mg)`,	`food`,	`comments`,	`image_link`,	`type`  
+**Mode of data collection**: Webscraping  
+**Source**: [Best and Worst Singapore Hawker Chinese Food: Dim Sum, Char Kway Teow and More](https://www.healthxchange.sg/food-nutrition/food-tips/best-worst-singapore-hawker-chinese-food-dim-sum-char-kway-teow),[Best and Worst Singapore Hawker Malay Breakfast Foods: Nasi Lemak, Mee Siam, Soto and More](https://www.healthxchange.sg/food-nutrition/food-tips/best-worst-singapore-hawker-malay-breakfast-foods-nasi-lemak-mee-siam-soto), [Best and Worst Singapore Hawker Indian Breads: Prata, Mutton Murtabak and More](https://www.healthxchange.sg/food-nutrition/food-tips/best-worst-singapore-hawker-indian-breads-prata-mutton-murtabak) 
 
 **Dataset**: mrtfaretime.csv  
 **Description**: Travel time and fare information between train (MRT/LRT) stations in Singapore (as at Oct 2018)  
