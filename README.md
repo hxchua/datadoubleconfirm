@@ -245,6 +245,9 @@ List of notebooks along with descriptions
 **Notebook**: unesco.ipynb  
 **Description**: Python code for scraping UNESCO World Heritage countries and sites from [UNESCO World Heritage Centre - World Heritage List](https://whc.unesco.org/en/list/)      
 
+**Notebook**: weathersg.ipynb  
+**Description**: Python code for scraping rainfall and temperatures data from [Meteorological Service Singapore’s website](http://www.weather.gov.sg/climate-historical-daily/) for five randomly selected locations in different parts of Singapore, namely Ang Mo Kio, Changi, Clementi, Jurong West, and Newton.  
+
 **Notebook**: WiDS.ipynb  
 **Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon  
 
