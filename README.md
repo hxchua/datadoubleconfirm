@@ -242,6 +242,9 @@ List of notebooks along with descriptions
 **Notebook**: StatutoryBoardSG.ipynb  
 **Description**: Python code for scraping addresses/ contact information of statutory boards in Singapore from [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards) and automating download of organisation logo images  
 
+**Notebook**: table.ipynb  
+**Description**: Python code for scraping table data from a website. Here we scrape price and description information of vaccinations offered by Minmed in Singapore from [Minmed](https://minmed.sg/vaccinations/)  
+
 **Notebook**: Text Frequency Analysis.ipynb  
 **Description**: R code for getting frequency distribution of words in a chunk of text  
 
@@ -252,7 +255,7 @@ List of notebooks along with descriptions
 **Description**: Python code for scraping UNESCO World Heritage countries and sites from [UNESCO World Heritage Centre - World Heritage List](https://whc.unesco.org/en/list/)      
 
 **Notebook**: weathersg.ipynb  
-**Description**: Python code for scraping rainfall and temperatures data from [Meteorological Service Singapore’s website](http://www.weather.gov.sg/climate-historical-daily/) for five randomly selected locations in different parts of Singapore, namely Ang Mo Kio, Changi, Clementi, Jurong West, and Newton.  
+**Description**: Python code for scraping rainfall and temperatures data from [Meteorological Service Singapore’s website](http://www.weather.gov.sg/climate-historical-daily/) for five randomly selected locations in different parts of Singapore, namely Ang Mo Kio, Changi, Clementi, Jurong West, and Newton    
 
 **Notebook**: WiDS.ipynb  
 **Description**: R code for predicting gender of survey respondents as part of the WiDS 2018 Datathlon  
