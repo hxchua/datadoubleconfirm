@@ -151,6 +151,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Webscraping  
 **Source**: [Public University Honors](https://publicuniversityhonors.com/2016/09/18/average-u-s-news-rankings-for-126-universities-2010-1017/)  
 
+**Dataset**: vaccinations_sg_minmed.csv  
+**Description**: Price and description of vaccinations offered by Minmed in Singapore. Price is applicable for one dose only and includes consultation charge.       
+**Variables**: `vaccinations`, `public_rate`, `chas_green`, `merdeka_generation_chas_blue_orange`, `pioneer_generation`, `description`    
+**Mode of data collection**: Webscraping       
+**Source**: [Minmed](https://minmed.sg/vaccinations/)   
+
 **Dataset**: wastestats.csv  
 **Description**: 15 years of data from 2003 to 2017 on waste management and recycling statistics (Waste type is inconsistently named across years. eg. C&D should refer to construction debris, and some categories are capitalized in some years but not others)      
 **Variables**: `waste_type`, `waste_disposed_of_tonne`, `total_waste_recycled_tonne`, `total_waste_general_tonne`, `recycling_rate`, `year`    
