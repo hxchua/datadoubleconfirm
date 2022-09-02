@@ -49,6 +49,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual/ Web scraping   
 **Source**: [Ministry of Health](https://www.moh.gov.sg/covid-19)  
 
+**Dataset**: datagovscraped_stacked.csv  
+**Description**: List of datasets available on data.gov.sg as at 2 Sep 2022          
+**Variables**: `title`,	`link`, `org`, `description`, `last_updated`, `created`,	`format`, `coverage`, `licence`    
+**Mode of data collection**: Web scraping   
+**Source**: [Data.gov.sg](https://data.gov.sg/)  
+
 **Dataset**: DisneySongs25.csv  
 **Description**: Top 25 Disney Songs (as at 4 Apr 2016)  
 **Variables**: `Rank` , `Song Title`, `Movie`, `Year`, `Lyrics`        
