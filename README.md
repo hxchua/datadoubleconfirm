@@ -99,9 +99,15 @@ List of datasets along with descriptions
 
 **Dataset**: mrtsg.csv  
 **Description**: Latitude and longitude of train (MRT/LRT) stations in Singapore (as at Dec 2020)  
-**Variables**: `OBJECTID` (id) , `STN_NAME` (station name), `STN_NO` (station number), `X` (X coord in SVY21 format), `Y` (Y coord in SVY21 format), `Latitude`, `Longitude`, `COLOR` (color of train line)    
+**Variables**: `OBJECTID` (id) , `STN_NAME` (station name), `STN_NO` (station number), `X` (X coord in SVY21 format), `Y` (Y coord in SVY21 format), `Latitude`, `Longitude`, `COLOR` (color of train line)  
 **Mode of data collection**: Public dataset, Coordinate conversion web scraping  
 **Source**: [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html), [OneMap Singapore](https://docs.onemap.sg/#3414-svy21-to-3857)  
+
+**Dataset**: mydramalisttop.csv  
+**Description**: Top rated movies from MyDramaList (as at Dec 2022)  
+**Variables**: `title`, `ranking`, `movie_url`, `movie_country`, `ratings`, `num_watchers`, `synopsis`, `duration`, `tags`, `genres`, `cast_list`   
+**Mode of data collection**: Web scraping  
+**Source**: [MyDramaList](https://mydramalist.com/movies/top?page=1)  
 
 **Dataset**: passport.csv  
 **Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries   
