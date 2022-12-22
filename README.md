@@ -106,7 +106,7 @@ List of datasets along with descriptions
 **Dataset**: mydramalisttop.csv  
 **Description**: Top rated movies from MyDramaList (as at Dec 2022)  
 **Variables**: `title`, `ranking`, `movie_url`, `movie_country`, `ratings`, `num_watchers`, `synopsis`, `duration`, `tags`, `genres`, `cast_list`   
-**Mode of data collection**: Web scraping  
+**Mode of data collection**: Web scraping (Note: Data requires cleaning)  
 **Source**: [MyDramaList](https://mydramalist.com/movies/top?page=1)  
 
 **Dataset**: passport.csv  
@@ -117,7 +117,7 @@ List of datasets along with descriptions
 
 **Dataset**: pokemon.csv  
 **Description**: Pokemon and their attack and defense statistics  
-**Variables**: `HP`, `Attack`, `Defense`, `Sp Atk`, `Sp Def`, `Speed`, `Total`, `	HP Percentile`, `Attack Percentile`,  `Defense Percentile`, `Sp Atk Percentile`, `Sp Def Percentile`, `Speed Percentile`, `Total Percentile`  
+**Variables**: `HP`, `Attack`, `Defense`, `Sp Atk`, `Sp Def`, `Speed`, `Total`, `HP Percentile`, `Attack Percentile`,  `Defense Percentile`, `Sp Atk Percentile`, `Sp Def Percentile`, `Speed Percentile`, `Total Percentile`  
 **Mode of data collection**: Manual, Excel function for percentile ranking  
 **Source**: [Pokemon database](https://pokemondb.net/pokedex/all)  
 
