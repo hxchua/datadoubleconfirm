@@ -103,11 +103,17 @@ List of datasets along with descriptions
 **Mode of data collection**: Public dataset, Coordinate conversion web scraping  
 **Source**: [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html), [OneMap Singapore](https://docs.onemap.sg/#3414-svy21-to-3857)  
 
+**Dataset**: mydramalistactors_tocsv.csv  
+**Description**: Top rated actors from MyDramaList (as at Dec 2022)  
+**Variables**: `person`, `ranking`, `likes_num`, `nationality`, `gender`, `dob`, `title`, `title_info`, `title_ratings`        
+**Mode of data collection**: Web scraping (slightly over 2000 records scraped)        
+**Source**: [MyDramaList](https://mydramalist.com/movies/top?page=1)  
+
 **Dataset**: mydramalisttop.csv  
 **Description**: Top rated movies from MyDramaList (as at Dec 2022)  
 **Variables**: `title`, `ranking`, `movie_url`, `movie_country`, `ratings`, `num_watchers`, `synopsis`, `duration`, `tags`, `genres`, `cast_list`   
-**Mode of data collection**: Web scraping (Note: Data requires cleaning)  
-**Source**: [MyDramaList](https://mydramalist.com/movies/top?page=1)  
+**Mode of data collection**: Web scraping (all 5000 records scraped) (Note: Data requires cleaning)  
+**Source**: [MyDramaList](https://mydramalist.com/people/top?page=1)  
 
 **Dataset**: passport.csv  
 **Description**: Top 10 Passports (in the 2017 Global Passport Power Rank) and their visa requirements to other countries   
