@@ -254,6 +254,9 @@ List of notebooks along with descriptions
 **Notebook**: SingStat API.ipynb  
 **Description**: Python code for calling data from SingStat Table Builder/ Singapore Department of Statistics using the [API function](https://www.tablebuilder.singstat.gov.sg/publicfacing/initApiList.action)      
 
+**Notebook**: ssg-api.ipynb  
+**Description**: Python code for calling data from SkillsFuture Singapore using their [API](https://developer.ssg-wsg.gov.sg/webapp/api-discovery)    
+
 **Notebook**: Statistical tests.ipynb  
 **Description**: R code for performing various types of two-sample tests and correlation checks  
 
