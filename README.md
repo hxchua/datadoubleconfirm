@@ -233,6 +233,9 @@ List of notebooks along with descriptions
 **Notebook**: lta_tweets.ipynb  
 **Description**: Python code for working with text and datetime data from [LTATrafficNews](https://twitter.com/ltatrafficnews?lang=en) tweets (between 12-Dec-2019 and 29-Dec-2019)       
 
+**Notebook**: mas-api.ipynb  
+**Description**: Python code for calling data from Monetary Authority of Singapore's [API](https://secure.mas.gov.sg/api/APIDescPage.aspx?resource_id=5f2b18a8-0883-4769-a635-879c63d3caac)    
+
 **Notebook**: mohcovid.ipynb    
 **Description**: Python code for scraping updates on COVID-19 local situation (Singapore) on Ministry of Health's [website](https://www.moh.gov.sg/covid-19/past-updates) since January and an [interactive visualization](https://nbviewer.jupyter.org/github/hxchua/datadoubleconfirm/blob/master/notebooks/mohcovid.html) created using Plotly (download/run the notebook locally to view it) with some static charts created using Seaborn  
 
