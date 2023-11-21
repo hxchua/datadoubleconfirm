@@ -191,6 +191,9 @@ List of notebooks along with descriptions
 **Notebook**: bookdepository.ipynb  
 **Description**: Python code for scraping bookdepository.com bestsellers information  
 
+**Notebook**: chopesg.ipynb  
+**Description**: Python code for scraping 100 best restaurants in Singapore published by [chope.co](https://www.chope.co/singapore-restaurants/pages/100-best-restaurants-singapore?lang=en_US)    
+
 **Notebook**: covid_public_places_2021.ipynb  
 **Description**: Python code for webscraping, cleaning, processing and updating of the [Public Places Visited by Singapore Covid-19 Cases dataset](https://data.world/hxchua/public-places-visited-in-singapore-by-covid-19-cases) using BeautifulSoup, pdfplumber and Google Sheets API. It updates the dataset by comparing the previous day's PDF with the current day's published by [Ministry of Health Singapore](https://www.moh.gov.sg/covid-19), and adding the newly added places to the existing dataset.  
 
