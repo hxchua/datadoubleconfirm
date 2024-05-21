@@ -272,6 +272,9 @@ List of notebooks along with descriptions
 **Notebook**: table.ipynb  
 **Description**: Python code for scraping table data from a website. Here we scrape price and description information of vaccinations offered by Minmed in Singapore from [Minmed](https://minmed.sg/vaccinations/)  
 
+**Notebook**: traffic_updates.ipynb  
+**Description**: Python code for scraping Traffic Updates data from [LTA One Monitoring](https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/traffic_information/traffic_updates_and_road_closures.html?type=tc)   
+
 **Notebook**: Text Frequency Analysis.ipynb  
 **Description**: R code for getting frequency distribution of words in a chunk of text  
 
