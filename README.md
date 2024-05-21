@@ -257,6 +257,9 @@ List of notebooks along with descriptions
 **Notebook**: seleniummrt.ipynb  
 **Description**: Python code for scraping time and fare information between train stations in Singapore from [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)    
 
+**Notebook**: singapore_latlon.ipynb  
+**Description**: Python code for getting data on latitude and longitude based on road name in Singapore using [OneMap API](https://www.onemap.gov.sg/apidocs/)    
+
 **Notebook**: SingStat API.ipynb  
 **Description**: Python code for calling data from SingStat Table Builder/ Singapore Department of Statistics using the [API function](https://www.tablebuilder.singstat.gov.sg/publicfacing/initApiList.action)      
 
