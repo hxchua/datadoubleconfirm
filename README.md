@@ -10,25 +10,25 @@ List of datasets along with descriptions
 **Dataset**: akcdogs.csv  
 **Description**: Cleaned data on dog breeds scraped from akc.org (as at 17 Jan 2018)  
 **Variables**: `Breed` , `Trait1`, `Trait2`, `Trait3`, `Energy level`, `Size`, `Rank`, `Good with Children`, `Good with other Dogs`, `Shedding`, `Grooming`, `Trainability`, `Height`, `Weight`, `Life expectancy`, `Barking level`, `Group`             
-**Mode of data collection**: Web scraping    
+**Mode of data collection**: Webscraping    
 **Source**: [American Kennel Club](http://www.akc.org/content/news/articles/most-popular-dog-breeds-full-ranking-list/?button)  
 
 **Dataset**: arrivals2018.csv  
 **Description**: Top 20 cities based on 2017 arrivals and 2018 estimates  
 **Variables**: `rank` , `city`, `country`, `arrivals_2017` (actual arrival count for 2017), `arrivals_2018` (estimated arrival count for 2018)             
-**Mode of data collection**: Web scraping    
+**Mode of data collection**: Webscraping    
 **Source**: [Most visited: World's top cities for tourism](http://edition.cnn.com/travel/article/most-visited-cities-euromonitor-2018/index.html)  
 
 **Dataset**: bookdepo.csv  
 **Description**: Raw data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)  
 **Variables**: `(blank)` (row index number) , `name` (book title), `material` (book material), `author` (author), `rank` (bestsellers rank), `maincat` (main category), `subcat` (sub category), `rating` (rating by readers), `ratingcount` (number of readers who gave ratings), `saleprice` (discounted price in S$), `listprice` (original price in S$), `numofpages` (number of pages), `datepub` (date published), `isbn13` (ISBN13 number)          
-**Mode of data collection**: Web scraping    
+**Mode of data collection**: Webscraping    
 **Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
 
 **Dataset**: bookdepobest.csv  
 **Description**: Cleaned data on bestsellers scraped from bookdepository.com (as at 11 Jan 2018)  
 **Variables**: `SN`, `name`, `rank`, `maincat`, `subcat`, `rating`, `saleprice`, `listprice`, `datepub`, `isbn13`, `GoodreadsRateCount`, `BookMaterial`, `Author(s)`, `PageCount`        
-**Mode of data collection**: Web scraping    
+**Mode of data collection**: Webscraping    
 **Source**: [Book Depository](https://www.bookdepository.com/bestsellers)  
 
 **Dataset**: Class1.csv  
@@ -46,13 +46,13 @@ List of datasets along with descriptions
 **Dataset**: covid19_sg.csv  
 **Description**: Covid-19 case time series data in Singapore (more details [here](https://data.world/hxchua/covid-19-singapore))// Data is contributed to https://github.com/neherlab/covid19_scenarios          
 **Variables**: `Date`,	`Daily_Confirmed_`, `False_Positives_Found`, `Cumulative_Confirmed`, `Daily_Discharged`, `Passed_but_not_due_to_COVID`,	`Cumulative_Discharged`, `Discharged_to_Isolation`, `Still_Hospitalised`, `Daily_Deaths`, `Cumulative_Deaths`, `Tested_positive_demise`, `Daily_Imported`,	`Daily_Local_transmission`, `Local_cases_residing_in_dorms_MOH_report`,	`Local_cases_not_residing_in_doms_MOH_report`,	`Intensive_Care_Unit_(ICU)`, `General_Wards_MOH_report`, `In_Isolation_MOH_report`,	`Total_Completed_Isolation_MOH_report`, `Total_Hospital_Discharged_MOH_report`, `Linked_community_cases`, `Unlinked_community_cases`, `Phase`, `Cumulative_Vaccine_Doses`, `Cumulative_Individuals_Vaccinated`, `Cumulative_Individuals_Vaccination_Completed`  
-**Mode of data collection**: Manual/ Web scraping   
+**Mode of data collection**: Manual/ Webscraping   
 **Source**: [Ministry of Health](https://www.moh.gov.sg/covid-19)  
 
 **Dataset**: datagovscraped_stacked.csv  
 **Description**: List of datasets available on data.gov.sg as at 2 Sep 2022          
 **Variables**: `title`,	`link`, `org`, `description`, `last_updated`, `created`,	`format`, `coverage`, `licence`    
-**Mode of data collection**: Web scraping   
+**Mode of data collection**: Webscraping   
 **Source**: [Data.gov.sg](https://data.gov.sg/)  
 
 **Dataset**: DisneySongs25.csv  
@@ -64,19 +64,19 @@ List of datasets along with descriptions
 **Dataset**: emojis.csv  
 **Description**: names and descriptions of emojis   
 **Variables**: `id` (number to identify unique emoji in dataset), `index` (running number in dataset), `name` (name of emoji), `desc` (description/ alternative names)          
-**Mode of data collection**: Web scraping   
+**Mode of data collection**: Webscraping   
 **Source**: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)    
 
 **Dataset**: FreqWordsObama.csv  
 **Description**: Frequently mentioned words in Barack Obama's tweets between 2007 and 2017 (as at 12 Dec 2017)  
 **Variables**: `Year` (year of tweet), `Word` (frequently mentioned word), `Count` (number of tweets containing word), `Year Volume` (volume of tweet in the year), `Percentage` (percentage of tweets containing word)         
-**Mode of data collection**: Twitter web scraping and text mining      
+**Mode of data collection**: Twitter webscraping and text mining      
 **Source**: [Barack Obama's Twitter account](https://twitter.com/barackobama)    
 
 **Dataset**: GovSG.csv  
 **Description**: Addresses with GIS location and contact information of Ministries and Statutory Boards in Singapore  
 **Variables**: `Organisation`, `Type` (Ministry/ Statutory Board), `Zipcode`, `Latitude`, `Longitude`, `Website`, `Tel`, `Fax`, `Email`, `Enquiry/ Feedback Form` (url), `Parent Ministry` (Statutory Boards under respective Ministries)       
-**Mode of data collection**: Web scraping, Manual, Tableau-generated latitude/longitude based on Zipcode  
+**Mode of data collection**: Webscraping, Manual, Tableau-generated latitude/longitude based on Zipcode  
 **Source**: [Singapore Government Directory](https://www.gov.sg/sgdi/statutory-boards), [The Public Service | Careers@Gov](https://www.careers.gov.sg/build-your-career/career-toolkit/public-agencies)   
 
 **Dataset**: gov-sg-terms-translations.tsv  
@@ -94,7 +94,7 @@ List of datasets along with descriptions
 **Dataset**: mrtfaretime.csv  
 **Description**: Travel time and fare information between train (MRT/LRT) stations in Singapore (as at Oct 2018)  
 **Variables**: `Station_start` (Boarding station), `Station_end` (Alighting station), `Time` (Travel time in mins), `Adult` (Adult fare), `Senior` (Fare for Seniors and Persons with Disabilities), `Standard` (Fare for Standard Ticket), `Student` (Student fare), `WTCS` (Fare under Workfare Transport Concession Scheme), `REF_STNSTART`, `Latitude_Start`, `Longitude_Start`, `REF_STNEND`, `Latitude_End`, `Longitude_End`      
-**Mode of data collection**: Web scraping  
+**Mode of data collection**: Webscraping  
 **Source**: [TransitLink Electronic Guide](https://www.transitlink.com.sg/eservice/eguide/rail_idx.php)  
 
 **Dataset**: mrtsg.csv  
@@ -106,7 +106,7 @@ List of datasets along with descriptions
 **Dataset**: mydramalistactors_tocsv.csv  
 **Description**: Top rated actors from MyDramaList (as at Dec 2022)  
 **Variables**: `person`, `ranking`, `likes_num`, `nationality`, `gender`, `dob`, `title`, `title_info`, `title_ratings`        
-**Mode of data collection**: Web scraping (slightly over 2000 records scraped)        
+**Mode of data collection**: Webscraping (slightly over 2000 records scraped)        
 **Source**: [MyDramaList](https://mydramalist.com/people/top?page=1)  
 
 **Dataset**: mydramalisttop.csv  
@@ -142,13 +142,13 @@ List of datasets along with descriptions
 **Dataset**: secsch_cleaned.csv  
 **Description**: Locations of Secondary schools in Singapore and their 2017 PSLE cut-off scores   
 **Variables**: `row` (row number), `SCHNAME` (name of school in upper case), `zipcode`, `area`, `zone`, `type`, `latitude`, `longitude`, `School` (name of school for PSLE cut-off scores as matching key), `Rank2017`, `IB`, `IP`, `SAP`, `Girls`, `Boys`, `Co-ed`, `O-level track` (PSLE cut-off score for O-level track), `PSLE2017 Cut Off`, `Gender Mix`  
-**Mode of data collection**: Web scraping, Tableau-generated latitude/longitude based on zipcode, Manual    
+**Mode of data collection**: Webscraping, Tableau-generated latitude/longitude based on zipcode, Manual    
 **Source**: [School Information Service - MOE](http://sis.moe.gov.sg/SchoolDirectory.aspx), [Salary.sg](https://www.salary.sg/2017/secondary-school-ranking-based-on-cut-off-for-2017-intake/)  
 
 **Dataset**: seedly_sal.csv  
 **Description**: Annual base salaries ($'000) for different roles in various industries in Singapore (as at Jan 2020)    
 **Variables**: `Industry`, `Role`, `Minimum`, `Median`, `Maximum`  
-**Mode of data collection**: Web scraping     
+**Mode of data collection**: Webscraping     
 **Source**: ["The Ultimate Salary Guide For Singaporeans" on Seedly](https://blog.seedly.sg/salary-guide-singapore/)  
 
 **Dataset**: tfresults02.csv  
@@ -180,6 +180,12 @@ List of datasets along with descriptions
 **Variables**: `waste_type`, `waste_disposed_of_tonne`, `total_waste_recycled_tonne`, `total_waste_general_tonne`, `recycling_rate`, `year`    
 **Mode of data collection**: Manual (Consolidated data in CSV format from PDF and website)     
 **Source**: [National Environment Agency](https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling)   
+
+**Dataset**: weather_copy_stacked.csv  
+**Description**: 5.5 years of data from 2019 to 2024 Jun on historical daily records of weather information for five randomly selected locations in Singapore  
+**Variables**: `Date`, `Daily Rainfall Total (mm)`, `Highest 30-min Rainfall (mm)`, `Highest 60-min Rainfall (mm)`, `Highest 120-min Rainfall (mm)`, `Mean Temperature (°C)`, `Maximum Temperature (°C)`, `Minimum Temperature (°C)`, `Mean Wind Speed (km/h)`, `Max Wind Speed (km/h)`, `year`, `Station`    
+**Mode of data collection**: Webscraping, Manual (Consolidated data in CSV format from website)     
+**Source**: [Meteorological Service Singapore](http://www.weather.gov.sg/climate-historical-daily/)   
 
 
 List of notebooks along with descriptions
