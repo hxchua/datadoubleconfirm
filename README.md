@@ -176,7 +176,7 @@ List of datasets along with descriptions
 **Source**: [Minmed](https://minmed.sg/vaccinations/)   
 
 **Dataset**: wastestats.csv  
-**Description**: 15 years of data from 2003 to 2017 on waste management and recycling statistics (Waste type is inconsistently named across years. eg. C&D should refer to construction debris, and some categories are capitalized in some years but not others)      
+**Description**: 15 years of data from 2003 to 2017 on waste management and recycling statistics (Waste type is inconsistently named across years. eg. C&D should refer to construction debris, and some categories are capitalized in some years but not others). Data from 2018 onwards can be found [here](https://docs.google.com/spreadsheets/d/16UAIFAf8VOofESzb2R9DGhbuqq2GvWjVNxDmHQCKJrk/edit?usp=sharing) (Note: Data requires cleaning.)        
 **Variables**: `waste_type`, `waste_disposed_of_tonne`, `total_waste_recycled_tonne`, `total_waste_general_tonne`, `recycling_rate`, `year`    
 **Mode of data collection**: Manual (Consolidated data in CSV format from PDF and website)     
 **Source**: [National Environment Agency](https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling)   
