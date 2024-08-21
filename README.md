@@ -221,6 +221,9 @@ List of notebooks along with descriptions
 **Notebook**: Data Cleaning in R.ipynb  
 **Description**: R code for performing various data cleaning tasks    
 
+**Notebook**: datagovsg.ipynb  
+**Description**: Python code for performing a API query for a dataset from data.gov.sg and converting the output to a pandas dataframe   
+
 **Notebook**: engineeringjobs.ipynb  
 **Description**: Python code for scraping information relating to engineering job openings in Singapore on a government portal as at 31 Jul 2020 using selenium and BeautifulSoup 
 
