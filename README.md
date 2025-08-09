@@ -181,6 +181,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Manual (Consolidated data in CSV format from PDF and website)     
 **Source**: [National Environment Agency](https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling)   
 
+**Dataset**: weather_copy_prepared.csv  
+**Description**: 6 years of data from 1 Jan 2019 to 31 Dec 2024 on historical daily records of weather information for five randomly selected locations in Singapore  
+**Variables**: `year`, `month`, `day`, `station`, `daily_rainfall_total__mm_`, `rain,highest_30_min_rainfall__mm_`, `highest_60_min_rainfall__mm_`, `highest_120_min_rainfall__mm_`, `mean_temperature___c_`, `maximum_temperature___c_`, `minimum_temperature___c_`, `delta,mean_wind_speed__km_h_`, `max_wind_speed__km_h_`, `date_parsed`  
+**Mode of data collection**: Webscraping, Manual (Consolidated data in CSV format from website), Data cleaning         
+**Source**: [Meteorological Service Singapore](http://www.weather.gov.sg/climate-historical-daily/)   
+
 **Dataset**: weather_copy_stacked.csv  
 **Description**: 5.5 years of data from 2019 to 2024 Jun on historical daily records of weather information for five randomly selected locations in Singapore  
 **Variables**: `Date`, `Daily Rainfall Total (mm)`, `Highest 30-min Rainfall (mm)`, `Highest 60-min Rainfall (mm)`, `Highest 120-min Rainfall (mm)`, `Mean Temperature (°C)`, `Maximum Temperature (°C)`, `Minimum Temperature (°C)`, `Mean Wind Speed (km/h)`, `Max Wind Speed (km/h)`, `year`, `Station`    
