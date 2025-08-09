@@ -151,6 +151,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Webscraping     
 **Source**: ["The Ultimate Salary Guide For Singaporeans" on Seedly](https://blog.seedly.sg/salary-guide-singapore/)  
 
+**Dataset**: SG_PostalCode_LatLon.csv  
+**Description**: Latitude and Longitude of Postal Codes in Singapore   
+**Variables**: `Country_Code`, `Zipcode`, `Road_Name`, `Latitude`, `Longitude`, `geopoint`  
+**Mode of data collection**: Direct download and data cleaning       
+**Source**: https://www.geonames.org/postal-codes/     
+
 **Dataset**: tfresults02.csv  
 **Description**: Results of 100m and 200m national track-and-field finals for "A" division boys and girls between 2002 and 2016    
 **Variables**: `Year`, `Event`, `Division`, `Gender`, `School`, `Name`, `Position`, `Timing (in s)`  
