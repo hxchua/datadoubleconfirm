@@ -169,6 +169,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Webscraping  
 **Source**: [UNESCO World Heritage Centre - World Heritage List](https://whc.unesco.org/en/list/), more data can be downloaded [here](https://whc.unesco.org/en/syndication).    
 
+**Dataset**: unigradsg.csv  
+**Description**: Graduates From University First Degree Courses By Type Of Course And Sex in Singapore: 1993-2023      
+**Variables**: Column names are in the first row of the file and require data cleaning to make them headers.    
+**Mode of data collection**: Manual download and removal of unnecessary information at the top and bottom rows of the file  
+**Source**: [Department of Statistics Singapore](https://tablebuilder.singstat.gov.sg/table/TS/M850511)   
+
 **Dataset**: usunirankings.csv  
 **Description**: Average U.S. News Rankings for 123 Universities: 2013-2020      
 **Variables**: `school`, `rank_2013`, `rank_2014`, `rank_2015`, `rank_2016`, `rank_2017`, `rank_2018`, `rank_2019`, `rank_2020`,  `avg_rank`, `chg` (change between 2013 and 2020)    
