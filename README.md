@@ -248,6 +248,9 @@ List of notebooks along with descriptions
 **Notebook**: emojis.ipynb  
 **Description**: Python code for scraping [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) information   
 
+**Notebook**: githubraw.ipynb  
+**Description**: Python code for reading raw dataset hosted on Github and for performing various data transformations to achieve clean data for dataset relating to Graduates From University First Degree Courses By Type Of Course And Sex in Singapore published by [SingStat](https://tablebuilder.singstat.gov.sg/table/TS/M850511) and made available in this [repo](https://github.com/hxchua/datadoubleconfirm/blob/master/datasets/unigradsg.csv)    
+
 **Notebook**: Gov.sg Translations.ipynb  
 **Description**: Python code for scraping Official English-Mandarin translations of Singapore Government Terms from [Government Terms Translated](https://www.gov.sg/resources/translation)      
 
@@ -286,6 +289,9 @@ List of notebooks along with descriptions
 
 **Notebook**: singapore_latlon.ipynb  
 **Description**: Python code for getting data on latitude and longitude based on road name in Singapore using [OneMap API](https://www.onemap.gov.sg/apidocs/)    
+
+**Notebook**: SingStat API 2025.ipynb  
+**Description**: Python code for calling data from SingStat Table Builder/ Singapore Department of Statistics using the [API function](https://tablebuilder.singstat.gov.sg/view-api/for-developers). This notebook is meant to update a notebook published a few years ago (see item below) as things have changed.         
 
 **Notebook**: SingStat API.ipynb  
 **Description**: Python code for calling data from SingStat Table Builder/ Singapore Department of Statistics using the [API function](https://www.tablebuilder.singstat.gov.sg/publicfacing/initApiList.action)      
