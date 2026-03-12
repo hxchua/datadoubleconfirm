@@ -139,6 +139,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Public data, Web scraping, Tableau-generated latitude/longitude based on Postal code  
 **Source**: [Wikipedia](https://en.wikipedia.org/wiki/Primary_schools_in_Singapore), [School Information Service - MOE](http://sis.moe.gov.sg/SchoolDirectory.aspx), [Salary.sg](http://www.salary.sg/2017/best-primary-schools-2017/)  
 
+**Dataset**: PT_Ridership_Monthly.csv  
+**Description**: Average Public Transport Ridership By Month (2019 to 2025) in Singapore: Average Daily Ridership (‘000)   
+**Variables**: `Month`, `Public Bus`, 'MRT', 'LRT', 'source_page'  
+**Mode of data collection**: Public data, Web scraping 
+**Source**: [Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/statistics.html)   
+
 **Dataset**: secsch_cleaned.csv  
 **Description**: Locations of Secondary schools in Singapore and their 2017 PSLE cut-off scores   
 **Variables**: `row` (row number), `SCHNAME` (name of school in upper case), `zipcode`, `area`, `zone`, `type`, `latitude`, `longitude`, `School` (name of school for PSLE cut-off scores as matching key), `Rank2017`, `IB`, `IP`, `SAP`, `Girls`, `Boys`, `Co-ed`, `O-level track` (PSLE cut-off score for O-level track), `PSLE2017 Cut Off`, `Gender Mix`  
