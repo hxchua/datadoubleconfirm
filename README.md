@@ -142,7 +142,7 @@ List of datasets along with descriptions
 **Dataset**: PT_Ridership_Monthly.csv  
 **Description**: Average Public Transport Ridership By Month (2019 to 2025) in Singapore: Average Daily Ridership (‘000)   
 **Variables**: `Month`, `Public Bus`, 'MRT', 'LRT', 'source_page'  
-**Mode of data collection**: Public data, Web scraping 
+**Mode of data collection**: Public data, Web scraping   
 **Source**: [Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/who_we_are/statistics_and_publications/statistics.html)   
 
 **Dataset**: secsch_cleaned.csv  
