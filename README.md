@@ -91,6 +91,12 @@ List of datasets along with descriptions
 **Mode of data collection**: Webscraping  
 **Source**: [Best and Worst Singapore Hawker Chinese Food: Dim Sum, Char Kway Teow and More](https://www.healthxchange.sg/food-nutrition/food-tips/best-worst-singapore-hawker-chinese-food-dim-sum-char-kway-teow),[Best and Worst Singapore Hawker Malay Breakfast Foods: Nasi Lemak, Mee Siam, Soto and More](https://www.healthxchange.sg/food-nutrition/food-tips/best-worst-singapore-hawker-malay-breakfast-foods-nasi-lemak-mee-siam-soto), [Best and Worst Singapore Hawker Indian Breads: Prata, Mutton Murtabak and More](https://www.healthxchange.sg/food-nutrition/food-tips/best-worst-singapore-hawker-indian-breads-prata-mutton-murtabak) 
 
+**Dataset**: LiveBirths.csv  
+**Descriptions**: Live Births in Singapore from 1960 to 2025  
+**Variables**: `year`,	`Total Live-births`,	`% change`,	`zodiac`,	`lag-12`,	`diff-12`,	`Resident Live-births`,	`Residents abs change`, 	`Year Primary 1`,	`Total Fertility Rate`,	`Notes`  
+**Mode of data collection**: Public dataset, data cleaning    
+**Source**: [Department of Statistics Singapore](https://tablebuilder.singstat.gov.sg/table/TS/M810091)
+
 **Dataset**: mrtfaretime.csv  
 **Description**: Travel time and fare information between train (MRT/LRT) stations in Singapore (as at Oct 2018)  
 **Variables**: `Station_start` (Boarding station), `Station_end` (Alighting station), `Time` (Travel time in mins), `Adult` (Adult fare), `Senior` (Fare for Seniors and Persons with Disabilities), `Standard` (Fare for Standard Ticket), `Student` (Student fare), `WTCS` (Fare under Workfare Transport Concession Scheme), `REF_STNSTART`, `Latitude_Start`, `Longitude_Start`, `REF_STNEND`, `Latitude_End`, `Longitude_End`      
